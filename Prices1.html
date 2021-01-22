@@ -1,3 +1,19 @@
+<!DOCTYPE html>
+<head>
+
+
+<!--The next three lines allow the Vega embed-->
+<script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
+</head>
+
+
+<body>
+
+<script>
+//Basicall all in JS now:
+
 var NL = d3.locale ({
   "decimal": ".",
   "thousands": ",",
@@ -12,9 +28,12 @@ var NL = d3.locale ({
   "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
   "shortMonths": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 })
+</script>
 
+<div id="chartPrices1">
 
-{
+<script>
+var chartPrices1 = {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
 
   "description": "UK CPI data visualisation",
@@ -69,11 +88,16 @@ var NL = d3.locale ({
       {"field": "name5", "type": "nominal", "title": "Item"},
       {"field": "startYear", "type": "quantitative", "title": "Start", "format": ".0f"},
       {"field": "endYear", "type": "quantitative", "title": "End", "format": ".0f"},
-      {"field": "p50_s", "type": "quantitative", "title": "Start price (£)", "format": ".2f"},
-      {"field": "p50_e", "type": "quantitative", "title": "End price (£)", "format": ".2f"},
+      {"field": "p50_s", "type": "quantitative", "title": "Start price (£)", "format": "$.2f"},
+      {"field": "p50_e", "type": "quantitative", "title": "End price (£)", "format": "$.2f"},
       {"field": "p_rise_50", "type": "quantitative", "title": "Price rise", "format": ".0%"},
       {"field": "change1_sh", "type": "quantitative", "title": "Price changes", "format": ".0%"},
       {"field": "n_obs", "type": "quantitative", "title": "Prices", "format":","}        
     ]
   }
-}
+};
+
+vegaEmbed('#chartPrices1', chartPrices1, {"actions": false});
+</script>
+</div>
+</body>
