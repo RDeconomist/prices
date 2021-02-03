@@ -1,4 +1,4 @@
-quote_date,item_id,name,date,median,price,p,keep,date2,date3,_merge
+quote_date,item_id,name,date,median,price,p,keep,date2,newDate,_merge
 199002,220107,A. Pub Meal,25,2.4854167,10,1.7333333,1,01-02-1990,01-02-1990,matched (3)
 199002,220107,A. Pub Meal,25,2.4854167,1020,.24583328,1,01-02-1990,01-02-1990,matched (3)
 199002,220107,A. Pub Meal,25,2.4854167,2030,.12916672,1,01-02-1990,01-02-1990,matched (3)
