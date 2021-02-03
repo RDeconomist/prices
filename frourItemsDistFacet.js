@@ -1,3 +1,5 @@
+var chartFacet1 =
+
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   
@@ -55,3 +57,7 @@
 
   "resolve": {"scale": {"y": "independent"}}
 }
+
+;
+
+vegaEmbed('#chartFacet1', chartFacet1, {"actions":false});
