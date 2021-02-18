@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<!--To allow embed in my web page-->
+
+<head>
+<!--The next three lines allow the Vega embed-->
+<script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
+</head>
+
+
+<body>
+<!--Set the Div that the chart is going in-->
+
+<div id="pricesByRegion" 
+style=
+  "background-color: white;
+  padding: 5px;
+  border-radius: 20px;
+  border-style:solid;
+  border-width: 2px;
+  border-color:#707070;
+  width: fit-content">
+
+<!--Now the JavaScript for the chart-->
+<script>
+var pricesByRegion = {
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+
+  "data": {"url": "https://raw.githubusercontent.com/RDeconomist/prices/master/dbPricesByRegion.csv"},
+  
+  "width": 400,
+  
+  "height": 350,
+ 
+  "encoding": {"x": {"field": "date", "type": "temporal", "title":null}},
+ 
+  "layer": [
+    {
+      "encoding": {
+        "color": {"field": "region", "type": "nominal", "title":"Region"},
+        "y": {"field": "prices", "type": "quantitative", "title":"Number of Prices"}},
+        "layer": [
+        {"mark": "line"},
+        {"transform": [{"filter": {"selection": "hover"}}], "mark": "point"}
+      ]
+    },
+    
+    {
+      "transform": [{"pivot": "region", "value": "prices", "groupby": ["date"]}],
+      "mark": "rule",
+      "encoding": {
+        "opacity": {
+          "condition": {"value": 0.3, "selection": "hover"},
+          "value": 0
+        },
+        "tooltip": [
+          {"field": "London", "type": "quantitative", "format": ",.0f"},
+          {"field": "East Anglia", "type": "quantitative", "format": ",.0f"},
+          {"field": "Northern Ireland", "type": "quantitative", "format": ",.0f"},
+          {"field": "East Midlands", "type": "quantitative", "format": ",.0f"},
+          {"field": "South East", "type": "quantitative", "format": ",.0f"},
+          {"field": "South West", "type": "quantitative", "format": ",.0f"},
+          {"field": "North", "type": "quantitative", "format": ",.0f"},
+          {"field": "South East", "type": "quantitative", "format": ",.0f"},
+          {"field": "West Midlands", "type": "quantitative", "format": ",.0f"},
+          {"field": "North West", "type": "quantitative", "format": ",.0f"},
+          {"field": "Scotland", "type": "quantitative", "format": ",.0f"},
+          {"field": "Wales", "type": "quantitative", "format": ",.0f"}
+        ]
+      },
+      "selection": {
+        "hover": {
+          "type": "single",
+          "fields": ["date"],
+          "nearest": true,
+          "on": "mouseover",
+          "empty": "none",
+          "clear": "mouseout"
+        }
+      }
+    }
+  ]
+}
+
+vegaEmbed('#pricesByRegion', pricesByRegion, {"actions": false});
+</script>
+</div>
+</body>
+</html>
