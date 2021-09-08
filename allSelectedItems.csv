@@ -1,4 +1,4 @@
-name,price,p,group,newDate
+itemName,price,p,group,newDate
 Lettuce,10,.68000001,1,1988-02-01
 Lettuce,1020,.0099999905,1,1988-02-01
 Lettuce,2030,0,1,1988-02-01

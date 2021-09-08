@@ -1,4 +1,4 @@
-name,price,p,group,newdate
+itemname,price,p,group,newdate
 Microwave,10,149.95,2,1988-02-01
 Microwave,1020,19.949997,2,1988-02-01
 Microwave,2030,10.090012,2,1988-02-01
