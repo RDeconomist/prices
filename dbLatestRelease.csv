@@ -1,603 +1,603 @@
-item_id,item_desc,p_up,p_down,p_level,obs,p_ch,p,p_r,up_sh,down_sh,upRank,downRank,name1,coicopname,sex,durability,goods_services
-210102,LARGE LOAF-WHITE-UNSLICED-800G,6,65,43,114,-.043062158,1.125,1.2017499,.052631579,.57017541,73,501,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210106,SIX BREAD ROLLS-WHITE/BROWN,12,75,63,150,-.016715806,.77499998,.77695,.079999998,.5,127,462.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210111,WHITE SLICED LOAF BRANDED 750G,40,64,47,151,0,1.1,1.0626,.26490065,.42384106,446,373,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210113,WHOLEMEAL SLICED LOAF BRANDED,50,47,51,148,0,.99000001,.99659997,.33783785,.31756756,520,221,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210114,CHILLED GARLIC BREAD,64,49,129,242,0,.93000001,.94367498,.2644628,.20247933,445,106,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210201,FLOUR-SELF-RAISING-1.5KG,70,10,69,149,.032481357,.60000002,.59990001,.46979865,.067114092,570,8,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210204,DRY SPAGHETTI OR PASTA 500G,29,93,122,244,0,.60000002,.62064999,.11885246,.38114753,199,320,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210211,CORN SNACK SINGLE PACK MAX 50G,45,28,57,130,0,.79500002,.84490001,.34615386,.21538462,524,113,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210212,BASMATI RICE 500G-1KG,26,55,68,149,0,1.6,1.682,.17449665,.36912751,309,303,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210213,BREAKFAST CEREAL 1,37,108,97,242,0,2.5999999,2.65625,.15289256,.44628099,266,400,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210214,BREAKFAST CEREAL 2,35,85,122,242,0,1.9,1.9,.14462809,.35123968,251,270,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210215,CEREAL BAR,65,28,150,243,0,.25999999,.25,.2674897,.11522634,450,34,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210216,HOT OAT CEREAL,39,89,116,244,0,1.75,1.75,.15983607,.36475411,282,294,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210217,RICE MICRO POUCH/TRAY 220-280G,32,33,180,245,0,.99000001,.99000001,.13061224,.13469388,226,48,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210218,"POPCORN, BAG, 10-30G",83,21,125,229,0,.30000001,.30000001,.36244541,.091703057,536,20,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210219,BREAKFAST CEREAL GLUTEN FREE,17,77,123,217,0,2,1.9854999,.078341015,.3548387,126,278,,,,,
-210301,CREAM CRACKERS PACK 200G-300G,35,30,86,151,0,1,1,.23178808,.1986755,392,102,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210302,PLAIN BISCUITS-200-300G,11,96,46,153,-.035679784,1,1,.071895428,.627451,112,522,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210319,DOUGHNUT-EACH,23,65,45,133,-.015748046,.25,.24349999,.17293233,.48872182,305,447,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210320,WHOLE SPONGE CAKE NOT FROZEN,24,42,84,150,0,1.5,1.5713251,.16,.28,283,172.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210321,PACK OF 5-6 INDIVIDUAL CAKES,19,72,48,139,-.083409712,1.6,1.6,.13669065,.51798558,235,475,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210323,BISCUITS HALF CHOC 260-400G,77,42,127,246,0,1,.94760001,.31300813,.17073171,500,77,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210324,CRUMPETS PACK 6-9 SPEC NUMBER,107,32,93,232,0,.80000001,.66079998,.46120688,.13793103,568,53.5,,,,,
-210403,HOME KILLED BEEF-LEAN MINCE KG,89,96,95,280,0,6.5999999,6.7502604,.31785715,.34285715,503,260,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210406,HOME KLD BEEF-RUMP/POPES STEAK,34,120,118,272,0,15.37,16.200901,.125,.44117647,211,392,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210414,FROZEN BEEFBURGERS PACK OF 4,30,30,80,140,0,2.49,2.1689999,.21428572,.21428572,361.5,111,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210416,BEEF ROASTING JOINT PER KG,51,81,121,253,0,10.5,10.78,.20158103,.32015809,342,224,,,,,
-210506,HK LAMB LOIN CHOP/STEAK PER KG,39,187,128,354,-.026763719,14.065001,14.644541,.11016949,.52824861,181,483,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210703,HOME KILLED PORK-LOIN CHOPS KG,46,77,138,261,0,6.5700002,6.6094203,.17624521,.29501915,311,190,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210802,BACON-GAMMON-PER KG,56,80,130,266,0,7,7.0425005,.21052632,.30075186,355,197.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210808,BACON-BACK-PER KG,97,78,105,280,0,7.1999998,7.8852,.34642857,.27857143,526,170,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210905,FRESH/CHILLED CHICKEN  PER KG,43,110,101,254,-.0019959586,2.77,2.8127899,.16929133,.43307087,300,379,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210910,FRESH BONELESS CHICKEN BREAST,62,94,111,267,0,6.5900002,6.5799999,.23220974,.35205993,394,273,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210913,ROTISSERIE CHICKEN [WHOLE],0,35,10,45,-.011857696,5,5.1101999,0,.77777779,5,548,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-210914,FRESH TURKEY DICED/MIN PER KG,4,39,30,73,-.039363038,7.0999999,7.1128001,.05479452,.53424656,79,487,,,,,
-211007,CANNED MEAT-STEWED STEAK,28,42,76,146,0,2.45,2.45,.19178082,.28767124,332,182,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211011,INDIVIDUAL MEAT PIE,43,93,131,267,0,1.5,1.5,.1610487,.34831461,284.5,267,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211014,SAUSAGES-PORK-PER KG,63,102,114,279,0,5.6100001,5.4432397,.22580644,.36559141,379,295,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211019,FROZ CHICKEN NUGGETS 220-600G,24,16,99,139,0,1.5,1.5,.17266187,.11510792,304,33,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211023,COOKED HAM PREPACKED SLICED,49,33,92,174,0,2.5,2.0825,.28160921,.18965517,464,94.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211024,CONTINENTAL SLICED DELI MEAT,30,27,117,174,0,2.0999999,2.0999999,.1724138,.15517241,303,61,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211025,JOINT OV/READ GAM/POR 450-900G,44,23,93,160,0,5,4.7725,.27500001,.14375,458,57,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211026,CHICKEN KIEV 2 PACK 240-325G,49,73,110,232,0,1.75,1.926,.2112069,.31465518,356,215,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211027,H K LIVER PER KG STATE TYPE,11,48,83,142,0,2.5,2.5,.077464789,.33802816,122,252,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211029,COOKED MEAT TURKEY/CHICK SLICE,73,115,165,353,0,1.75,1.75,.20679887,.32577905,351,233,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211030,MEAT BASED SNACK PACK MAX 400G,24,75,144,243,0,1.75,1.75,.098765433,.30864197,154,209,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211031,COOKED HAM LOOSE PER 100G,28,39,74,141,0,1.55,1.62352,.19858156,.27659574,337,168,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211101,FRESH WHITE FISH FILLETS KG,10,62,76,148,0,16.35,16.35,.067567565,.41891891,102.5,365.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211105,FRESH FISH-SALMON FILLETS-KG,90,25,35,150,.02880661,14.205,14.07789,.60000002,.16666667,585,71.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211106,FROZEN PRAWNS PER KG,35,31,106,172,0,14.785,13.72625,.20348836,.18023255,345,87,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211207,"CANNED FISH, TUNA, 130G-200G",33,75,38,146,-.011857647,.89999998,.95309997,.2260274,.51369864,381,470,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211210,FROZEN FISH FINGERS 8-12 PK,96,62,86,244,0,2.5,2.1386001,.39344263,.25409836,547,144.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211211,FROZEN BREAD/BAT FISH 400-550G,35,76,129,240,0,3.5,4,.14583333,.31666666,254,220,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211305,SPREADABLE BUTTER,73,95,76,244,0,3,3.25,.29918033,.38934427,486,328,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211306,BUTTER 250G SPEC COO,80,65,101,246,0,1.75,1.7,.32520324,.26422763,510,155,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211407,MARGARINE/LOW FAT SPREAD-500G,21,96,33,150,-.20760646,1.7249999,1.8907499,.14,.63999999,242,526,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211408,OLIVE OIL - 500ML - 1 LITRE,23,79,144,246,0,3.4000001,3.4000001,.093495935,.3211382,145,225,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211409,"PEANUT BUTTER, JAR, 225-350G",53,76,128,257,0,2,1.75,.20622568,.29571983,348,191,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211501,CHEDDAR-HOME PRODUCED PER KG,63,33,51,147,0,5.6300001,5.7287998,.42857143,.22448979,556,122,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211506,"CHEESE SPREAD, 125g-200g TUB",5,66,62,133,-.05033236,1.5,1.5,.037593983,.49624062,47.5,457,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211509,HARD REGIONAL CHEESE PER KG,55,26,66,147,0,7.0500002,6.8667002,.37414965,.17687075,541,82,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211510,PARMESAN CHEESE-PER KG,13,64,58,135,-.0009979778,17.5,17.622499,.096296296,.47407407,148,435,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211511,SOFT CONTINENTAL CHEESE - KG,58,54,129,241,0,8.5,8,.2406639,.22406639,416,121,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211602,EGGS-MEDIUM-PER DOZ OR 2 X 6,15,69,57,141,-.00099903438,1.8,1.9,.10638298,.4893617,175,448,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211603,EGGS-LARGE-PER DOZ OR 2 X 6,10,77,61,148,-.0049751196,2.25,2.25,.067567565,.52027029,102.5,478,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211709,SHOP MILK-WHOLE MILK-4PT/2LTR,65,97,84,246,0,1.15,1.15,.26422763,.39430895,444,334,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211710,MILK SEMI-PER 2 PINTS/1.136 L,36,41,72,149,0,.85000002,.84830004,.24161074,.27516779,417,167,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211713,"MILK FLAVOURED, 180-500MLS/GMS",37,31,158,226,0,1,1,.16371681,.13716814,291,52,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211714,NON-DAIRY MILK DRINK 900ML-1LT,41,126,78,245,-.053030252,1.4,1.4,.16734694,.51428574,298.5,471,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211807,"YOGHURT/FROMAGE 4-6PK, 45-125G",17,81,44,142,-.10071944,1.5,1.5,.11971831,.57042253,203,503,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211808,CHILLED POT DESSERT 125-200G,36,41,84,161,0,.68000001,.68000001,.22360249,.25465837,376,146,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211814,YOGHURT-SMALL INDIVIDUAL,35,28,88,151,0,.55000001,.56880003,.23178808,.18543047,392,91,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211815,FRESH DOUBLE CREAM 250ML-300ML,27,45,77,149,0,1.15,1.1528,.18120806,.30201343,315,199.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211816,POWDERED BABY FORMULA 400-900G,35,135,58,228,-.02534112,10.875,10.519469,.15350877,.59210527,267,512,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211901,TEA BAGS PKT OF 80 (230G-250G),24,46,81,151,0,2,2,.1589404,.30463576,277,202.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211904,TEA BAGS-2-PACKET OF 240,40,76,55,171,0,3.49,3.49,.23391813,.44444445,398,398,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211905,"FLAVRD TEA 15-20 BAGS, 30-40G",37,49,152,238,0,1.8,1.8,.15546219,.20588236,269,107,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212001,"FRUIT SQUASH, 750ML - 1.5LT",75,54,115,244,0,1.5,1.4972351,.30737704,.22131148,493,117,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212006,FRUIT JUICE NOT ORANGE 1L,38,48,64,150,0,.89999998,.90270007,.25333333,.31999999,431,223,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212008,LEMONADE-2 LITRE BOTTLE,62,14,72,148,0,.52499998,.50872499,.41891891,.094594598,552,22,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212010,MINERAL WATER STILL 1.5-2L,62,46,131,239,0,.5,.46991998,.25941423,.19246861,441,97,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212015,FIZZY ENERGY DRINK 250-500ML,29,76,54,159,-.0029910721,1.45,1.5,.18238993,.47798741,316,440,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212016,FRESH/CHILL ORANGE JUICE 900ML,50,45,57,152,0,2.3499999,2.4132001,.32894737,.29605263,515,192,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212017,FIZZY BOTTLED DRINK 500ML,54,72,25,151,-.0034855269,1.45,1.5022001,.35761589,.47682118,532,437,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212020,FRUIT DRINK BOTTLE 4-8 PACK,14,117,92,223,-.12510936,1.5,1.554,.062780268,.52466369,96,481,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212021,BOTTLE STILL WATER 500ML,69,25,142,236,0,.38,.36954999,.29237288,.10593221,481,29,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212022,MIXER DRINK BOTTLE 1L EG TONIC,45,41,158,244,0,1.4,1.4,.18442623,.16803278,320,73,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212023,COLA/FIZZY DRINK 330ML PK 4-8,63,88,74,225,0,3,3,.28,.39111111,462,329,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212024,FLAVOURED WATER BOTT 900ML-1.5,38,93,115,246,-.02723738,.5,.5,.15447155,.37804878,268,314,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212025,"COLA DRINK, REG,BOTTLE,1.25-2L",86,30,125,241,0,1.9,1.89,.35684648,.12448133,531,40,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212026,"COLA DRINK, DIET 1.25-2LTR",102,47,94,243,0,1.59,1.4535,.41975307,.19341564,553,99,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212101,SUGAR -GRANULATED-WHITE-PER KG,66,21,156,243,0,.69999999,.699,.27160493,.086419754,453.5,16,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212106,JAR OF JAM-340-454G,38,51,58,147,0,.85000002,.85000002,.25850341,.34693879,439,264,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212107,HONEY JAR/BOTTLE 340G-454G,41,116,88,245,-.0044736546,2.3499999,2.5097997,.16734694,.47346938,298.5,434,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212202,MINTS,32,24,86,142,0,.64999998,.65390003,.22535211,.16901408,378,74,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212211,CHOCOLATE 4,21,36,84,141,0,.69999999,.69999999,.14893617,.25531915,258,148,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212214,FRUIT PASTILLES 2,19,45,58,122,0,.64999998,.65015,.1557377,.36885247,270,301,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212217,CHEWING/BUBBLE GUM-SINGLE PK,15,70,57,142,-.014778311,.60000002,.60445499,.1056338,.49295774,174,453,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212218,CARTON/BOX OF CHOCS 150-400GM,23,37,61,121,0,4.5900002,4.79,.19008264,.30578512,328,204,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212222,CHOCOLATE 10,46,39,36,121,0,.69999999,.699,.38016528,.32231405,544,227,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212223,BRAND CHOC SWEETS 90-185G BAG,72,55,95,222,0,1,1.023,.32432431,.24774775,506,139,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212224,"SWEETS, NOT CHOC, 150-250G BAG",96,38,89,223,0,1,1,.43049327,.17040358,558,75,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212225,CHOCOLATE LARGE BAR 100-200G,98,36,89,223,0,1.5,1.1695499,.43946189,.16143498,561,65,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212226,CHOCOLATE 12,31,97,79,207,0,.60000002,.60060006,.14975846,.46859902,259,428,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212309,POTATOES-NEW-PER KG,210,201,136,547,0,1.3200001,1.2855,.38391224,.36745888,545,297,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212310,POTATOES- OLD WHITE PER KG,250,143,153,546,0,.47999999,.51350999,.45787546,.26190478,565,152,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212311,POTATOES- BAKING PR KG,91,241,162,494,-.012833195,.80000001,.80000001,.18421052,.48785424,319,446,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212402,POTATO CRISPS 25G-50G,15,161,78,254,-.023437552,.85000002,.89999998,.05905512,.63385826,91,524,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212404,POTATO CRISPS-MULTI-PACK,37,167,190,394,0,1.5,1.5,.09390863,.42385787,147,374,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212405,FROZEN CHIPS 900G-1.5KG,40,141,213,394,0,1.8499999,2.079,.10152284,.35786802,163,284,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212408,PREMIUM POTATO CRISPS/CHIPS,44,60,58,162,0,2,2,.27160493,.37037036,453.5,307,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212409,P'PARED MASHED POTATO 400-650G,134,60,168,362,0,1,.949,.37016574,.16574585,539,69,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212504,FRESH VEG-CAULIFLOWER-EACH,169,186,203,558,0,.89999998,.90542495,.30286738,.33333334,489,243.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212510,FRESH VEG-CUCUMBER-WHOLE,237,173,166,576,0,.55000001,.54120004,.41145834,.30034721,550,196,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212511,FRESH VEG-LETTUCE-ICEBERG-EACH,293,130,141,564,.018329917,.5,.43000001,.51950353,.23049645,575,125,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212515,FRESH VEG-TOMATOES-PER KG,325,94,126,545,.012145777,2.1800001,2.1712801,.59633029,.17247707,584,79,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212516,FRESH VEG-CABBAGE-WHOLE-PER KG,139,182,227,548,0,.75,.75,.25364962,.33211678,432,241,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212518,FRESH VEG-CARROTS-PER KG,208,252,96,556,0,.5,.55159998,.37410071,.45323741,540,408,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212519,FRESH VEG-ONIONS-PER KG,129,238,164,531,0,.85000002,.87294996,.24293785,.44821092,420,403,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212520,FRESH VEG-MUSHROOMS-PER KG,173,204,185,562,0,3.1700001,3.30336,.30782917,.36298934,494,292,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212527,PRE-PACKED SALAD 100-250G,47,14,97,158,0,1,1.12111,.29746836,.088607594,484,17,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212530,FRESH VEG-BROCCOLI-PER KG,237,198,112,547,0,1.88,1.88,.43327239,.36197442,559,288,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212531,FRESH VEG-COURGETTE-PER KG,264,131,165,560,.0080645382,2,2,.47142857,.23392858,571,131,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212532,FRESH VEG-PEPPERS -LOOSE OR KG,242,227,98,567,0,.5,.51216,.42680776,.40035275,555,338,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212533,VEGETABLE STIR FRY FRESH PACK,24,35,197,256,0,1.25,1.25,.09375,.13671875,146,51,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212535,SWEET POTATO PER KG OR EACH,295,149,200,644,0,1.1,1.1,.45807454,.23136646,566,128,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212601,CANNED TOMATOES 390-400G,36,322,39,397,-.12049247,.44999999,.50624996,.0906801,.81108314,139,550,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212603,"BAKED BEANS, 400-420G TIN",75,114,201,390,0,.85000002,.85000002,.1923077,.2923077,334,185,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212608,CANNED SWEETCORN 198-340G,16,189,75,280,-.033816356,.75,.80324996,.057142857,.67500001,82,534,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212609,FROZEN GARDEN PEAS 800G-1KG,79,51,161,291,0,1,1,.27147767,.17525773,452,81,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212709,ORANGES-CLASS 1-EACH,129,248,172,549,0,.38999999,.40052998,.23497267,.45173043,401,405,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212710,AVOCADO PEAR-EACH,162,297,100,559,-.033816408,.85000002,.91079998,.28980321,.53130591,475,485,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212712,KIWI FRUIT-EACH,85,284,165,534,-.031945802,.25,.26854998,.15917604,.5318352,278,486,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212715,GRAPEFRUIT-EACH,118,213,173,504,0,.5,.60000002,.23412699,.42261904,399,370,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212716,APPLES-COOKING-PER KG,29,123,223,375,-.0019960129,1.96,1.94805,.077333331,.32800001,121,235,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212717,APPLES-DESSERT-PER KG,55,218,164,437,-.081726387,1.99,2.1800001,.12585813,.49885583,213,459,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212718,PEARS-DESSERT-PER KG,61,200,203,464,-.025815602,1.99,2.2,.13146552,.43103448,228,376.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212719,BANANAS-PER KG,25,139,361,525,0,.79000002,.79000002,.047619049,.26476189,66,157,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212720,STRAWBERRIES PER KG OR PUNNET,389,59,41,489,.26582277,4.5,3.5090101,.79550099,.1206544,588,37,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212722,GRAPES-PER KG,199,167,184,550,0,4,4,.36181819,.30363637,535,201,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212725,SMALL TYPE ORANGES PER PACK/KG,124,263,100,487,-.021526353,2.25,2.4990001,.25462013,.54004109,433,491,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212726,PLUMS PER KG/PACK,172,189,169,530,0,2.2249999,2.32757,.32452831,.35660377,508,280,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212728,PINEAPPLE EACH,52,47,61,160,0,1,1,.32499999,.29374999,509,188,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212730,FRUIT FRESH SNACKING 150-350G,47,20,176,243,0,1.75,1.80075,.19341564,.08230453,335,12,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212731,MELON EACH EG HONEYDEW,141,24,72,237,.49925038,1,.667,.59493673,.10126583,583,24.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212732,LEMON EACH,173,212,258,643,0,.33000001,.33000001,.26905131,.32970452,451,239,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212733,BLUEBERRIES PUNNET OR PER KG,241,199,151,591,0,10,9.6730394,.40778342,.33671743,548,251,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212734,RASPBERRIES PUNNET OR PER KG,403,47,77,527,.14744733,10.6,9.1189995,.7647059,.089184061,587,18,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212806,PACKET OF PEANUTS 150-300G,17,134,145,296,0,1.25,1.3,.057432432,.4527027,84,406,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212807,CANNED FRUIT-400-450G,17,98,171,286,0,1,1,.059440561,.34265736,93,259,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212808,DRIED FRUIT - EG APRICOTS,81,109,183,373,0,2,2.04,.21715818,.29222521,364,184,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212905,VEGETABLE PICKLE 280-520G,73,130,96,299,0,1.55,1.6,.24414715,.43478259,424,382,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212910,CANNED SOUP-390-425G,6,56,90,152,0,.94999999,.94999999,.039473683,.36842105,56,299,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212917,TOMATO KETCHUP BOTTLE 340-570G,3,129,108,240,-.026763756,1.45,1.45,.0125,.53750002,18,489,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212918,FRZN READY-COOKD MEAL SERVES 1,20,43,84,147,0,1.59,1.5856,.13605443,.29251701,233,186,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212923,COOK-IN SAUCE-JAR/CAN 350-520G,35,74,42,151,-.0054676579,1.5,1.326,.23178808,.49006623,392,450,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212928,FROZ VEG BURGER/GRILL 180-454G,46,91,134,271,0,1.75,1.75,.16974169,.33579335,301,248,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212930,MAYONNAISE 390-500G/420-540MLS,78,39,126,243,0,1.5,1.4065601,.32098764,.16049382,504,64,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212933,ICE CREAM 450ML-1L,47,24,80,151,0,2,1.8725899,.31125829,.1589404,498,63,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212934,DRIED POTTED SNACK 50-120G,4,66,62,132,-.031945799,.94,1,.030303031,.5,37,462.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212936,CHILLED READY MEAL-MEAT-SERVS1,43,50,56,149,0,2.75,2.6950002,.28859061,.33557048,473,246,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212937,CHILLED READY MEAL-FISH/VEG,33,47,63,143,0,2.75,2.6500001,.23076923,.32867134,388.5,237,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212938,CHOCOLATE COVERED ICE CREAM,28,122,94,244,-.032249026,.69999999,.75,.1147541,.5,190,462.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212939,CHILLED PIZZA EACH 300-600G,108,44,80,232,0,3.29,2.9295001,.46551725,.18965517,569,94.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212940,PROTEIN POWDER 900G-2KG,67,142,75,284,-.025815625,23.610001,22,.2359155,.5,404,462.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212941,QUICHE 340G-450G,43,81,115,239,0,2.3,2.3,.17991632,.33891213,313,255,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-212942,VEGETABLE CRISPS PACK 80-125G,9,136,87,232,-.1266375,1.99,2.2962399,.038793102,.58620691,51,510,,,,,
-213003,COFFEE-INSTANT-100G JAR,71,62,111,244,0,2.6500001,2.41694,.29098362,.25409836,478,144.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-213005,HOT CHOCOLATE DRINK INSTANT,29,70,146,245,0,2.5,2.5,.11836734,.2857143,196,181,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-213006,COFFEE PODS PACK 8-16,41,45,87,173,0,3.5,3.7469997,.23699422,.26011559,408,151,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-220107,PUB -HOT MEAL,116,219,18,353,-.0069513447,8.9899998,9.0798998,.32861191,.62039661,514,518,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-220116,LEMONADE/COLA DRAUGHT,41,270,29,340,-.0049751587,1.97,1.9851,.12058824,.79411763,204,549,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-220117,BOTTLED MINERAL WATER,22,295,19,336,-.013806779,1.87,1.8386999,.065476194,.87797618,99,558,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-220120,IN STORE CAFETERIA MEAL,2,67,8,77,-.068033531,5.9499998,6.8695998,.025974026,.87012988,30,556,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-220121,RESTAURANT CUP OF COFFEE,28,312,28,368,-.035679787,2.4749999,2.5725002,.076086953,.84782606,119,553,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-220122,RESTAURANT - SWEET COURSE,33,348,19,400,-.043977041,5.75,5.9734745,.082500003,.87,130,555,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-220124,MUFFIN/INDIVIDUAL CAKE,18,215,15,248,-.03660883,2,2.036,.072580643,.86693549,114,554,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-220125,FRUIT JUICE BOTTLE 250-350ML,17,302,15,334,-.011857688,2.3249998,2.37115,.050898202,.90419161,68,562,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-220128,RESTAURANT MAIN COURSE,18,361,26,405,-.040307138,12.5,13.4162,.044444446,.89135802,62,559,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-220208,STAFF RESTAURNT HOT SNACK ITEM,12,38,2,52,-.0089196712,1.1099999,1.0089999,.23076923,.73076922,388.5,543,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-220209,PRIMARY SCHOOL- FIXED CHARGE,5,135,1,141,-.00099904882,2.3,2.3023,.035460994,.95744681,44,582,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-220210,SECONDARY SCHOOL- CAFETERIA,3,132,1,136,-.00099904998,2.4000001,2.4164,.022058824,.97058821,26,584,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-220214,STAFF RESTAURANT MAIN COURSE,3,39,9,51,-.036608823,1.7,1.7657499,.05882353,.7647059,90,547,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-220301,FISH & CHIPS TAKEAWAY,14,58,59,131,0,6.9499998,7,.10687023,.4427481,176,395,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-220303,SANDWICH-TAKE-AWAY (COLD),91,113,143,347,0,2.5999999,2.5558,.26224783,.32564843,443,232,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-220305,TEA -TAKE-AWAY,56,95,111,262,0,1.5,1.4992499,.21374045,.36259541,359,291,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-220310,POTATO CRISPS-INDIVIDUAL PACK,4,314,13,331,-.018645782,1,1.0190001,.012084592,.94864047,17,579,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-220316,PIZZA TAKEAWAY OR DELIVERED,24,26,79,129,0,7.9899998,7.9899998,.18604651,.20155039,323,105,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-220318,INDIAN TAKEAWAY,21,35,77,133,0,7.5999999,7.75,.15789473,.2631579,272,154,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-220319,CHINESE TAKEAWAY,25,42,66,133,0,5.8000002,5.8025999,.18796992,.31578946,327,217.5,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-220320,TAKEAWAY SOFT DRINK,116,117,109,342,0,1.49,1.4818,.33918127,.34210527,521,257,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-220321,TAKEAWAY COFFEE LATTE,28,150,76,254,-.014778298,2.5,2.6181998,.11023622,.5905512,182,511,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-220323,KEBAB- TAKEAWAY,19,39,73,131,0,5.5,5.5,.14503817,.29770991,252,193,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-220324,CINEMA POPCORN,1,94,0,95,-.027237339,5.3000002,5.4484,.010526316,.9894737,15,585,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-220325,VENDING MACHINE - SOFT DRINK,3,56,18,77,-.027237371,1.5,1.5554999,.038961038,.72727275,53,541,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-220326,TAKEAWAY CHICKEN & CHIPS,19,52,55,126,0,5.3000002,5.3783503,.15079366,.41269842,263,355,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-220327,T'AWAY COOKED SAVOURY PASTRY,31,92,126,249,0,1,1.024,.12449799,.3694779,210,306,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-220328,BURGER IN A BUN EAT IN OR TAKE,53,139,142,334,0,3.4450002,3.5,.15868263,.41616768,275,360,,,,,
-310102,DRAUGHT BITTER (PER PINT),34,272,18,324,-.016715817,3.1750002,3.2578499,.10493827,.83950615,171,551,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-310104,DRAUGHT STOUT PER PINT,6,340,11,357,-.016715782,4,4.04635,.016806724,.95238096,21,581,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-310109,LAGER - PINT 3.4-4.2%,10,337,16,363,-.017681751,3.55,3.6458497,.027548209,.92837465,33,574,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-310110,PREMIUM LAGER - PINT 4.3-7.5%,7,328,20,355,-.019607814,4.0999999,4.2329998,.01971831,.92394364,23,570,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-310111,BOTTLED PREMIUM LAGER 4.3-7.5%,8,331,17,356,-.021526381,3.7,3.7869501,.02247191,.9297753,27,575,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-310114,CIDER 4.5%-5.5% ABV PINT/BOTTL,40,307,18,365,-.017681733,3.75,3.8683999,.10958904,.84109586,180,552,Eating out and hotels,Alcoholic beverages and tobacco,Unisex,ND,Goods
-310207,BITTER-4CANS-440-500ML,17,40,76,133,0,3.8900001,3.75,.12781955,.30075186,220,197.5,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-310215,LAGER 4 BOTTLES- PREMIUM,24,112,99,235,-.026290119,5,5,.10212766,.47659576,168,436,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-310216,LAGER 10 - 24 CANS (440-500ML),39,25,86,150,0,10.25,10.153,.25999999,.16666667,442,71.5,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-310217,LAGER 10-24 BOTTLES 250-330ML,37,12,21,70,.093533233,10.25,10.284,.52857143,.17142858,576,78,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-310219,STOUT - 4 CAN PACK,59,76,95,230,0,4.5,4.7414398,.25652173,.33043477,436,240,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-310220,SPEC'Y BEER BOTT 500ML 4-5.5,57,63,120,240,0,1.6,1.6972749,.2375,.26249999,410,153,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-310221,APPLE CIDER 4 CAN PK 440-500ML,86,48,105,239,0,4,3.7839999,.35983264,.20083682,534,104,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-310222,CIDER FLAVOURED BOTT 500-568ML,61,40,140,241,0,2.0999999,2.0999999,.25311205,.16597511,430,70,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-310301,WHISKY (PER NIP) SPECIFY ML,32,318,13,363,-.0079365633,3.0999999,3.276,.088154271,.87603307,136,557,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-310302,VODKA (PER NIP) SPECIFY ML,13,336,14,363,-.017681736,3.3499999,3.52935,.035812672,.92561984,45.5,572,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-310306,BOTTLE OF MIXER 125-200ML,21,327,13,361,-.027237341,1.5,1.5420001,.058171745,.90581715,89,563,Food and drink,Alcoholic beverages and tobacco,Unisex,ND,Goods
-310307,LIQUEUR PER NIP   SPECIFY ML,10,335,15,360,-.020568093,3.0999999,3.3693001,.027777778,.93055558,34,576,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-310309,SPIRIT BASED DRINK 275ML,4,224,8,236,-.016715772,3.2,3.2544,.016949153,.94915253,22,580,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-310310,"WINE, PER 175 - 250 ML SERVING",17,330,13,360,-.026290111,3.97,4.092865,.047222223,.91666669,65,567,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-310315,BOTTLE OF WINE 70-75CL,15,354,17,386,-.027237343,18.99,19.450882,.038860105,.91709846,52,568,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-310316,GIN PER NIP,13,338,12,363,-.022482894,3.2,3.4103,.035812672,.93112946,45.5,577,,,,,
-310401,WHISKY-70 CL BOTTLE,49,45,57,151,0,14.5,14.5,.3245033,.29801324,507,194,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-310403,VODKA-70 CL BOTTLE,67,77,101,245,0,13.13,13.16,.27346939,.31428573,457,214,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-310405,BRANDY 70CL BOTTLE,63,38,48,149,0,17.5,17.5,.42281878,.25503355,554,147,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-310406,FORTIFIED WINE  (70-75CL),75,32,116,223,0,10,10.4685,.33632287,.14349777,519,56,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-310419,WHITE WINE- EUROPEAN 75CL,59,123,61,243,-.016715769,6.5,6.5,.24279836,.50617284,419,467,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-310420,WHITE WINE- NEW WORLD 75CL,54,61,130,245,0,6.75,6.6900001,.22040816,.2489796,372,140,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-310421,RED WINE- EUROPEAN 75CL,52,93,98,243,0,7,7.2250004,.21399178,.38271606,360,322,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-310422,RED WINE- NEW WORLD 75CL,47,102,96,245,0,6.25,6.5459995,.19183673,.41632652,333,361,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-310423,BOTTLE OF CHAMPAGNE 75 CL,50,56,44,150,0,27,22.049999,.33333334,.37333333,518,311,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-310425,ROSE WINE-75CL BOTTLE,52,45,52,149,0,6,5.75,.3489933,.30201343,527.5,199.5,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-310426,SPARKLING WINE 75CL MIN 11%ABV,44,69,130,243,0,7,7.553,.18106996,.28395063,314,179,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-310427,RUM WHITE EG BACARDI 70CL BOTT,44,86,111,241,0,15,15,.18257262,.35684648,317,282,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-310428,CREAM LIQUER 70CL-1LT 14-20%,33,69,133,235,0,15,15,.14042553,.29361701,244,187,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-310429,GIN BOTTLE 70CL,31,64,147,242,0,14.5,14.5,.12809917,.2644628,221,156,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-310430,PRE MIXED SPIRIT 250-330ML,33,64,143,240,0,1.8,1.8,.1375,.26666668,239,158,,,,,
-320108,CIGARETTES 8,19,62,66,147,0,13.34,13.34,.1292517,.4217687,224,369,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-320115,CIGARETTES 15,72,10,62,144,.0010009444,10.45,10.44,.5,.069444448,573,9,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-320122,20 FILTER - OTHER BRAND,15,70,61,146,-.00049950625,12.33,12.53458,.10273973,.47945204,169,441,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-320124,E-CIG REFILL BOTTL/CART 2-10ML,25,43,169,237,0,3.95,3.95,.10548523,.1814346,172,89,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-320125,CIGARETTES 21,8,53,86,147,0,10.5,10.50225,.054421768,.3605442,78,286,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-320205,5 CIGARS: SPECIFY BRAND,9,101,28,138,-.034749083,6.8800001,7.1413803,.065217391,.73188406,97,544,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-320206,HAND ROLLING TOBACCO PACK 30GM,85,16,45,146,.017294047,15.75,15.692387,.58219177,.10958904,582,32,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-410508,PLUMBER-DAYTIME HOURLY RATE,1,3,118,122,0,50,50.200001,.0081967209,.024590164,14,3,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,S,Services
-410509,ELECTRICIAN-DAYTIME RATE/HOUR,0,2,142,144,0,41,41,0,.013888889,5,1,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,S,Services
-410517,DECORATOR-DAILY RATE;SPEC HRS,0,9,97,106,0,150,150,0,.084905662,5,14,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,S,Services
-410518,CARPENTER HOURLY RATE,0,8,87,95,0,25,25,0,.08421053,5,13,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,S,Services
-410602,READY-MIXED FILLER-INT USE,19,72,72,163,0,5,5,.11656442,.4417178,194,394,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,ND,Goods
-410607,PAINT BRUSH-2INCH/5CM WIDTH,24,62,62,148,-.001996004,2.99,2.99739,.16216215,.41891891,289,365.5,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,ND,Goods
-410611,DOOR HANDLE-PACK FOR ONE DOOR,25,54,79,158,0,13,14.029084,.15822785,.34177214,273,256,Household,"Housing, water, electricity, gas and other fuels",Unisex,D,Goods
-410614,POWER DRILL-HAMMER ACTION,13,67,86,166,0,44,49,.078313254,.40361446,125,341,Household,"Housing, water, electricity, gas and other fuels",Unisex,D,Goods
-410621,VARNISH-CLEAR GLOSS-750ML-1LTR,17,65,77,159,0,14.99,15.06723,.10691824,.40880504,177,350,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,ND,Goods
-410625,SCREWDRIVER,7,82,92,181,0,3.49,3.9000001,.038674034,.45303866,50,407,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
-410629,WALLPAPER PER ROLL,9,44,77,130,0,9.6199999,10.064,.069230773,.33846155,109,254,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,ND,Goods
-410631,SHOWER HEAD,40,19,118,177,0,12,11.0145,.2259887,.10734463,380,30,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,ND,Goods
-410632,HIRE OF DOMES CARPET CLEANER,11,54,46,111,-.00099903438,24,24.99,.0990991,.48648649,155,444,Household,"Housing, water, electricity, gas and other fuels",Unisex,D,Goods
-410633,MDF,3,134,5,142,-.32614553,27,37.099998,.02112676,.94366199,25,578,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,ND,Goods
-410637,CERAMI TILES 15X15-25X50CM BOX,13,63,52,128,-.00049952697,12,11.71975,.1015625,.4921875,164,451,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,ND,Goods
-410638,WOODSCREWS STEEL/ZIN PLATED PK,7,81,68,156,-.021526432,2.0450001,2.0938749,.044871796,.51923078,63,477,Household,"Housing, water, electricity, gas and other fuels",Unisex,ND,Goods
-410639,PAINT GLOSS/EMUL 750ML-2.5LTR,18,60,118,196,0,15.99,16,.091836736,.30612245,141,205,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,ND,Goods
-420101,COAL-HOUSEHOLD BEST QUAL 50KG,14,8,87,109,0,21.98,21.98,.12844037,.073394492,222.5,10,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,ND,Goods
-420103,SMOKELESS FUEL 50KG,9,14,85,108,0,25.275,25.049999,.083333336,.12962963,133,43,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,ND,Goods
-420405,KEROSENE - 1000L DELIVERED,10,78,33,121,-.13156734,450.45001,490.5495,.082644626,.64462811,132,527,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,ND,Goods
-430101,DOUBLE WARDROBE,22,137,137,296,-.019607872,399.98999,465.18164,.074324325,.46283785,117,423,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430104,ARMCHAIR -UPHOLSTERED,37,129,79,245,-.03381642,469,464.45401,.15102041,.52653062,264,482,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430108,DOUBLE BED-WIDTH APPROX 135CM,48,166,87,301,-.0084223123,499,503.98801,.15946844,.55149502,281,494,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430119,KITCH BASE UNIT WIDTH 800-1000,5,91,31,127,-.046711192,127,137.728,.039370079,.71653545,55,538,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430120,COFFEE TABLE,29,131,96,256,-.031945731,219,204.28812,.11328125,.51171875,188,468,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430122,SINGLE BED-WIDTH 90CM/3FT,47,163,76,286,-.046703368,259.495,303.84717,.16433567,.56993008,293,500,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430127,CHEST OF DRAWERS,31,160,82,273,-.074930601,250,270.5,.11355311,.58608061,189,509,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430132,MATTRESS- 3FT/90CM,45,136,81,262,-.070198104,229.495,241.776,.17175573,.51908398,302,476,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430133,BOOKCASE/FREESTAND SHELV UNIT,18,111,126,255,0,199,199,.070588239,.43529412,111,384,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430134,TABLE LAMP,51,144,118,313,-.0079365633,21.99,24,.1629393,.4600639,290,418,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430136,PATIO TABLE & CHAIRS-SEASONAL,21,72,65,158,-.11971831,75,86.25,.1329114,.4556962,229,411,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430137,LEATHER SETTEE,16,103,45,164,-.077490792,1342,1399.39,.097560972,.62804878,152,523,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430138,HOME OFFICE DESK,9,76,72,157,-.019607823,199,202.98,.057324842,.48407644,83,442,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430139,KITCH WALL UNIT WIDTH 800-1000,14,80,45,139,-.038461518,110,118.17,.10071942,.57553959,159,504,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430140,SOFA BED,13,103,74,190,-.036144301,574.5,605.9848,.068421051,.54210526,107,492,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430141,DINING TABLE & 2-6 CHAIRS,67,197,36,300,-.043062165,614.995,620.5,.22333333,.6566667,373,529,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430142,HIGH CHAIR,51,77,44,172,0,49.990002,52.525597,.29651162,.44767442,483,402,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
-430143,"SETTEE,NON LEATHER - SEE HELP",30,158,107,295,-.041227207,629,675.42303,.10169491,.53559321,165,488,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430211,DUVET-DOUBLE TOG 10-13.5,34,160,145,339,-.029126175,18,19.051411,.10029498,.4719764,157,433,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
-430216,DUVET COVER,73,142,148,363,0,15,16,.20110193,.39118457,340,330,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
-430224,FITTED BED SHEET,31,138,195,364,0,8,8.2628002,.085164838,.37912089,134,315,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
-430227,LAMINATE FLOORING PER SQ M,28,158,62,248,-.037536155,18.99,20.016499,.11290322,.63709676,185,525,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430228,BATH SHEET,43,132,165,340,0,14.2,14.400001,.1264706,.3882353,217,327,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
-430229,FABRIC ROLLER BLIND 120-180CM,25,22,119,166,0,14.99,14.99,.15060242,.13253012,262,45,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
-430233,CARPET TUFTED 100% MANMADE FIB,23,180,33,236,-.079189651,19.99,21.059999,.097457625,.76271188,150,546,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430234,CARPET TUFTED MIN 80% WOOL FIB,29,167,34,230,-.025341161,33.990002,35.268074,.12608695,.72608697,214,540,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430235,FLOOR RUG STATE SIZE & MATERIA,50,117,181,348,0,49.990002,50,.14367816,.33620688,249,249,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430236,CURTAINS READY MADE SP'FY SIZE,28,87,121,236,0,35,36.037346,.11864407,.36864406,198,300,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
-430304,ELECTRIC COOKER,42,117,18,177,-.027237356,399.98999,419.22498,.23728813,.66101694,409,531,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430307,ELECTRIC KETTLE - 1.5-1.7L,58,124,87,269,0,29.99,30,.21561338,.46096656,363,419,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
-430317,ELECTRIC IRON,50,87,109,246,0,29.99,29.99,.20325203,.35365853,344,276,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
-430321,ELECTRIC RAZOR,54,35,68,157,.00050048257,25,26.025,.34394905,.22292994,523,119,Other goods and services,"Furniture, household equipment and maintenance",Unisex,SD,Goods
-430323,PHONE NT MOBILE(SPEC DIG/ANAL),21,75,112,208,0,28.970001,28.025999,.10096154,.36057693,160,287,Telphones and post,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430351,ELECTRIC HAIR STYLING APP,20,95,115,230,0,20,20,.086956523,.41304347,135,356,Other goods and services,"Furniture, household equipment and maintenance",Unisex,SD,Goods
-430355,VACUUM CLEANER,62,124,99,285,-.0059642335,142.37,114.24,.21754386,.43508771,366,383,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430356,DISH WASHER 12-15 PLACE SET,29,124,98,251,-.038461462,329,329,.11553785,.49402392,191,456,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430359,ELECTRIC COOLING FAN -SEASONAL,21,154,95,270,-.089253232,17.99,21.588001,.077777781,.57037038,123.5,502,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430361,WASHING MACH NO DRYER MAX 1800,61,123,84,268,0,379,377.51331,.22761194,.45895523,385,416,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430362,FRIDGE/FREEZER SPEC CAPACITIES,31,193,43,267,-.12203693,379,418.75732,.11610487,.72284645,192,539,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430363,ELECTRIC TOOTHBRUSH,102,137,169,408,0,35,31.237499,.25,.33578432,427,247,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
-430407,"SMALL SAUCEPAN,MILK",23,90,57,170,-.043062184,5.4899998,5.3631153,.13529412,.52941179,231,484,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
-430409,SCISSORS - HOUSEHOLD,22,83,69,174,-.061032914,2,2.3321252,.12643678,.4770115,215.5,438,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
-430413,GAS FIRE,11,38,20,69,-.024390185,589,598.97504,.1594203,.55072463,280,493,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430414,GAS COOKERS-SPECIFY MAKE & MOD,33,97,20,150,-.036608879,369.495,390.24969,.22,.64666665,371,528,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430418,PLASTIC FOOD STORAGE CONTAINER,17,115,74,206,-.11111111,3,3.4993,.08252427,.55825245,131,497,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
-430419,STAINLESS STEEL CUTLERY SET,43,44,144,231,0,15,15,.18614718,.19047619,324,96,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
-430422,PLAIN GLASS TUMBLER,21,81,105,207,0,1,1,.10144927,.39130434,162,331,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
-430423,FRYING PAN 24-30CM,39,116,80,235,-.058380459,14.95,14.400001,.16595745,.49361703,295,454,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
-430424,"BAKEWARE, METAL, TRAY/ROASTING",32,159,157,348,0,7.9899998,8,.091954023,.45689654,142,414,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
-430425,"DINNER PLATE, APPROX DIAMETER",64,96,150,310,0,2.5,2.875,.20645161,.30967742,349,210,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
-430503,BALL POINT,45,97,136,278,0,.40000001,.5,.16187051,.34892085,288,268,"Relaxing, culture and hobbies","Furniture, household equipment and maintenance",Unisex,ND,Goods
-430505,ALUMIN COOKING FOIL 290-300MM,19,47,83,149,0,1.79,1.7237699,.12751678,.31543624,219,216,Household,"Furniture, household equipment and maintenance",Unisex,ND,Goods
-430507,WASHING UP LIQUID 380-900ML,62,56,136,254,0,.80000001,.90455002,.24409449,.22047244,423,116,Household,"Furniture, household equipment and maintenance",Unisex,ND,Goods
-430509,HOUSEHOLD CLEANER CREAM/LIQUID,45,50,145,240,0,1,1,.1875,.20833333,325,108,Household,"Furniture, household equipment and maintenance",Unisex,ND,Goods
-430518,REFUSE SACK FROM PACK OF 10-20,16,37,94,147,0,2.2,2.25,.10884354,.25170067,179,142,Household,"Furniture, household equipment and maintenance",Unisex,ND,Goods
-430524,LIGHT BULB,23,35,66,124,0,2.5,2.5,.18548387,.28225806,321,176,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430525,CLEAR STICKY TAPE,17,103,151,271,0,1.5,1.5132,.062730625,.38007382,95,318,"Relaxing, culture and hobbies","Furniture, household equipment and maintenance",Unisex,ND,Goods
-430526,GREETINGS CARD; STATE CODE,78,119,141,338,0,2,2,.23076923,.35207102,388.5,274,"Relaxing, culture and hobbies","Furniture, household equipment and maintenance",Unisex,ND,Goods
-430527,A4 PRINTER PAPER (500 REAM),3,51,133,187,0,5,5.5549998,.01604278,.27272728,20,165,"Relaxing, culture and hobbies","Furniture, household equipment and maintenance",Unisex,ND,Goods
-430529,BLEACH 750ML,46,20,84,150,0,.98000002,.96040004,.30666667,.13333334,492,46.5,Household,"Furniture, household equipment and maintenance",Unisex,ND,Goods
-430530,BLACK INKJET CARTRIDGE,43,105,119,267,0,18.99,18.99,.1610487,.39325842,284.5,333,"Relaxing, culture and hobbies","Furniture, household equipment and maintenance",Unisex,ND,Goods
-430531,FABRIC CONDITIONER 500ML-1.5LT,40,46,64,150,0,2,2,.26666668,.30666667,449,206,Household,"Furniture, household equipment and maintenance",Unisex,ND,Goods
-430533,KITCHEN ROLL PK OF 2-4 SPECIFY,31,56,63,150,0,1.79,1.8072001,.20666666,.37333333,350,311,Household,"Furniture, household equipment and maintenance",Unisex,ND,Goods
-430535,SHEET OF WRAPPING PAPER,98,47,175,320,0,.58999997,.54575002,.30625001,.14687499,491,58,"Relaxing, culture and hobbies","Furniture, household equipment and maintenance",Unisex,ND,Goods
-430536,TOILET ROLLS,54,46,63,163,0,1.9,1.9261001,.33128834,.28220859,517,175,Other goods and services,"Furniture, household equipment and maintenance",Unisex,SD,Goods
-430538,DISHWASHER TABLETS PACK 16-45,107,32,101,240,0,5,4.0741949,.44583333,.13333334,562,46.5,Household,"Furniture, household equipment and maintenance",Unisex,ND,Goods
-430539,DRYCELL BATTERY 4 PACK EG AA,124,5,129,258,.040582683,4,3.6125002,.48062015,.019379845,572,2,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
-430540,WASHING LIQUID 800ML/1.5LTR,30,113,103,246,0,4,4,.12195122,.4593496,206.5,417,Household,"Furniture, household equipment and maintenance",Unisex,ND,Goods
-430613,DOG FOOD-CAN-385-400GM,23,83,147,253,0,.64999998,.66062003,.090909094,.32806325,140,236,"Relaxing, culture and hobbies",Recreation and culture,Unisex,ND,Goods
-430617,ANIMAL CAGE (E.G FOR GERBIL),18,21,88,127,0,26.99,25,.14173229,.16535433,245,67,"Relaxing, culture and hobbies",Recreation and culture,Unisex,ND,Goods
-430621,ANNUAL BOOSTER INJECTION,7,85,61,153,-.012833167,44.5,46.059601,.045751635,.55555558,64,496,"Relaxing, culture and hobbies",Recreation and culture,Unisex,ND,Goods
-430622,DOG KENNEL FEES DAILY CHARGE,5,42,86,133,0,16,16.511999,.037593983,.31578946,47.5,217.5,"Relaxing, culture and hobbies",Recreation and culture,Unisex,ND,Goods
-430623,SMALL CAGED MAMMAL,6,10,91,107,0,10,10,.056074765,.093457945,81,21,"Relaxing, culture and hobbies",Recreation and culture,Unisex,ND,Goods
-430624,CAT FOOD POUCH-IND-85G-100G,25,63,67,155,0,.37,.37554002,.16129032,.40645161,286.5,344.5,"Relaxing, culture and hobbies",Recreation and culture,Unisex,ND,Goods
-430625,WILD BIRD SEED PACK 500G-2KG,7,50,81,138,0,2.79,3.0250001,.050724637,.36231884,67,289,"Relaxing, culture and hobbies",Recreation and culture,Unisex,ND,Goods
-430626,"DOG TREATS,SPEC,TYPE 70-400G",69,69,138,276,0,1.29,1.2119999,.25,.25,427,141,Household,Recreation and culture,Unisex,D,Goods
-440101,DOMESTIC CLEANER HOURLY RATE,0,39,107,146,0,13.5,13.5,0,.26712328,5,160,Household,Recreation and culture,Unisex,S,Services
-440104,DRY CLEANING-MAN'S SUIT,7,81,154,242,0,13.5,13.5,.02892562,.33471075,35,245,Clothes and shoes,Clothing and footwear,Men,S,Services
-440105,DRIVING LESSON 1 HOUR,1,200,0,201,-.017681759,29,29.6175,.0049751243,.99502486,10.5,587,Cars and transport,Transport,Unisex,S,Services
-440113,WINDOW-CLEAN 3-BED SEMI,9,32,133,174,0,15,15,.05172414,.18390805,72,90,Household,"Furniture, household equipment and maintenance",Unisex,S,Services
-440116,WASHING MACHINE REPAIR,4,24,85,113,0,59,60,.03539823,.21238938,43,110,Household,"Furniture, household equipment and maintenance",Unisex,S,Services
-440118,PC REPAIR,8,12,119,139,0,60,60,.057553958,.086330935,86,15,"Relaxing, culture and hobbies",Recreation and culture,Unisex,S,Services
-440120,CHILD MINDER - HOURLY RATE,3,23,103,129,0,4.5,4.5,.023255814,.17829457,28,84,Other goods and services,"Furniture, household equipment and maintenance",Child,S,Services
-440123,HOME REMOVAL- 1 VAN,7,27,73,107,0,480,480,.065420561,.25233644,98,143,Cars and transport,"Furniture, household equipment and maintenance",Unisex,S,Services
-440126,WEEKLY NANNY FEES,2,7,30,39,0,530,550,.051282052,.17948718,70,86,Household,"Furniture, household equipment and maintenance",Unisex,S,Services
-440127,MONTHLY SELF STORAGE FEE,18,55,40,113,0,96,101.738,.15929204,.48672566,279,445,Other goods and services,"Furniture, household equipment and maintenance",Unisex,S,Services
-440128,HOME CARE ASSISTANT HRLY RATE,1,42,49,92,-.010390689,19,19.673801,.010869565,.45652175,16,412.5,Other goods and services,"Furniture, household equipment and maintenance",Elderly,S,Services
-440129,PLAYGROUP FEES - PER SESSION,1,20,107,128,0,10.25,10.625,.0078125,.15625,13,62,Other goods and services,"Furniture, household equipment and maintenance",Child,S,Services
-440131,WATCH BATTERY REPLACEMENT,1,184,16,201,-.055712923,9.9899998,10.57941,.0049751243,.91542286,10.5,565,Other goods and services,Miscellaneous goods and services,Unisex,D,Goods
-440132,MEN'S CLOTHING HIRE- SEE HELP,1,64,4,69,-.019607775,75,81.389099,.014492754,.92753625,19,573,Clothes and shoes,Clothing and footwear,Men,S,Services
-440226,HOME-BUYERS SURVEY-RSDNTL PPTY,13,44,52,109,0,570,586.81,.11926606,.40366971,200,342,Other goods and services,Miscellaneous goods and services,Unisex,S,Services
-440227,FUNERAL-CREMATION,24,175,93,292,-.0069513335,2797,2835.05,.08219178,.59931505,129,514,Other goods and services,Miscellaneous goods and services,Unisex,S,Services
-440232,NURSERY FEES: CHILD 0-4,3,67,82,152,0,43.5,43.934502,.019736841,.44078946,24,391,Other goods and services,"Furniture, household equipment and maintenance",Child,S,Services
-440233,NEWSPAPER AD NON TRADE 20 WORD,11,26,81,118,0,20,20,.093220338,.22033899,144,115,Other goods and services,Miscellaneous goods and services,Unisex,S,Services
-440240,BASIC WILL FOR A SINGLE PERSON,0,24,50,74,0,240,240.76801,0,.32432431,5,231,Other goods and services,Miscellaneous goods and services,Unisex,S,Services
-440249,HOUSE CONVEYANCING,5,71,76,152,-.0069512972,882,942,.032894738,.46710527,41,427,Other goods and services,Miscellaneous goods and services,Unisex,S,Services
-440254,HOURLY RATE FOR SOLICITOR,2,18,54,74,0,264,270,.027027028,.24324325,32,136,Other goods and services,Miscellaneous goods and services,Unisex,S,Services
-510101,MENS SUIT-READY MADE,75,129,90,294,-.022482865,95,101.36501,.25510204,.43877551,435,390,Clothes and shoes,Clothing and footwear,Men,SD,Goods
-510104,MENS JACKET/COAT,146,125,53,324,0,35.5,40.934883,.45061728,.38580248,563,324,Clothes and shoes,Clothing and footwear,Men,SD,Goods
-510106,MENS JEANS,37,150,140,327,0,22.5,23.832449,.11314984,.45871559,186.5,415,Clothes and shoes,Clothing and footwear,Men,SD,Goods
-510108,MEN'S JUMPER-KNITTED,115,120,81,316,0,18.744999,18.399857,.36392406,.37974682,538,317,Clothes and shoes,Clothing and footwear,Men,SD,Goods
-510109,MEN'S FORMAL SHIRT-LONG SLEEVE,42,169,116,327,-.051233422,18,18,.12844037,.5168196,222.5,473,Clothes and shoes,Clothing and footwear,Men,SD,Goods
-510113,MENS CASUAL S/SLEEVE TOP,67,131,129,327,0,15,16.886999,.20489296,.40061161,347,339,Clothes and shoes,Clothing and footwear,Men,SD,Goods
-510117,MEN'S FORMAL RDY-MADE TROUSERS,62,150,113,325,0,22,23.441339,.19076923,.46153846,330,420,Clothes and shoes,Clothing and footwear,Men,SD,Goods
-510118,MEN'S CASUAL TROUSERS,34,147,141,322,0,19.99,22,.10559006,.45652175,173,412.5,Clothes and shoes,Clothing and footwear,Men,SD,Goods
-510120,MEN'S JUMPER OR SWEATSHIRT,77,161,88,326,-.0342719,19.5,22,.23619632,.49386504,405,455,Clothes and shoes,Clothing and footwear,Men,SD,Goods
-510122,MEN'S TRACKSUIT/JOGGIN BOTTOMS,32,63,130,225,0,28,27,.14222223,.28,246,172.5,Clothes and shoes,Clothing and footwear,Men,SD,Goods
-510124,MENS SHORTS NOT SWIMWEAR,93,163,62,318,-.066293217,16,20.8965,.29245284,.51257861,482,469,Clothes and shoes,Clothing and footwear,Men,SD,Goods
-510126,MENS BRANDED T-SHIRT,33,46,72,151,0,15.99,18,.21854305,.30463576,369,202.5,Clothes and shoes,Clothing and footwear,Men,SD,Goods
-510127,MENS OFFICIAL FOOTBALL SHIRT,21,75,17,113,-.19999999,64.989998,77.271996,.18584071,.66371679,322,532,Clothes and shoes,Clothing and footwear,Men,SD,Goods
-510128,MEN'S BRANDED SPORT SWEATSHIRT,52,56,41,149,0,39.990002,36.028259,.3489933,.37583894,527.5,313,Clothes and shoes,Clothing and footwear,Men,SD,Goods
-510131,MENS CASUAL SHIRT,76,129,122,327,0,17.99,19.525,.2324159,.39449543,395,335,Clothes and shoes,Clothing and footwear,Men,SD,Goods
-510132,MEN'S T-SHIRT SHORT SLEEVED,56,114,153,323,0,6,6,.17337461,.35294119,307,275,Clothes and shoes,Clothing and footwear,Men,SD,Goods
-510206,WOMENS BLOUSE/SHIRT 1,108,140,83,331,0,15,15.68,.32628399,.42296073,512,371,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510208,WOMEN'S FORMAL JACKET,88,146,82,316,-.010880309,28,36.830002,.27848101,.46202531,461,421,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510212,WOMEN'S JUMPER,136,92,104,332,0,14,13.363306,.40963855,.27710843,549,169,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510215,WOMENS BASIC PLAIN T-SHIRT,94,65,168,327,0,5.9899998,5.9600496,.28746179,.19877675,471,103,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510219,WOMEN'S CASUAL OUTER JACKET,90,144,96,330,0,29.99,34.83033,.27272728,.43636364,456,386,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510223,WOMEN'S LONG SLV TOP-NT BLOUSE,98,133,98,329,0,13,15.68,.29787233,.40425533,485,343,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510233,WOMEN'S CARDIGAN,105,155,73,333,0,15,17.5,.31531531,.46546546,502,424,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510235,WOMEN'S TROUSERS-CASUAL,115,144,73,332,0,16,17.072001,.34638554,.43373495,525,380,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510236,WOMEN'S TROUSERS-FORMAL,78,139,113,330,0,18,19.99,.23636363,.42121211,406,368,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510237,WOMEN'S SKIRT: CASUAL,120,154,56,330,0,16,19.6,.36363637,.46666667,537,425.5,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510238,WOMEN'S SKIRT: WORK/FORMAL,106,101,122,329,0,15,15.809999,.32218844,.30699089,505,207,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510244,WOMEN'S VEST/STRAPPY TOP,85,142,101,328,0,5.9899998,5.5,.25914633,.43292683,440,378,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510245,WOMENS DRESS -CASUAL/FORMAL,118,153,60,331,0,19.99,23.526001,.35649547,.46223566,530,422,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510246,WOMENS SHORT SLEEVE SPORTS TOP,55,89,83,227,0,14.99,13.488,.24229075,.39207047,418,332,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510248,WOMEN'S JEANS- OWN BRAND,50,106,149,305,0,17.99,19.265999,.16393442,.34754097,292,265,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510249,WOMEN'S JEANS- BRANDED,29,31,40,100,0,79,79,.28999999,.31,476,211,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510254,WOMENS SPORTSWEAR SHORTS,43,70,89,202,0,17.744999,17.611,.21287128,.34653464,358,262,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510255,WOMEN'S SWIMWEAR,33,72,118,223,0,14,15.68,.14798206,.32286996,257,228,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510256,WOMEN'S SHOWERPROOF JACKET,38,56,62,156,0,66,72.449463,.24358974,.35897437,421,285,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510257,WOMENS BLOUSE / SHIRT 2,78,138,115,331,0,16,17.99,.23564954,.41691843,402,362,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510258,WOMENS LEGGINGS FULL LENGTH,67,91,163,321,0,8.9899998,9.5,.20872274,.28348911,353,178,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510259,WOMENS SHORT SLEEVE FORMAL TOP,103,182,45,330,-.10714287,14,16.67,.31212121,.55151516,499,495,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510260,WOMENS EXERCISE LEGGINGS,83,87,81,251,0,22.99,22.99,.3306773,.34661356,516,263,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510324,TROUSERS  FOR SCHOOL 5-13 YRS,59,126,125,310,0,7.9899998,8.4108105,.19032258,.40645161,329,344.5,Clothes and shoes,Clothing and footwear,Child,SD,Goods
-510328,BOYS JEANS (5-13 YEARS),62,102,129,293,0,10,10,.21160409,.34812286,357,266,Clothes and shoes,Clothing and footwear,Child,SD,Goods
-510330,BABY SLEEPSUIT LONG SLEEVE,74,153,81,308,-.029126223,4.585,4.7599902,.24025974,.49675325,415,458,Clothes and shoes,Clothing and footwear,Child,SD,Goods
-510336,GIRLS SKIRT FOR SCHOOL 5-13YRS,91,101,127,319,0,6,6.0075002,.28526646,.31661442,468,219,Clothes and shoes,Clothing and footwear,Child,SD,Goods
-510340,GIRLS FASHION TOP 12-13 YEARS,69,80,53,202,0,8,9,.34158415,.39603961,522,336,Clothes and shoes,Clothing and footwear,Child,SD,Goods
-510344,GIRLS TROUSERS NOT DENIM 5-13,93,113,115,321,0,8,8,.28971961,.35202491,474,272,Clothes and shoes,Clothing and footwear,Child,SD,Goods
-510347,GIRLS JACKET (5-13 YEARS),144,73,112,329,0,14.99,14,.43768996,.2218845,560,118,Clothes and shoes,Clothing and footwear,Child,SD,Goods
-510348,BOYS T-SHIRT 3-13 YEARS,36,90,101,227,0,10.5,10.5,.1585903,.39647576,274,337,Clothes and shoes,Clothing and footwear,Child,SD,Goods
-510349,GIRLS LEGGINGS 5-13 YEARS,78,150,106,334,0,4,3.7205,.23353294,.44910181,396,404,Clothes and shoes,Clothing and footwear,Child,SD,Goods
-510402,MEN'S PANTS/BOXER SHORTS,54,145,126,325,0,4.3299999,4.4355597,.16615385,.44615385,296,399,Clothes and shoes,Clothing and footwear,Men,SD,Goods
-510405,WOMEN'S NIGHTDRESS/PYJAMAS,98,120,107,325,0,12,10.950001,.30153847,.36923078,488,304,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510406,WOMEN'S PANTS,58,91,160,309,0,3,3,.18770227,.29449838,326,189,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510407,"BRA, CUP SIZE A-D RANGE",73,116,137,326,0,9,10,.22392638,.35582823,377,279,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510410,CHILDS PYJAMAS 18MTHS-13YEARS,82,145,82,309,0,9.9899998,10,.26537216,.46925566,447,431,Clothes and shoes,Clothing and footwear,Child,SD,Goods
-510411,CHILDS PANTS 1PR 18MTHS-13YRS,63,98,152,313,0,1.2,1.2,.20127796,.31309903,341,213,Clothes and shoes,Clothing and footwear,Child,SD,Goods
-510413,MENS SOCKS 1 PAIR,37,133,157,327,0,2.4000001,2.4000001,.11314984,.40672782,186.5,348,Clothes and shoes,Clothing and footwear,Men,SD,Goods
-510415,WOMEN'S TIGHTS,37,103,178,318,0,3,3.03,.1163522,.32389936,193,230,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510416,CHILDS SOCKS 1 PR UK 3-6.5,48,140,132,320,0,.89999998,.90359998,.15000001,.4375,260.5,388,Clothes and shoes,Clothing and footwear,Child,SD,Goods
-510419,MEN'S TIE,45,103,162,310,0,6,6.7669497,.14516129,.33225808,253,242,Clothes and shoes,Clothing and footwear,Men,SD,Goods
-510429,KNITTING WOOL-DOUBLE KNIT-100G,26,61,43,130,-.0054697073,2,2.0050001,.2,.46923077,339,430,Clothes and shoes,Clothing and footwear,Unisex,SD,Goods
-510432,LADY'S SCARF,90,87,140,317,0,8,6.4000001,.28391168,.27444795,465,166,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510433,MENS BASE LAYER TOP LONG/SHORT,44,47,60,151,0,21.99,20.405001,.29139072,.31125829,479,212,Clothes and shoes,Clothing and footwear,Men,SD,Goods
-510434,"HAT/CAP, ADULT",92,83,149,324,0,7,7.4340153,.28395063,.25617284,466,149,Clothes and shoes,Clothing and footwear,Unisex,SD,Goods
-510501,MENS SHOE FORMAL STYLE,29,199,100,328,-.059266217,35,49.966248,.088414632,.60670733,137,517,Clothes and shoes,Clothing and footwear,Men,SD,Goods
-510506,WOMEN'S SANDALS,82,141,102,325,0,19.99,22.325001,.25230768,.43384615,429,381,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510507,BOY'S SHOES,31,114,164,309,0,22,28,.10032362,.36893204,158,302,Clothes and shoes,Clothing and footwear,Child,SD,Goods
-510508,GIRL'S SHOES SCHOOL,43,131,133,307,0,17.99,19.99,.14006515,.4267101,243,375,Clothes and shoes,Clothing and footwear,Child,SD,Goods
-510515,MEN'S SHOE CASUAL STYLE,45,159,124,328,-.00099902379,42.495003,47.644501,.13719513,.48475611,237,443,Clothes and shoes,Clothing and footwear,Men,SD,Goods
-510516,MEN'S TRAINING SHOE-SPORTSWEAR,25,63,63,151,0,54.990002,49,.16556291,.41721854,294,363,Clothes and shoes,Clothing and footwear,Men,SD,Goods
-510517,WOMEN'S TRAINING SHOES,19,54,78,151,0,47.990002,50.400002,.12582782,.35761589,212,283,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510528,CHILD'S TRAINERS-SPORTS,47,56,47,150,0,30,31.669399,.31333333,.37333333,501,311,Clothes and shoes,Clothing and footwear,Child,SD,Goods
-510529,WOMANS BOOTS,67,116,100,283,0,26,28.61046,.23674911,.40989399,407,352,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510530,HEEL,47,143,138,328,0,20,27.994999,.14329268,.43597561,248,385,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510533,WOMENS SHOE,79,113,114,306,0,22.99,25,.25816995,.36928105,438,305,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510534,WALKING/HIKING BOOT,30,63,64,157,0,114.99,106.68,.19108281,.40127388,331,340,Clothes and shoes,Clothing and footwear,Unisex,SD,Goods
-510535,CANVAS FASHION ADULT SHOE/TRAI,35,118,134,287,0,12,12.5,.12195122,.41114983,206.5,354,Clothes and shoes,Clothing and footwear,Unisex,SD,Goods
-520103,LADY'S UMBRELLA -FOLDING,76,21,103,200,0,7.9899998,6.75,.38,.105,543,28,Other goods and services,Miscellaneous goods and services,Women,SD,Goods
-520109,LADIES HAND/SHLDER BAG,45,70,92,207,0,17,21.327999,.2173913,.33816424,365,253,Other goods and services,Miscellaneous goods and services,Women,SD,Goods
-520118,FLOWER VASE,11,85,111,207,-.0029910661,6.9899998,7.26261,.053140096,.41062802,75,353,Household,Miscellaneous goods and services,Unisex,SD,Goods
-520123,EARRINGS- FASHION,71,118,115,304,0,4.5,4.5,.23355263,.3881579,397,326,Other goods and services,Miscellaneous goods and services,Women,D,Goods
-520130,SOLID GOLD RING 9CT,27,127,59,213,-.065822661,295,312.48001,.12676056,.59624416,218,513,Other goods and services,Miscellaneous goods and services,Women,D,Goods
-520131,GENT'S WATCH- ANALOGUE FACE,76,102,89,267,0,179,159,.28464419,.38202247,467,321,Other goods and services,Miscellaneous goods and services,Men,D,Goods
-520132,WALL HANGING MIRROR UPTO 1.5M,41,168,90,299,-.089253232,30,39.989998,.13712375,.5618729,236,498,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-520134,LUGGAGE TROLLEY CASE - 60-70CM,38,48,45,131,0,40,38.299999,.29007635,.36641222,477,296,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
-520135,DIAMOND SOLITAIRE RING,27,98,116,241,0,1150,1199.99,.1120332,.40663901,183,347,Other goods and services,Miscellaneous goods and services,Women,D,Goods
-520136,PHOTO FRAME,33,74,113,220,0,8.9899998,9.3787794,.15000001,.33636364,260.5,250,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
-520137,STERLING SILVER EARRINGS,68,56,118,242,0,19.99,19.99,.28099173,.23140496,463,129,Other goods and services,Miscellaneous goods and services,Women,D,Goods
-520138,SPECTACLE FRAMES WITH LENSE,13,15,118,146,0,82.474998,84.974998,.089041099,.10273973,138,27,Medical and health,Health,Unisex,ND,Goods
-520139,DAILY DISPOSABLE SOFT LENSES,9,18,119,146,0,30,30,.061643835,.12328767,94,39,Medical and health,Health,Unisex,ND,Goods
-520140,NECKLACE FASHION APX 16/20 INS,78,114,141,333,0,6.9899998,6.6150002,.23423423,.34234235,400,258,Other goods and services,Miscellaneous goods and services,Women,D,Goods
-520141,MOBILE PHONE ACCESSORY,26,128,198,352,0,12,12,.073863633,.36363637,116,293,Telphones and post,Miscellaneous goods and services,Unisex,D,Goods
-520142,RE-USABLE BOTTLE/MUG ADULT,19,125,146,290,0,5.9899998,6.25,.065517239,.43103448,100,376.5,,,,,
-520202,INDIGESTION TABLETS 16-24 PACK,7,16,135,158,0,2.4000001,2.4288001,.044303797,.10126583,61,24.5,Medical and health,Health,Unisex,ND,Goods
-520206,TAMPONS-PACK OF 10-20,50,16,185,251,0,2,1.914,.19920319,.063745022,338,6,Other goods and services,Miscellaneous goods and services,Women,SD,Goods
-520209,TOOTHPASTE (SPECIFY SIZE),28,28,104,160,0,1.2,1.2,.175,.175,310,80,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
-520213,TISSUES-LARGE SIZE BOX,49,20,89,158,0,1.5,1.24655,.31012657,.12658228,497,41,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
-520215,MOISTURISER FACIAL 50-150ML,44,50,117,211,0,3.99,3.35498,.2085308,.23696682,352,133,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
-520216,DEODORANT/ANTI PERSPI 50-250ML,36,47,85,168,0,1.87,1.95,.21428572,.27976191,361.5,171,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
-520219,"DISP NAPPIES, SPEC TYPE, 20-60",36,43,159,238,0,5,5,.15126051,.18067227,265,88,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
-520222,MULTI-VITAMINS CAPSULES/TABLET,22,43,75,140,0,4.5,4.5074997,.15714286,.30714285,271,208,Medical and health,Health,Unisex,ND,Goods
-520223,MASCARA,47,39,121,207,0,8,8.4404993,.22705314,.1884058,384,93,Other goods and services,Miscellaneous goods and services,Women,SD,Goods
-520226,SHAMPOO-250-400ML,46,28,95,169,0,2.5,2.27088,.27218935,.16568047,455,68,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
-520227,PAIN KILLER TABLETS-16-24 PACK,19,31,109,159,0,1.7,1.75,.11949685,.19496855,202,100,Medical and health,Health,Unisex,ND,Goods
-520228,PLASTERS-20-40 PACK,40,31,86,157,0,1.99,1.8,.25477707,.19745223,434,101,Medical and health,Health,Unisex,ND,Goods
-520230,CONDOMS PACK OF 3-14,61,10,86,157,0,7,7,.38853502,.063694268,546,5,Medical and health,Miscellaneous goods and services,Men,ND,Goods
-520234,PERFUME/EUD DE TOILETTE,27,71,101,199,0,25,23.072001,.1356784,.35678393,232,281,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
-520235,SUNSCREEN - SPEC SIZE/SPF,47,16,98,161,0,6,5.9899998,.29192546,.099378884,480,23,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
-520236,WOMENS HAIR COLOURANT 60-140ML,18,8,99,125,0,6,6.4899998,.14399999,.064000003,250,7,Other goods and services,Miscellaneous goods and services,Women,SD,Goods
-520237,HAIR GEL 150-200ML,18,33,97,148,0,3,3,.12162162,.22297297,205,120,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
-520238,SHOWER GEL 150-250ML,51,17,99,167,0,1,1,.30538923,.1017964,490,26,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
-520241,RAZOR CARTRIDGE BLADES,25,70,55,150,-.009390926,9,9.4146996,.16666667,.46666667,297,425.5,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
-520242,COLD/FLU DRINK POWDER,5,70,83,158,0,4,4.572,.03164557,.44303799,40,396,Medical and health,Health,Unisex,ND,Goods
-520243,LIQUID FOUNDATION 30-35ML,24,58,119,201,0,9.9799995,9.9899998,.11940298,.2885572,201,183,Other goods and services,Miscellaneous goods and services,Women,SD,Goods
-520244,TOOTHBRUSH,57,57,138,252,0,1.65,1.7209499,.22619048,.22619048,382,123,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
-520245,ANTIHISTAMINE ALLERGY TABLETS,73,26,125,224,0,3.48,3,.32589287,.11607143,511,36,Medical and health,Health,Unisex,ND,Goods
-520246,LIP GLOSS,75,48,126,249,0,6.9899998,6.98,.30120483,.19277108,487,98,Other goods and services,Miscellaneous goods and services,Women,SD,Goods
-520247,LIQUID SOAP 200-300ML,25,45,169,239,0,1,1,.10460251,.18828452,170,92,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
-520248,CONDITIONER FOR HAIR,29,62,167,258,0,2,2,.1124031,.24031007,184,134,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
-520249,BABY WIPES 50-85,40,146,66,252,-.0548204,.89999998,.99000001,.15873016,.57936507,276,506,Other goods and services,Miscellaneous goods and services,Baby,SD,Goods
-520250,NAIL VARNISH BOTTLE 6 - 14mls,51,13,149,213,0,3.49,3.49,.23943663,.061032865,414,4,Other goods and services,Miscellaneous goods and services,Women,SD,Goods
-520251,COUGH LIQUID BOTTLE 150-200MLS,14,115,124,253,0,4.75,5.4079499,.055335969,.45454547,80,410,,Health,Unisex,ND,Goods
-520252,BODY M'RISING LOTION 200-400ML,67,38,163,268,0,4,4,.25,.14179105,427,55,,Miscellaneous goods and services,Unisex,ND,Goods
-520253,SELF TANNING PRODUCT,68,97,179,344,0,7,7.0105,.19767442,.28197673,336,174,,,,,
-520301,MAN'S HAIRCUT,11,236,9,256,-.017681759,15,15.27,.04296875,.921875,59,569,Other goods and services,Miscellaneous goods and services,Men,S,Services
-520303,WOMEN'S HRDRESSING-CUT/BLOWDRY,8,222,10,240,-.017681759,37,38.346451,.033333335,.92500001,42,571,Other goods and services,Miscellaneous goods and services,Women,S,Services
-520311,WOMENS HIGHLIGHTING,9,219,11,239,-.017681759,71,73.32,.037656903,.916318,49,566,Other goods and services,Miscellaneous goods and services,Women,S,Services
-520313,NON-NHS MEDICINE-PHYSIOTHERAPY,17,39,74,130,0,48,50,.13076924,.30000001,227,195,Medical and health,Health,Unisex,S,Services
-520324,RESIDENTIAL HOME,10,71,64,145,-.02391202,795,825,.068965517,.48965517,108,449,Other goods and services,Miscellaneous goods and services,Unisex,S,Services
-520325,NURSING HOME,4,59,67,130,0,950,972.63501,.030769231,.45384616,39,409,Medical and health,Miscellaneous goods and services,Unisex,S,Services
-520326,PRIVATE DENTAL EXAMINATION,6,61,78,145,0,46,45.27,.04137931,.42068964,58,367,Medical and health,Health,Unisex,S,Services
-520331,BASIC MANICURE,8,103,3,114,-.017681697,20,20.360001,.070175439,.90350878,110,561,Other goods and services,Miscellaneous goods and services,Women,S,Services
-520332,NON NHS CHIROPRACTOR,4,44,90,138,0,55,56.264999,.028985508,.31884059,36,222,Medical and health,Health,Unisex,S,Services
-610204,"CAR TYRE, STATE SIZE",37,116,48,201,-.029126186,70,74.303993,.1840796,.5771144,318,505,Cars and transport,Transport,Unisex,SD,Goods
-610221,WINDSCREEN WIPER BLADES,6,54,89,149,0,8.4899998,9.64048,.040268455,.36241612,57,290,Cars and transport,Transport,Unisex,SD,Goods
-610227,"CAR MOT TEST FEE, VAT EXEMPT",16,41,253,310,0,45,45,.051612902,.13225806,71,44,Cars and transport,Transport,Unisex,S,Services
-610231,CAR SERVICE- LOCAL GARAGE,5,23,70,98,0,168,169.5,.05102041,.23469388,69,132,Cars and transport,Transport,Unisex,S,Services
-610232,CAR SERVICE- MAIN DEALER,12,23,51,86,0,229,228.67999,.13953489,.26744187,241,161,Cars and transport,Transport,Unisex,S,Services
-610235,CAR REPAIRS MAIN DEALER,7,13,67,87,0,118.8,119.6316,.080459774,.14942528,128,59,Cars and transport,Transport,Unisex,S,Services
-610236,CAR REPAIRS LOCAL GARAGE,6,13,82,101,0,60,60,.059405942,.12871288,92,42,Cars and transport,Transport,Unisex,S,Services
-610237,CAR BULB 12 VOLT SPECIFY WATTS,15,31,101,147,0,3.5,3.5,.10204082,.21088435,166.5,109,Cars and transport,Transport,Unisex,SD,Goods
-610238,CAR WASH HAND OR AUTOMATIC,13,30,63,106,0,5,5,.12264151,.28301886,208,177,Cars and transport,Transport,Unisex,S,Services
-610239,EXHAUST FITTING FAST FIT CENT,21,46,21,88,-.0024935126,342.625,343.47922,.23863636,.52272725,412,480,Cars and transport,Transport,Unisex,S,Services
-610241,WHEEL ALIGNMENT,10,12,76,98,0,49.950001,50.169575,.10204082,.12244898,166.5,38,Cars and transport,Transport,Unisex,S,Services
-610303,OIL PER LITRE-MULTIGRADE,34,41,48,123,0,10,10.8,.27642277,.33333334,460,243.5,Cars and transport,Transport,Unisex,ND,Goods
-620303,SELF-DRIVE VAN HIRE,24,86,136,246,0,60,63,.097560972,.34959349,152,269,Cars and transport,Transport,Unisex,S,Services
-620304,PUSHCHAIR/STROLLER,8,72,29,109,-.077490762,159.99001,170.11501,.073394492,.66055048,115,530,Other goods and services,Miscellaneous goods and services,Baby,SD,Goods
-620307,SELF-DRIVE CAR HIRE BASIC 24HR,37,121,55,213,-.082146034,69.839996,77.902504,.17370892,.56807512,308,499,Cars and transport,Transport,Unisex,S,Services
-620308,MINICAB FARE FOR 2 MILES,4,34,93,131,0,6,6.0500002,.030534351,.25954199,38,150,Cars and transport,Transport,Unisex,S,Services
-620315,CAR PARK CHARGES,7,61,194,262,0,2.3,2.4012003,.026717557,.23282443,31,130,Cars and transport,Transport,Unisex,S,Services
-620317,CHILDS BICYCLE,13,167,61,241,-.10554568,110,117.58823,.053941909,.69294608,76,535,Cars and transport,Transport,Child,D,Goods
-620318,ADULT BIKE,14,161,67,242,-.1111111,274.98999,300.64941,.05785124,.66528928,87,533,Cars and transport,Transport,Unisex,D,Goods
-620319,CYCLE HELMET 12+ SPEC ROAD/MOU,50,71,168,289,0,30,30,.17301038,.24567474,306,138,Cars and transport,Clothing and footwear,Unisex,SD,Goods
-630138,DIGITAL RADIO (DAB),25,91,77,193,-.0069513191,89.989998,89.989998,.12953368,.4715026,225,432,"Relaxing, culture and hobbies",Recreation and culture,Unisex,D,Goods
-630156,HEADPHONES/EARPHO SPECIFY TYPE,54,143,173,370,0,20,22.99,.14594595,.3864865,255,325,"Relaxing, culture and hobbies",Recreation and culture,Unisex,D,Goods
-630159,OR SMALLER,41,178,78,297,-.041227184,199,203.179,.13804714,.59932661,240,515,"Relaxing, culture and hobbies",Recreation and culture,Unisex,D,Goods
-630160,OR LARGER,42,200,45,287,-.10873438,449,530.67004,.14634146,.69686413,256,536,"Relaxing, culture and hobbies",Recreation and culture,Unisex,D,Goods
-630162,PORTABLE SPEAKER,74,170,95,339,-.030067924,69.989998,80.011002,.21828909,.50147492,367,466,"Relaxing, culture and hobbies",Recreation and culture,Unisex,D,Goods
-630164,DVD/BLU RAY PLAYER,137,59,77,273,.042752847,59,59,.50183153,.21611722,574,114,,,,,
-630165,PORTABLE DIGITAL MUSIC PLAYER,48,36,63,147,0,199,199,.32653061,.24489796,513,137,,,,,
-630226,RECORDABLE CD PRICE PER CD,12,106,108,226,-.033816382,.40000001,.40000001,.053097345,.46902654,74,429,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
-630228,PRE-RECORDED DVD (FILM),13,16,13,42,0,10,10,.30952382,.38095239,495,319,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
-630229,PRE-RECORDED DVD (NON-FILM),0,15,15,30,-.0049751434,5,5.0250001,0,.5,5,462.5,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
-630230,CD ALBUM (TOP 40),2,27,8,37,-.2006395,10,12.51,.054054055,.72972971,77,542,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
-630231,CD ALBUM (NOT CHART),10,13,12,35,0,5,5,.2857143,.37142858,469.5,308,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
-630233,BLU RAY DISC (FILM) FROM CHART,10,17,14,41,0,15,15,.24390244,.41463414,422,358,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
-630309,BOXED BOARD GAME: NOT TRAVEL,22,87,65,174,-.018645747,20,22.208889,.12643678,.5,215.5,462.5,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
-630312,CHILD'S PLASTIC DOLL,62,46,92,200,0,10.4,9.9972,.31,.23,496,124,"Relaxing, culture and hobbies",Recreation and culture,Child,SD,Goods
-630313,MODEL RD VEHICLE EG HOT WHEELS,68,30,96,194,0,1.85,1.85,.35051546,.15463917,529,60,"Relaxing, culture and hobbies",Recreation and culture,Child,SD,Goods
-630314,CONSTRUCTION TOY: SPEC KIT NO,73,16,88,177,0,10,10,.41242939,.09039548,551,19,"Relaxing, culture and hobbies",Recreation and culture,Child,SD,Goods
-630317,"SLEEPING BAG, ADULT",16,52,80,148,0,30,33.489502,.10810811,.35135135,178,271,Household,Recreation and culture,Unisex,SD,Goods
-630332,CHILD'S SOFT TOY/TEDDY BEAR,52,49,101,202,0,8,8.1690006,.25742576,.24257426,437,135,"Relaxing, culture and hobbies",Recreation and culture,Child,SD,Goods
-630336,FOOTBALL,11,74,58,143,-.00099903846,16,16.784,.07692308,.51748252,120,474,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
-630340,CARBON FIBRE FISHING ROD,5,32,49,86,0,56.490002,57.490002,.058139537,.37209302,88,309,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
-630341,PRESCHOOL ACTIVITY TOY,40,54,74,168,0,10.75,11.62125,.23809524,.32142857,411,226,"Relaxing, culture and hobbies",Recreation and culture,Child,SD,Goods
-630342,BEGINNER'S ACOUSTIC GUITAR,19,23,43,85,0,99,99.197998,.22352941,.27058825,375,163.5,"Relaxing, culture and hobbies",Recreation and culture,Unisex,D,Goods
-630343,MEN'S FOOTBALL BOOTS,21,43,53,117,0,60,69.019997,.17948718,.36752138,312,298,"Relaxing, culture and hobbies",Recreation and culture,Men,SD,Goods
-630345,GOLF BALLS PRICE PER BALL,9,43,81,133,0,1,1,.067669176,.32330826,104,229,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
-630347,CHILD'S BABY DOLL,38,66,70,174,0,15,14.942499,.21839081,.37931034,368,316,"Relaxing, culture and hobbies",Recreation and culture,Child,SD,Goods
-630357,SQUASH/TENNIS RACQUET,9,44,82,135,0,21,22.070999,.06666667,.32592592,101,234,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
-630358,PORTABLE DIGITAL STORAGE DEVIC,54,99,85,238,0,9.9949999,11.62473,.22689076,.41596639,383,359,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
-630359,DIGITAL DEVELOPMENT PER PRINT,5,75,48,128,-.0079365345,.55000001,.55440003,.0390625,.5859375,54,508,"Relaxing, culture and hobbies",Recreation and culture,Unisex,S,Services
-630365,CRAFT KIT FOR CHILD 5 YRS+,102,26,97,225,.0020040222,9.5299997,8.3216696,.45333335,.11555555,564,35,"Relaxing, culture and hobbies",Recreation and culture,Child,SD,Goods
-630368,ELECTRONIC EDUCATIONAL TOY,20,107,78,205,-.0049751475,18,18,.097560972,.5219512,152,479,"Relaxing, culture and hobbies",Recreation and culture,Child,SD,Goods
-630369,CHARCOAL BBQ NOT DISPOSABLE,14,73,119,206,-.11660775,0,0,.067961164,.35436893,105,277,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
-630373,JIGSAW MINIMUM 100 PIECES,100,37,80,217,.055966202,10,9.9373493,.4608295,.17050691,567,76,"Relaxing, culture and hobbies",Recreation and culture,Unisex,ND,Goods
-630374,CHILDS SCOOTER AGE 5-12 YEARS,60,62,96,218,0,35,30.017,.27522936,.28440368,459,180,"Relaxing, culture and hobbies",Recreation and culture,Child,D,Goods
-630376,CHILDS SIT & RIDE TOY U'ER 5'S,92,46,76,214,.040582668,32.990002,30,.42990655,.21495327,557,112,"Relaxing, culture and hobbies",Recreation and culture,Child,SD,Goods
-630377,ACTION CAMERA,74,24,37,135,.17508812,39.990002,39.990002,.54814816,.17777778,578,83,"Relaxing, culture and hobbies",Recreation and culture,Unisex,D,Goods
-630378,COMPUTER GAME 1,20,4,5,29,.025640985,39,38.025002,.68965518,.13793103,586,53.5,,,,,
-630379,COMPUTER GAME 2,16,10,3,29,.1207047,45,36.674999,.55172414,.34482759,579,261,,,,,
-630380,COMPUTER GAME 3,16,5,7,28,.66389346,30,18,.5714286,.17857143,580,85,,,,,
-630381,HAND WEIGHTS FOR HOME EXERCISE,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,,,,,
-630422,BOOK-REFERENCE (EG ATLAS/DICT),42,74,66,182,0,10,10.9789,.23076923,.40659341,388.5,346,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
-630425,BOOK-NON-FICTION-HARD-COVER,42,143,15,200,-.18831165,14,16.87401,.20999999,.71499997,354,537,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
-630426,BOOK-NON-FICTION-PAPER-BACK,42,111,38,191,-.089253239,8.9899998,9.4574804,.21989529,.58115184,370,507,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
-630434,BOOK ILLUSTRATED FOR UNDER 5,19,83,86,188,0,5.9899998,6.1936598,.10106383,.44148937,161,393,"Relaxing, culture and hobbies",Recreation and culture,Child,SD,Goods
-630435,BOOK - FICTION - HARD COVER,46,141,39,226,-.22299916,11,13.42,.20353982,.6238938,346,520,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
-630437,BOOK - TEENAGE FICTION,23,100,63,186,-.062792905,7.9899998,7.9899998,.12365592,.53763443,209,490,"Relaxing, culture and hobbies",Recreation and culture,Child,SD,Goods
-630439,BOOK FICTION P/BACK TOP 10,21,142,65,228,-.10152742,7.4899998,7.4899998,.092105262,.62280703,143,519,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
-630440,"CHILDS BOOK, FICTION 6-12YRS",9,128,68,205,-.10873438,6.9899998,7.5142503,.043902438,.62439024,60,521,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
-630505,GARDEN SPADE,11,63,78,152,-.018645745,14.95,14.95,.072368421,.41447368,113,357,Household,Recreation and culture,Unisex,D,Goods
-630507,HOUSEPLANT,105,45,45,195,.037344404,4,4.3739996,.53846157,.23076923,577,126.5,"Relaxing, culture and hobbies",Recreation and culture,Unisex,ND,Goods
-630510,POTTING COMPOST,19,63,59,141,-.030067869,5.8000002,4.6031699,.13475177,.44680852,230,401,"Relaxing, culture and hobbies",Recreation and culture,Unisex,ND,Goods
-630518,CUT FLOWERS-CARNATIONS-STEM,61,46,63,170,0,.40000001,.43210003,.35882354,.27058825,533,163.5,"Relaxing, culture and hobbies",Recreation and culture,Unisex,ND,Goods
-630519,POTTED SHRUB,16,59,60,135,-.010880314,3,3.033,.11851852,.43703705,197,387,"Relaxing, culture and hobbies",Recreation and culture,Unisex,ND,Goods
-630520,"MOWER ELECTRIC, SPECIFY TYPE",15,74,66,155,-.061032932,79.989998,80,.096774191,.47741935,149,439,Household,Recreation and culture,Unisex,D,Goods
-630525,PLANT FOOD 800ML-2LT/500G-1.5K,38,41,74,153,0,4,4.2014699,.24836601,.26797387,425,162,"Relaxing, culture and hobbies",Recreation and culture,Unisex,ND,Goods
-630526,"SEEDS,PKT,SPEC VAR(SEASONAL)",23,43,95,161,0,1.5,1.5239501,.14285715,.26708075,247,159,"Relaxing, culture and hobbies",Recreation and culture,Unisex,ND,Goods
-640212,THEATRE ADULT EVES-FRONT STLLS,10,32,20,62,-.065420628,22.25,23.73225,.16129032,.51612902,286.5,472,"Relaxing, culture and hobbies",Recreation and culture,Unisex,S,Services
-640219,SWIMMING POOL ADM STND ADULT,1,134,0,135,-.0059642564,4.9000001,4.9797001,.0074074073,.99259257,12,586,"Relaxing, culture and hobbies",Recreation and culture,Unisex,S,Services
-640222,EXERCISE CLASS UPTO 1HR,3,123,2,128,-.031007681,6.6499996,7.0778995,.0234375,.9609375,29,583,"Relaxing, culture and hobbies",Recreation and culture,Unisex,S,Services
-640224,TEN-PIN BOWLING PER GAME,12,108,0,120,-.027237343,7,7.1960001,.1,.89999998,156,560,"Relaxing, culture and hobbies",Recreation and culture,Unisex,S,Services
-640226,PRIVATE HEALTH CLUB ANNUAL FEE,8,97,2,107,-.017681763,384,400.51199,.074766353,.90654206,118,564,"Relaxing, culture and hobbies",Recreation and culture,Unisex,S,Services
-640240,LIVERY CHARGES PER WEEK,0,16,83,99,0,95,98.080002,0,.16161616,5,66,"Relaxing, culture and hobbies",Recreation and culture,Unisex,D,Goods
-640243,SOFT PLAY SESSION TIME PERIOD,0,125,0,125,-.027237345,6,6.1680002,0,1,5,588,"Relaxing, culture and hobbies",Recreation and culture,Child,S,Services
-640406,HOTEL 1 NIGHT PRICE,7,54,29,90,-.1749175,71.25,87.922127,.077777781,.60000002,123.5,516,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-210211,CORN SNACK SINGLE PACK MAX 50G,45,28,57,130,0,.79500002,.84490001,.34615386,.21538462,524,113,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211023,COOKED HAM PREPACKED SLICED,49,33,92,174,0,2.5,2.0825,.28160921,.18965517,464,94.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-211603,EGGS-LARGE-PER DOZ OR 2 X 6,10,77,61,148,-.0049751196,2.25,2.25,.067567565,.52027029,102.5,478,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
-220214,STAFF RESTAURANT MAIN COURSE,3,39,9,51,-.036608823,1.7,1.7657499,.05882353,.7647059,90,547,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-310306,BOTTLE OF MIXER 125-200ML,21,327,13,361,-.027237341,1.5,1.5420001,.058171745,.90581715,89,563,Food and drink,Alcoholic beverages and tobacco,Unisex,ND,Goods
-310307,LIQUEUR PER NIP   SPECIFY ML,10,335,15,360,-.020568093,3.0999999,3.3693001,.027777778,.93055558,34,576,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
-310315,BOTTLE OF WINE 70-75CL,15,354,17,386,-.027237343,18.99,19.450882,.038860105,.91709846,52,568,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
-430140,SOFA BED,13,103,74,190,-.036144301,574.5,605.9848,.068421051,.54210526,107,492,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
-430317,ELECTRIC IRON,50,87,109,246,0,29.99,29.99,.20325203,.35365853,344,276,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
-430525,CLEAR STICKY TAPE,17,103,151,271,0,1.5,1.5132,.062730625,.38007382,95,318,"Relaxing, culture and hobbies","Furniture, household equipment and maintenance",Unisex,ND,Goods
-440127,MONTHLY SELF STORAGE FEE,18,55,40,113,0,96,101.738,.15929204,.48672566,279,445,Other goods and services,"Furniture, household equipment and maintenance",Unisex,S,Services
-510256,WOMEN'S SHOWERPROOF JACKET,38,56,62,156,0,66,72.449463,.24358974,.35897437,421,285,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-510330,BABY SLEEPSUIT LONG SLEEVE,74,153,81,308,-.029126223,4.585,4.7599902,.24025974,.49675325,415,458,Clothes and shoes,Clothing and footwear,Child,SD,Goods
-510432,LADY'S SCARF,90,87,140,317,0,8,6.4000001,.28391168,.27444795,465,166,Clothes and shoes,Clothing and footwear,Women,SD,Goods
-630381,HAND WEIGHTS FOR HOME EXERCISE,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,,,,,
-630381,HAND WEIGHTS FOR HOME EXERCISE,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,,,,,
-630381,HAND WEIGHTS FOR HOME EXERCISE,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,,,,,
-630381,HAND WEIGHTS FOR HOME EXERCISE,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,,,,,
-630381,HAND WEIGHTS FOR HOME EXERCISE,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,,,,,
-630381,HAND WEIGHTS FOR HOME EXERCISE,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,,,,,
-630381,HAND WEIGHTS FOR HOME EXERCISE,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,,,,,
-630381,HAND WEIGHTS FOR HOME EXERCISE,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,,,,,
-630381,HAND WEIGHTS FOR HOME EXERCISE,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,,,,,
-630381,HAND WEIGHTS FOR HOME EXERCISE,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,,,,,
-630381,HAND WEIGHTS FOR HOME EXERCISE,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,,,,,
-630381,HAND WEIGHTS FOR HOME EXERCISE,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,,,,,
-630381,HAND WEIGHTS FOR HOME EXERCISE,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,,,,,
-630381,HAND WEIGHTS FOR HOME EXERCISE,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,,,,,
+item_id,item_desc,item_division,item_3dig,item_4dig,p_up,p_down,p_level,obs,p_ch,p,p_r,up_sh,down_sh,upRank,downRank,name1,coicopname,sex,durability,goods_services
+210102,LARGE LOAF-WHITE-UNSLICED-800G,21,210,2101,6,65,43,114,-.043062158,1.125,1.2017499,.052631579,.57017541,73,501,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210106,SIX BREAD ROLLS-WHITE/BROWN,21,210,2101,12,75,63,150,-.016715806,.77499998,.77695,.079999998,.5,127,462.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210111,WHITE SLICED LOAF BRANDED 750G,21,210,2101,40,64,47,151,0,1.1,1.0626,.26490065,.42384106,446,373,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210113,WHOLEMEAL SLICED LOAF BRANDED,21,210,2101,50,47,51,148,0,.99000001,.99659997,.33783785,.31756756,520,221,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210114,CHILLED GARLIC BREAD,21,210,2101,64,49,129,242,0,.93000001,.94367498,.2644628,.20247933,445,106,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210201,FLOUR-SELF-RAISING-1.5KG,21,210,2102,70,10,69,149,.032481357,.60000002,.59990001,.46979865,.067114092,570,8,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210204,DRY SPAGHETTI OR PASTA 500G,21,210,2102,29,93,122,244,0,.60000002,.62064999,.11885246,.38114753,199,320,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210211,CORN SNACK SINGLE PACK MAX 50G,21,210,2102,45,28,57,130,0,.79500002,.84490001,.34615386,.21538462,524,113,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210211,CORN SNACK SINGLE PACK MAX 50G,21,210,2102,45,28,57,130,0,.79500002,.84490001,.34615386,.21538462,524,113,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210212,BASMATI RICE 500G-1KG,21,210,2102,26,55,68,149,0,1.6,1.682,.17449665,.36912751,309,303,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210213,BREAKFAST CEREAL 1,21,210,2102,37,108,97,242,0,2.5999999,2.65625,.15289256,.44628099,266,400,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210214,BREAKFAST CEREAL 2,21,210,2102,35,85,122,242,0,1.9,1.9,.14462809,.35123968,251,270,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210215,CEREAL BAR,21,210,2102,65,28,150,243,0,.25999999,.25,.2674897,.11522634,450,34,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210216,HOT OAT CEREAL,21,210,2102,39,89,116,244,0,1.75,1.75,.15983607,.36475411,282,294,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210217,RICE MICRO POUCH/TRAY 220-280G,21,210,2102,32,33,180,245,0,.99000001,.99000001,.13061224,.13469388,226,48,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210218,"POPCORN, BAG, 10-30G",21,210,2102,83,21,125,229,0,.30000001,.30000001,.36244541,.091703057,536,20,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210219,BREAKFAST CEREAL GLUTEN FREE,21,210,2102,17,77,123,217,0,2,1.9854999,.078341015,.3548387,126,278,Food and drink,,,,
+210301,CREAM CRACKERS PACK 200G-300G,21,210,2103,35,30,86,151,0,1,1,.23178808,.1986755,392,102,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210302,PLAIN BISCUITS-200-300G,21,210,2103,11,96,46,153,-.035679784,1,1,.071895428,.627451,112,522,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210319,DOUGHNUT-EACH,21,210,2103,23,65,45,133,-.015748046,.25,.24349999,.17293233,.48872182,305,447,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210320,WHOLE SPONGE CAKE NOT FROZEN,21,210,2103,24,42,84,150,0,1.5,1.5713251,.16,.28,283,172.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210321,PACK OF 5-6 INDIVIDUAL CAKES,21,210,2103,19,72,48,139,-.083409712,1.6,1.6,.13669065,.51798558,235,475,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210323,BISCUITS HALF CHOC 260-400G,21,210,2103,77,42,127,246,0,1,.94760001,.31300813,.17073171,500,77,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210324,CRUMPETS PACK 6-9 SPEC NUMBER,21,210,2103,107,32,93,232,0,.80000001,.66079998,.46120688,.13793103,568,53.5,Food and drink,,,,
+210403,HOME KILLED BEEF-LEAN MINCE KG,21,210,2104,89,96,95,280,0,6.5999999,6.7502604,.31785715,.34285715,503,260,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210406,HOME KLD BEEF-RUMP/POPES STEAK,21,210,2104,34,120,118,272,0,15.37,16.200901,.125,.44117647,211,392,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210414,FROZEN BEEFBURGERS PACK OF 4,21,210,2104,30,30,80,140,0,2.49,2.1689999,.21428572,.21428572,361.5,111,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210416,BEEF ROASTING JOINT PER KG,21,210,2104,51,81,121,253,0,10.5,10.78,.20158103,.32015809,342,224,Food and drink,,,,
+210506,HK LAMB LOIN CHOP/STEAK PER KG,21,210,2105,39,187,128,354,-.026763719,14.065001,14.644541,.11016949,.52824861,181,483,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210703,HOME KILLED PORK-LOIN CHOPS KG,21,210,2107,46,77,138,261,0,6.5700002,6.6094203,.17624521,.29501915,311,190,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210802,BACON-GAMMON-PER KG,21,210,2108,56,80,130,266,0,7,7.0425005,.21052632,.30075186,355,197.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210808,BACON-BACK-PER KG,21,210,2108,97,78,105,280,0,7.1999998,7.8852,.34642857,.27857143,526,170,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210905,FRESH/CHILLED CHICKEN  PER KG,21,210,2109,43,110,101,254,-.0019959586,2.77,2.8127899,.16929133,.43307087,300,379,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210910,FRESH BONELESS CHICKEN BREAST,21,210,2109,62,94,111,267,0,6.5900002,6.5799999,.23220974,.35205993,394,273,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210913,ROTISSERIE CHICKEN [WHOLE],21,210,2109,0,35,10,45,-.011857696,5,5.1101999,0,.77777779,5,548,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+210914,FRESH TURKEY DICED/MIN PER KG,21,210,2109,4,39,30,73,-.039363038,7.0999999,7.1128001,.05479452,.53424656,79,487,Food and drink,,,,
+211007,CANNED MEAT-STEWED STEAK,21,211,2110,28,42,76,146,0,2.45,2.45,.19178082,.28767124,332,182,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211011,INDIVIDUAL MEAT PIE,21,211,2110,43,93,131,267,0,1.5,1.5,.1610487,.34831461,284.5,267,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211014,SAUSAGES-PORK-PER KG,21,211,2110,63,102,114,279,0,5.6100001,5.4432397,.22580644,.36559141,379,295,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211019,FROZ CHICKEN NUGGETS 220-600G,21,211,2110,24,16,99,139,0,1.5,1.5,.17266187,.11510792,304,33,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211023,COOKED HAM PREPACKED SLICED,21,211,2110,49,33,92,174,0,2.5,2.0825,.28160921,.18965517,464,94.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211023,COOKED HAM PREPACKED SLICED,21,211,2110,49,33,92,174,0,2.5,2.0825,.28160921,.18965517,464,94.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211024,CONTINENTAL SLICED DELI MEAT,21,211,2110,30,27,117,174,0,2.0999999,2.0999999,.1724138,.15517241,303,61,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211025,JOINT OV/READ GAM/POR 450-900G,21,211,2110,44,23,93,160,0,5,4.7725,.27500001,.14375,458,57,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211026,CHICKEN KIEV 2 PACK 240-325G,21,211,2110,49,73,110,232,0,1.75,1.926,.2112069,.31465518,356,215,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211027,H K LIVER PER KG STATE TYPE,21,211,2110,11,48,83,142,0,2.5,2.5,.077464789,.33802816,122,252,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211029,COOKED MEAT TURKEY/CHICK SLICE,21,211,2110,73,115,165,353,0,1.75,1.75,.20679887,.32577905,351,233,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211030,MEAT BASED SNACK PACK MAX 400G,21,211,2110,24,75,144,243,0,1.75,1.75,.098765433,.30864197,154,209,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211031,COOKED HAM LOOSE PER 100G,21,211,2110,28,39,74,141,0,1.55,1.62352,.19858156,.27659574,337,168,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211101,FRESH WHITE FISH FILLETS KG,21,211,2111,10,62,76,148,0,16.35,16.35,.067567565,.41891891,102.5,365.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211105,FRESH FISH-SALMON FILLETS-KG,21,211,2111,90,25,35,150,.02880661,14.205,14.07789,.60000002,.16666667,585,71.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211106,FROZEN PRAWNS PER KG,21,211,2111,35,31,106,172,0,14.785,13.72625,.20348836,.18023255,345,87,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211207,"CANNED FISH, TUNA, 130G-200G",21,211,2112,33,75,38,146,-.011857647,.89999998,.95309997,.2260274,.51369864,381,470,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211210,FROZEN FISH FINGERS 8-12 PK,21,211,2112,96,62,86,244,0,2.5,2.1386001,.39344263,.25409836,547,144.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211211,FROZEN BREAD/BAT FISH 400-550G,21,211,2112,35,76,129,240,0,3.5,4,.14583333,.31666666,254,220,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211305,SPREADABLE BUTTER,21,211,2113,73,95,76,244,0,3,3.25,.29918033,.38934427,486,328,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211306,BUTTER 250G SPEC COO,21,211,2113,80,65,101,246,0,1.75,1.7,.32520324,.26422763,510,155,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211407,MARGARINE/LOW FAT SPREAD-500G,21,211,2114,21,96,33,150,-.20760646,1.7249999,1.8907499,.14,.63999999,242,526,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211408,OLIVE OIL - 500ML - 1 LITRE,21,211,2114,23,79,144,246,0,3.4000001,3.4000001,.093495935,.3211382,145,225,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211409,"PEANUT BUTTER, JAR, 225-350G",21,211,2114,53,76,128,257,0,2,1.75,.20622568,.29571983,348,191,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211501,CHEDDAR-HOME PRODUCED PER KG,21,211,2115,63,33,51,147,0,5.6300001,5.7287998,.42857143,.22448979,556,122,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211506,"CHEESE SPREAD, 125g-200g TUB",21,211,2115,5,66,62,133,-.05033236,1.5,1.5,.037593983,.49624062,47.5,457,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211509,HARD REGIONAL CHEESE PER KG,21,211,2115,55,26,66,147,0,7.0500002,6.8667002,.37414965,.17687075,541,82,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211510,PARMESAN CHEESE-PER KG,21,211,2115,13,64,58,135,-.0009979778,17.5,17.622499,.096296296,.47407407,148,435,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211511,SOFT CONTINENTAL CHEESE - KG,21,211,2115,58,54,129,241,0,8.5,8,.2406639,.22406639,416,121,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211602,EGGS-MEDIUM-PER DOZ OR 2 X 6,21,211,2116,15,69,57,141,-.00099903438,1.8,1.9,.10638298,.4893617,175,448,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211603,EGGS-LARGE-PER DOZ OR 2 X 6,21,211,2116,10,77,61,148,-.0049751196,2.25,2.25,.067567565,.52027029,102.5,478,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211603,EGGS-LARGE-PER DOZ OR 2 X 6,21,211,2116,10,77,61,148,-.0049751196,2.25,2.25,.067567565,.52027029,102.5,478,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211709,SHOP MILK-WHOLE MILK-4PT/2LTR,21,211,2117,65,97,84,246,0,1.15,1.15,.26422763,.39430895,444,334,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211710,MILK SEMI-PER 2 PINTS/1.136 L,21,211,2117,36,41,72,149,0,.85000002,.84830004,.24161074,.27516779,417,167,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211713,"MILK FLAVOURED, 180-500MLS/GMS",21,211,2117,37,31,158,226,0,1,1,.16371681,.13716814,291,52,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211714,NON-DAIRY MILK DRINK 900ML-1LT,21,211,2117,41,126,78,245,-.053030252,1.4,1.4,.16734694,.51428574,298.5,471,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211807,"YOGHURT/FROMAGE 4-6PK, 45-125G",21,211,2118,17,81,44,142,-.10071944,1.5,1.5,.11971831,.57042253,203,503,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211808,CHILLED POT DESSERT 125-200G,21,211,2118,36,41,84,161,0,.68000001,.68000001,.22360249,.25465837,376,146,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211814,YOGHURT-SMALL INDIVIDUAL,21,211,2118,35,28,88,151,0,.55000001,.56880003,.23178808,.18543047,392,91,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211815,FRESH DOUBLE CREAM 250ML-300ML,21,211,2118,27,45,77,149,0,1.15,1.1528,.18120806,.30201343,315,199.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211816,POWDERED BABY FORMULA 400-900G,21,211,2118,35,135,58,228,-.02534112,10.875,10.519469,.15350877,.59210527,267,512,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211901,TEA BAGS PKT OF 80 (230G-250G),21,211,2119,24,46,81,151,0,2,2,.1589404,.30463576,277,202.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211904,TEA BAGS-2-PACKET OF 240,21,211,2119,40,76,55,171,0,3.49,3.49,.23391813,.44444445,398,398,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+211905,"FLAVRD TEA 15-20 BAGS, 30-40G",21,211,2119,37,49,152,238,0,1.8,1.8,.15546219,.20588236,269,107,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212001,"FRUIT SQUASH, 750ML - 1.5LT",21,212,2120,75,54,115,244,0,1.5,1.4972351,.30737704,.22131148,493,117,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212006,FRUIT JUICE NOT ORANGE 1L,21,212,2120,38,48,64,150,0,.89999998,.90270007,.25333333,.31999999,431,223,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212008,LEMONADE-2 LITRE BOTTLE,21,212,2120,62,14,72,148,0,.52499998,.50872499,.41891891,.094594598,552,22,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212010,MINERAL WATER STILL 1.5-2L,21,212,2120,62,46,131,239,0,.5,.46991998,.25941423,.19246861,441,97,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212015,FIZZY ENERGY DRINK 250-500ML,21,212,2120,29,76,54,159,-.0029910721,1.45,1.5,.18238993,.47798741,316,440,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212016,FRESH/CHILL ORANGE JUICE 900ML,21,212,2120,50,45,57,152,0,2.3499999,2.4132001,.32894737,.29605263,515,192,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212017,FIZZY BOTTLED DRINK 500ML,21,212,2120,54,72,25,151,-.0034855269,1.45,1.5022001,.35761589,.47682118,532,437,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212020,FRUIT DRINK BOTTLE 4-8 PACK,21,212,2120,14,117,92,223,-.12510936,1.5,1.554,.062780268,.52466369,96,481,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212021,BOTTLE STILL WATER 500ML,21,212,2120,69,25,142,236,0,.38,.36954999,.29237288,.10593221,481,29,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212022,MIXER DRINK BOTTLE 1L EG TONIC,21,212,2120,45,41,158,244,0,1.4,1.4,.18442623,.16803278,320,73,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212023,COLA/FIZZY DRINK 330ML PK 4-8,21,212,2120,63,88,74,225,0,3,3,.28,.39111111,462,329,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212024,FLAVOURED WATER BOTT 900ML-1.5,21,212,2120,38,93,115,246,-.02723738,.5,.5,.15447155,.37804878,268,314,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212025,"COLA DRINK, REG,BOTTLE,1.25-2L",21,212,2120,86,30,125,241,0,1.9,1.89,.35684648,.12448133,531,40,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212026,"COLA DRINK, DIET 1.25-2LTR",21,212,2120,102,47,94,243,0,1.59,1.4535,.41975307,.19341564,553,99,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212101,SUGAR -GRANULATED-WHITE-PER KG,21,212,2121,66,21,156,243,0,.69999999,.699,.27160493,.086419754,453.5,16,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212106,JAR OF JAM-340-454G,21,212,2121,38,51,58,147,0,.85000002,.85000002,.25850341,.34693879,439,264,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212107,HONEY JAR/BOTTLE 340G-454G,21,212,2121,41,116,88,245,-.0044736546,2.3499999,2.5097997,.16734694,.47346938,298.5,434,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212202,MINTS,21,212,2122,32,24,86,142,0,.64999998,.65390003,.22535211,.16901408,378,74,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212211,CHOCOLATE 4,21,212,2122,21,36,84,141,0,.69999999,.69999999,.14893617,.25531915,258,148,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212214,FRUIT PASTILLES 2,21,212,2122,19,45,58,122,0,.64999998,.65015,.1557377,.36885247,270,301,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212217,CHEWING/BUBBLE GUM-SINGLE PK,21,212,2122,15,70,57,142,-.014778311,.60000002,.60445499,.1056338,.49295774,174,453,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212218,CARTON/BOX OF CHOCS 150-400GM,21,212,2122,23,37,61,121,0,4.5900002,4.79,.19008264,.30578512,328,204,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212222,CHOCOLATE 10,21,212,2122,46,39,36,121,0,.69999999,.699,.38016528,.32231405,544,227,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212223,BRAND CHOC SWEETS 90-185G BAG,21,212,2122,72,55,95,222,0,1,1.023,.32432431,.24774775,506,139,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212224,"SWEETS, NOT CHOC, 150-250G BAG",21,212,2122,96,38,89,223,0,1,1,.43049327,.17040358,558,75,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212225,CHOCOLATE LARGE BAR 100-200G,21,212,2122,98,36,89,223,0,1.5,1.1695499,.43946189,.16143498,561,65,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212226,CHOCOLATE 12,21,212,2122,31,97,79,207,0,.60000002,.60060006,.14975846,.46859902,259,428,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212309,POTATOES-NEW-PER KG,21,212,2123,210,201,136,547,0,1.3200001,1.2855,.38391224,.36745888,545,297,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212310,POTATOES- OLD WHITE PER KG,21,212,2123,250,143,153,546,0,.47999999,.51350999,.45787546,.26190478,565,152,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212311,POTATOES- BAKING PR KG,21,212,2123,91,241,162,494,-.012833195,.80000001,.80000001,.18421052,.48785424,319,446,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212402,POTATO CRISPS 25G-50G,21,212,2124,15,161,78,254,-.023437552,.85000002,.89999998,.05905512,.63385826,91,524,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212404,POTATO CRISPS-MULTI-PACK,21,212,2124,37,167,190,394,0,1.5,1.5,.09390863,.42385787,147,374,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212405,FROZEN CHIPS 900G-1.5KG,21,212,2124,40,141,213,394,0,1.8499999,2.079,.10152284,.35786802,163,284,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212408,PREMIUM POTATO CRISPS/CHIPS,21,212,2124,44,60,58,162,0,2,2,.27160493,.37037036,453.5,307,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212409,P'PARED MASHED POTATO 400-650G,21,212,2124,134,60,168,362,0,1,.949,.37016574,.16574585,539,69,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212504,FRESH VEG-CAULIFLOWER-EACH,21,212,2125,169,186,203,558,0,.89999998,.90542495,.30286738,.33333334,489,243.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212510,FRESH VEG-CUCUMBER-WHOLE,21,212,2125,237,173,166,576,0,.55000001,.54120004,.41145834,.30034721,550,196,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212511,FRESH VEG-LETTUCE-ICEBERG-EACH,21,212,2125,293,130,141,564,.018329917,.5,.43000001,.51950353,.23049645,575,125,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212515,FRESH VEG-TOMATOES-PER KG,21,212,2125,325,94,126,545,.012145777,2.1800001,2.1712801,.59633029,.17247707,584,79,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212516,FRESH VEG-CABBAGE-WHOLE-PER KG,21,212,2125,139,182,227,548,0,.75,.75,.25364962,.33211678,432,241,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212518,FRESH VEG-CARROTS-PER KG,21,212,2125,208,252,96,556,0,.5,.55159998,.37410071,.45323741,540,408,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212519,FRESH VEG-ONIONS-PER KG,21,212,2125,129,238,164,531,0,.85000002,.87294996,.24293785,.44821092,420,403,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212520,FRESH VEG-MUSHROOMS-PER KG,21,212,2125,173,204,185,562,0,3.1700001,3.30336,.30782917,.36298934,494,292,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212527,PRE-PACKED SALAD 100-250G,21,212,2125,47,14,97,158,0,1,1.12111,.29746836,.088607594,484,17,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212530,FRESH VEG-BROCCOLI-PER KG,21,212,2125,237,198,112,547,0,1.88,1.88,.43327239,.36197442,559,288,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212531,FRESH VEG-COURGETTE-PER KG,21,212,2125,264,131,165,560,.0080645382,2,2,.47142857,.23392858,571,131,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212532,FRESH VEG-PEPPERS -LOOSE OR KG,21,212,2125,242,227,98,567,0,.5,.51216,.42680776,.40035275,555,338,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212533,VEGETABLE STIR FRY FRESH PACK,21,212,2125,24,35,197,256,0,1.25,1.25,.09375,.13671875,146,51,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212535,SWEET POTATO PER KG OR EACH,21,212,2125,295,149,200,644,0,1.1,1.1,.45807454,.23136646,566,128,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212601,CANNED TOMATOES 390-400G,21,212,2126,36,322,39,397,-.12049247,.44999999,.50624996,.0906801,.81108314,139,550,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212603,"BAKED BEANS, 400-420G TIN",21,212,2126,75,114,201,390,0,.85000002,.85000002,.1923077,.2923077,334,185,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212608,CANNED SWEETCORN 198-340G,21,212,2126,16,189,75,280,-.033816356,.75,.80324996,.057142857,.67500001,82,534,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212609,FROZEN GARDEN PEAS 800G-1KG,21,212,2126,79,51,161,291,0,1,1,.27147767,.17525773,452,81,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212709,ORANGES-CLASS 1-EACH,21,212,2127,129,248,172,549,0,.38999999,.40052998,.23497267,.45173043,401,405,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212710,AVOCADO PEAR-EACH,21,212,2127,162,297,100,559,-.033816408,.85000002,.91079998,.28980321,.53130591,475,485,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212712,KIWI FRUIT-EACH,21,212,2127,85,284,165,534,-.031945802,.25,.26854998,.15917604,.5318352,278,486,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212715,GRAPEFRUIT-EACH,21,212,2127,118,213,173,504,0,.5,.60000002,.23412699,.42261904,399,370,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212716,APPLES-COOKING-PER KG,21,212,2127,29,123,223,375,-.0019960129,1.96,1.94805,.077333331,.32800001,121,235,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212717,APPLES-DESSERT-PER KG,21,212,2127,55,218,164,437,-.081726387,1.99,2.1800001,.12585813,.49885583,213,459,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212718,PEARS-DESSERT-PER KG,21,212,2127,61,200,203,464,-.025815602,1.99,2.2,.13146552,.43103448,228,376.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212719,BANANAS-PER KG,21,212,2127,25,139,361,525,0,.79000002,.79000002,.047619049,.26476189,66,157,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212720,STRAWBERRIES PER KG OR PUNNET,21,212,2127,389,59,41,489,.26582277,4.5,3.5090101,.79550099,.1206544,588,37,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212722,GRAPES-PER KG,21,212,2127,199,167,184,550,0,4,4,.36181819,.30363637,535,201,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212725,SMALL TYPE ORANGES PER PACK/KG,21,212,2127,124,263,100,487,-.021526353,2.25,2.4990001,.25462013,.54004109,433,491,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212726,PLUMS PER KG/PACK,21,212,2127,172,189,169,530,0,2.2249999,2.32757,.32452831,.35660377,508,280,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212728,PINEAPPLE EACH,21,212,2127,52,47,61,160,0,1,1,.32499999,.29374999,509,188,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212730,FRUIT FRESH SNACKING 150-350G,21,212,2127,47,20,176,243,0,1.75,1.80075,.19341564,.08230453,335,12,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212731,MELON EACH EG HONEYDEW,21,212,2127,141,24,72,237,.49925038,1,.667,.59493673,.10126583,583,24.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212732,LEMON EACH,21,212,2127,173,212,258,643,0,.33000001,.33000001,.26905131,.32970452,451,239,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212733,BLUEBERRIES PUNNET OR PER KG,21,212,2127,241,199,151,591,0,10,9.6730394,.40778342,.33671743,548,251,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212734,RASPBERRIES PUNNET OR PER KG,21,212,2127,403,47,77,527,.14744733,10.6,9.1189995,.7647059,.089184061,587,18,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212806,PACKET OF PEANUTS 150-300G,21,212,2128,17,134,145,296,0,1.25,1.3,.057432432,.4527027,84,406,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212807,CANNED FRUIT-400-450G,21,212,2128,17,98,171,286,0,1,1,.059440561,.34265736,93,259,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212808,DRIED FRUIT - EG APRICOTS,21,212,2128,81,109,183,373,0,2,2.04,.21715818,.29222521,364,184,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212905,VEGETABLE PICKLE 280-520G,21,212,2129,73,130,96,299,0,1.55,1.6,.24414715,.43478259,424,382,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212910,CANNED SOUP-390-425G,21,212,2129,6,56,90,152,0,.94999999,.94999999,.039473683,.36842105,56,299,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212917,TOMATO KETCHUP BOTTLE 340-570G,21,212,2129,3,129,108,240,-.026763756,1.45,1.45,.0125,.53750002,18,489,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212918,FRZN READY-COOKD MEAL SERVES 1,21,212,2129,20,43,84,147,0,1.59,1.5856,.13605443,.29251701,233,186,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212923,COOK-IN SAUCE-JAR/CAN 350-520G,21,212,2129,35,74,42,151,-.0054676579,1.5,1.326,.23178808,.49006623,392,450,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212928,FROZ VEG BURGER/GRILL 180-454G,21,212,2129,46,91,134,271,0,1.75,1.75,.16974169,.33579335,301,248,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212930,MAYONNAISE 390-500G/420-540MLS,21,212,2129,78,39,126,243,0,1.5,1.4065601,.32098764,.16049382,504,64,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212933,ICE CREAM 450ML-1L,21,212,2129,47,24,80,151,0,2,1.8725899,.31125829,.1589404,498,63,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212934,DRIED POTTED SNACK 50-120G,21,212,2129,4,66,62,132,-.031945799,.94,1,.030303031,.5,37,462.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212936,CHILLED READY MEAL-MEAT-SERVS1,21,212,2129,43,50,56,149,0,2.75,2.6950002,.28859061,.33557048,473,246,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212937,CHILLED READY MEAL-FISH/VEG,21,212,2129,33,47,63,143,0,2.75,2.6500001,.23076923,.32867134,388.5,237,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212938,CHOCOLATE COVERED ICE CREAM,21,212,2129,28,122,94,244,-.032249026,.69999999,.75,.1147541,.5,190,462.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212939,CHILLED PIZZA EACH 300-600G,21,212,2129,108,44,80,232,0,3.29,2.9295001,.46551725,.18965517,569,94.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212940,PROTEIN POWDER 900G-2KG,21,212,2129,67,142,75,284,-.025815625,23.610001,22,.2359155,.5,404,462.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212941,QUICHE 340G-450G,21,212,2129,43,81,115,239,0,2.3,2.3,.17991632,.33891213,313,255,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+212942,VEGETABLE CRISPS PACK 80-125G,21,212,2129,9,136,87,232,-.1266375,1.99,2.2962399,.038793102,.58620691,51,510,Food and drink,,,,
+213003,COFFEE-INSTANT-100G JAR,21,213,2130,71,62,111,244,0,2.6500001,2.41694,.29098362,.25409836,478,144.5,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+213005,HOT CHOCOLATE DRINK INSTANT,21,213,2130,29,70,146,245,0,2.5,2.5,.11836734,.2857143,196,181,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+213006,COFFEE PODS PACK 8-16,21,213,2130,41,45,87,173,0,3.5,3.7469997,.23699422,.26011559,408,151,Food and drink,Food and non-alcoholic beverages,Unisex,ND,Goods
+220107,PUB -HOT MEAL,22,220,2201,116,219,18,353,-.0069513447,8.9899998,9.0798998,.32861191,.62039661,514,518,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+220116,LEMONADE/COLA DRAUGHT,22,220,2201,41,270,29,340,-.0049751587,1.97,1.9851,.12058824,.79411763,204,549,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+220117,BOTTLED MINERAL WATER,22,220,2201,22,295,19,336,-.013806779,1.87,1.8386999,.065476194,.87797618,99,558,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+220120,IN STORE CAFETERIA MEAL,22,220,2201,2,67,8,77,-.068033531,5.9499998,6.8695998,.025974026,.87012988,30,556,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+220121,RESTAURANT CUP OF COFFEE,22,220,2201,28,312,28,368,-.035679787,2.4749999,2.5725002,.076086953,.84782606,119,553,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+220122,RESTAURANT - SWEET COURSE,22,220,2201,33,348,19,400,-.043977041,5.75,5.9734745,.082500003,.87,130,555,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+220124,MUFFIN/INDIVIDUAL CAKE,22,220,2201,18,215,15,248,-.03660883,2,2.036,.072580643,.86693549,114,554,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+220125,FRUIT JUICE BOTTLE 250-350ML,22,220,2201,17,302,15,334,-.011857688,2.3249998,2.37115,.050898202,.90419161,68,562,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+220128,RESTAURANT MAIN COURSE,22,220,2201,18,361,26,405,-.040307138,12.5,13.4162,.044444446,.89135802,62,559,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+220208,STAFF RESTAURNT HOT SNACK ITEM,22,220,2202,12,38,2,52,-.0089196712,1.1099999,1.0089999,.23076923,.73076922,388.5,543,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+220209,PRIMARY SCHOOL- FIXED CHARGE,22,220,2202,5,135,1,141,-.00099904882,2.3,2.3023,.035460994,.95744681,44,582,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+220210,SECONDARY SCHOOL- CAFETERIA,22,220,2202,3,132,1,136,-.00099904998,2.4000001,2.4164,.022058824,.97058821,26,584,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+220214,STAFF RESTAURANT MAIN COURSE,22,220,2202,3,39,9,51,-.036608823,1.7,1.7657499,.05882353,.7647059,90,547,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+220214,STAFF RESTAURANT MAIN COURSE,22,220,2202,3,39,9,51,-.036608823,1.7,1.7657499,.05882353,.7647059,90,547,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+220301,FISH & CHIPS TAKEAWAY,22,220,2203,14,58,59,131,0,6.9499998,7,.10687023,.4427481,176,395,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+220303,SANDWICH-TAKE-AWAY (COLD),22,220,2203,91,113,143,347,0,2.5999999,2.5558,.26224783,.32564843,443,232,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+220305,TEA -TAKE-AWAY,22,220,2203,56,95,111,262,0,1.5,1.4992499,.21374045,.36259541,359,291,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+220310,POTATO CRISPS-INDIVIDUAL PACK,22,220,2203,4,314,13,331,-.018645782,1,1.0190001,.012084592,.94864047,17,579,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+220316,PIZZA TAKEAWAY OR DELIVERED,22,220,2203,24,26,79,129,0,7.9899998,7.9899998,.18604651,.20155039,323,105,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+220318,INDIAN TAKEAWAY,22,220,2203,21,35,77,133,0,7.5999999,7.75,.15789473,.2631579,272,154,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+220319,CHINESE TAKEAWAY,22,220,2203,25,42,66,133,0,5.8000002,5.8025999,.18796992,.31578946,327,217.5,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+220320,TAKEAWAY SOFT DRINK,22,220,2203,116,117,109,342,0,1.49,1.4818,.33918127,.34210527,521,257,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+220321,TAKEAWAY COFFEE LATTE,22,220,2203,28,150,76,254,-.014778298,2.5,2.6181998,.11023622,.5905512,182,511,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+220323,KEBAB- TAKEAWAY,22,220,2203,19,39,73,131,0,5.5,5.5,.14503817,.29770991,252,193,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+220324,CINEMA POPCORN,22,220,2203,1,94,0,95,-.027237339,5.3000002,5.4484,.010526316,.9894737,15,585,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+220325,VENDING MACHINE - SOFT DRINK,22,220,2203,3,56,18,77,-.027237371,1.5,1.5554999,.038961038,.72727275,53,541,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+220326,TAKEAWAY CHICKEN & CHIPS,22,220,2203,19,52,55,126,0,5.3000002,5.3783503,.15079366,.41269842,263,355,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+220327,T'AWAY COOKED SAVOURY PASTRY,22,220,2203,31,92,126,249,0,1,1.024,.12449799,.3694779,210,306,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+220328,BURGER IN A BUN EAT IN OR TAKE,22,220,2203,53,139,142,334,0,3.4450002,3.5,.15868263,.41616768,275,360,Eating out and hotels,,,,
+310102,DRAUGHT BITTER (PER PINT),31,310,3101,34,272,18,324,-.016715817,3.1750002,3.2578499,.10493827,.83950615,171,551,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+310104,DRAUGHT STOUT PER PINT,31,310,3101,6,340,11,357,-.016715782,4,4.04635,.016806724,.95238096,21,581,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+310109,LAGER - PINT 3.4-4.2%,31,310,3101,10,337,16,363,-.017681751,3.55,3.6458497,.027548209,.92837465,33,574,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+310110,PREMIUM LAGER - PINT 4.3-7.5%,31,310,3101,7,328,20,355,-.019607814,4.0999999,4.2329998,.01971831,.92394364,23,570,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+310111,BOTTLED PREMIUM LAGER 4.3-7.5%,31,310,3101,8,331,17,356,-.021526381,3.7,3.7869501,.02247191,.9297753,27,575,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+310114,CIDER 4.5%-5.5% ABV PINT/BOTTL,31,310,3101,40,307,18,365,-.017681733,3.75,3.8683999,.10958904,.84109586,180,552,Eating out and hotels,Alcoholic beverages and tobacco,Unisex,ND,Goods
+310207,BITTER-4CANS-440-500ML,31,310,3102,17,40,76,133,0,3.8900001,3.75,.12781955,.30075186,220,197.5,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+310215,LAGER 4 BOTTLES- PREMIUM,31,310,3102,24,112,99,235,-.026290119,5,5,.10212766,.47659576,168,436,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+310216,LAGER 10 - 24 CANS (440-500ML),31,310,3102,39,25,86,150,0,10.25,10.153,.25999999,.16666667,442,71.5,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+310217,LAGER 10-24 BOTTLES 250-330ML,31,310,3102,37,12,21,70,.093533233,10.25,10.284,.52857143,.17142858,576,78,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+310219,STOUT - 4 CAN PACK,31,310,3102,59,76,95,230,0,4.5,4.7414398,.25652173,.33043477,436,240,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+310220,SPEC'Y BEER BOTT 500ML 4-5.5,31,310,3102,57,63,120,240,0,1.6,1.6972749,.2375,.26249999,410,153,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+310221,APPLE CIDER 4 CAN PK 440-500ML,31,310,3102,86,48,105,239,0,4,3.7839999,.35983264,.20083682,534,104,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+310222,CIDER FLAVOURED BOTT 500-568ML,31,310,3102,61,40,140,241,0,2.0999999,2.0999999,.25311205,.16597511,430,70,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+310301,WHISKY (PER NIP) SPECIFY ML,31,310,3103,32,318,13,363,-.0079365633,3.0999999,3.276,.088154271,.87603307,136,557,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+310302,VODKA (PER NIP) SPECIFY ML,31,310,3103,13,336,14,363,-.017681736,3.3499999,3.52935,.035812672,.92561984,45.5,572,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+310306,BOTTLE OF MIXER 125-200ML,31,310,3103,21,327,13,361,-.027237341,1.5,1.5420001,.058171745,.90581715,89,563,Food and drink,Alcoholic beverages and tobacco,Unisex,ND,Goods
+310306,BOTTLE OF MIXER 125-200ML,31,310,3103,21,327,13,361,-.027237341,1.5,1.5420001,.058171745,.90581715,89,563,Food and drink,Alcoholic beverages and tobacco,Unisex,ND,Goods
+310307,LIQUEUR PER NIP   SPECIFY ML,31,310,3103,10,335,15,360,-.020568093,3.0999999,3.3693001,.027777778,.93055558,34,576,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+310307,LIQUEUR PER NIP   SPECIFY ML,31,310,3103,10,335,15,360,-.020568093,3.0999999,3.3693001,.027777778,.93055558,34,576,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+310309,SPIRIT BASED DRINK 275ML,31,310,3103,4,224,8,236,-.016715772,3.2,3.2544,.016949153,.94915253,22,580,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+310310,"WINE, PER 175 - 250 ML SERVING",31,310,3103,17,330,13,360,-.026290111,3.97,4.092865,.047222223,.91666669,65,567,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+310315,BOTTLE OF WINE 70-75CL,31,310,3103,15,354,17,386,-.027237343,18.99,19.450882,.038860105,.91709846,52,568,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+310315,BOTTLE OF WINE 70-75CL,31,310,3103,15,354,17,386,-.027237343,18.99,19.450882,.038860105,.91709846,52,568,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
+310316,GIN PER NIP,31,310,3103,13,338,12,363,-.022482894,3.2,3.4103,.035812672,.93112946,45.5,577,Alcohol and tobacco,,,,
+310401,WHISKY-70 CL BOTTLE,31,310,3104,49,45,57,151,0,14.5,14.5,.3245033,.29801324,507,194,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+310403,VODKA-70 CL BOTTLE,31,310,3104,67,77,101,245,0,13.13,13.16,.27346939,.31428573,457,214,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+310405,BRANDY 70CL BOTTLE,31,310,3104,63,38,48,149,0,17.5,17.5,.42281878,.25503355,554,147,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+310406,FORTIFIED WINE  (70-75CL),31,310,3104,75,32,116,223,0,10,10.4685,.33632287,.14349777,519,56,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+310419,WHITE WINE- EUROPEAN 75CL,31,310,3104,59,123,61,243,-.016715769,6.5,6.5,.24279836,.50617284,419,467,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+310420,WHITE WINE- NEW WORLD 75CL,31,310,3104,54,61,130,245,0,6.75,6.6900001,.22040816,.2489796,372,140,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+310421,RED WINE- EUROPEAN 75CL,31,310,3104,52,93,98,243,0,7,7.2250004,.21399178,.38271606,360,322,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+310422,RED WINE- NEW WORLD 75CL,31,310,3104,47,102,96,245,0,6.25,6.5459995,.19183673,.41632652,333,361,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+310423,BOTTLE OF CHAMPAGNE 75 CL,31,310,3104,50,56,44,150,0,27,22.049999,.33333334,.37333333,518,311,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+310425,ROSE WINE-75CL BOTTLE,31,310,3104,52,45,52,149,0,6,5.75,.3489933,.30201343,527.5,199.5,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+310426,SPARKLING WINE 75CL MIN 11%ABV,31,310,3104,44,69,130,243,0,7,7.553,.18106996,.28395063,314,179,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+310427,RUM WHITE EG BACARDI 70CL BOTT,31,310,3104,44,86,111,241,0,15,15,.18257262,.35684648,317,282,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+310428,CREAM LIQUER 70CL-1LT 14-20%,31,310,3104,33,69,133,235,0,15,15,.14042553,.29361701,244,187,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+310429,GIN BOTTLE 70CL,31,310,3104,31,64,147,242,0,14.5,14.5,.12809917,.2644628,221,156,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+310430,PRE MIXED SPIRIT 250-330ML,31,310,3104,33,64,143,240,0,1.8,1.8,.1375,.26666668,239,158,Alcohol and tobacco,,,,
+320108,CIGARETTES 8,32,320,3201,19,62,66,147,0,13.34,13.34,.1292517,.4217687,224,369,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+320115,CIGARETTES 15,32,320,3201,72,10,62,144,.0010009444,10.45,10.44,.5,.069444448,573,9,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+320122,20 FILTER - OTHER BRAND,32,320,3201,15,70,61,146,-.00049950625,12.33,12.53458,.10273973,.47945204,169,441,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+320124,E-CIG REFILL BOTTL/CART 2-10ML,32,320,3201,25,43,169,237,0,3.95,3.95,.10548523,.1814346,172,89,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+320125,CIGARETTES 21,32,320,3201,8,53,86,147,0,10.5,10.50225,.054421768,.3605442,78,286,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+320205,5 CIGARS: SPECIFY BRAND,32,320,3202,9,101,28,138,-.034749083,6.8800001,7.1413803,.065217391,.73188406,97,544,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+320206,HAND ROLLING TOBACCO PACK 30GM,32,320,3202,85,16,45,146,.017294047,15.75,15.692387,.58219177,.10958904,582,32,Alcohol and tobacco,Alcoholic beverages and tobacco,Unisex,ND,Goods
+410508,PLUMBER-DAYTIME HOURLY RATE,41,410,4105,1,3,118,122,0,50,50.200001,.0081967209,.024590164,14,3,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,S,Services
+410509,ELECTRICIAN-DAYTIME RATE/HOUR,41,410,4105,0,2,142,144,0,41,41,0,.013888889,5,1,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,S,Services
+410517,DECORATOR-DAILY RATE;SPEC HRS,41,410,4105,0,9,97,106,0,150,150,0,.084905662,5,14,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,S,Services
+410518,CARPENTER HOURLY RATE,41,410,4105,0,8,87,95,0,25,25,0,.08421053,5,13,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,S,Services
+410602,READY-MIXED FILLER-INT USE,41,410,4106,19,72,72,163,0,5,5,.11656442,.4417178,194,394,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,ND,Goods
+410607,PAINT BRUSH-2INCH/5CM WIDTH,41,410,4106,24,62,62,148,-.001996004,2.99,2.99739,.16216215,.41891891,289,365.5,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,ND,Goods
+410611,DOOR HANDLE-PACK FOR ONE DOOR,41,410,4106,25,54,79,158,0,13,14.029084,.15822785,.34177214,273,256,Household,"Housing, water, electricity, gas and other fuels",Unisex,D,Goods
+410614,POWER DRILL-HAMMER ACTION,41,410,4106,13,67,86,166,0,44,49,.078313254,.40361446,125,341,Household,"Housing, water, electricity, gas and other fuels",Unisex,D,Goods
+410621,VARNISH-CLEAR GLOSS-750ML-1LTR,41,410,4106,17,65,77,159,0,14.99,15.06723,.10691824,.40880504,177,350,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,ND,Goods
+410625,SCREWDRIVER,41,410,4106,7,82,92,181,0,3.49,3.9000001,.038674034,.45303866,50,407,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
+410629,WALLPAPER PER ROLL,41,410,4106,9,44,77,130,0,9.6199999,10.064,.069230773,.33846155,109,254,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,ND,Goods
+410631,SHOWER HEAD,41,410,4106,40,19,118,177,0,12,11.0145,.2259887,.10734463,380,30,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,ND,Goods
+410632,HIRE OF DOMES CARPET CLEANER,41,410,4106,11,54,46,111,-.00099903438,24,24.99,.0990991,.48648649,155,444,Household,"Housing, water, electricity, gas and other fuels",Unisex,D,Goods
+410633,MDF,41,410,4106,3,134,5,142,-.32614553,27,37.099998,.02112676,.94366199,25,578,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,ND,Goods
+410637,CERAMI TILES 15X15-25X50CM BOX,41,410,4106,13,63,52,128,-.00049952697,12,11.71975,.1015625,.4921875,164,451,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,ND,Goods
+410638,WOODSCREWS STEEL/ZIN PLATED PK,41,410,4106,7,81,68,156,-.021526432,2.0450001,2.0938749,.044871796,.51923078,63,477,Household,"Housing, water, electricity, gas and other fuels",Unisex,ND,Goods
+410639,PAINT GLOSS/EMUL 750ML-2.5LTR,41,410,4106,18,60,118,196,0,15.99,16,.091836736,.30612245,141,205,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,ND,Goods
+420101,COAL-HOUSEHOLD BEST QUAL 50KG,42,420,4201,14,8,87,109,0,21.98,21.98,.12844037,.073394492,222.5,10,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,ND,Goods
+420103,SMOKELESS FUEL 50KG,42,420,4201,9,14,85,108,0,25.275,25.049999,.083333336,.12962963,133,43,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,ND,Goods
+420405,KEROSENE - 1000L DELIVERED,42,420,4204,10,78,33,121,-.13156734,450.45001,490.5495,.082644626,.64462811,132,527,Housing and utilities,"Housing, water, electricity, gas and other fuels",Unisex,ND,Goods
+430101,DOUBLE WARDROBE,43,430,4301,22,137,137,296,-.019607872,399.98999,465.18164,.074324325,.46283785,117,423,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430104,ARMCHAIR -UPHOLSTERED,43,430,4301,37,129,79,245,-.03381642,469,464.45401,.15102041,.52653062,264,482,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430108,DOUBLE BED-WIDTH APPROX 135CM,43,430,4301,48,166,87,301,-.0084223123,499,503.98801,.15946844,.55149502,281,494,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430119,KITCH BASE UNIT WIDTH 800-1000,43,430,4301,5,91,31,127,-.046711192,127,137.728,.039370079,.71653545,55,538,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430120,COFFEE TABLE,43,430,4301,29,131,96,256,-.031945731,219,204.28812,.11328125,.51171875,188,468,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430122,SINGLE BED-WIDTH 90CM/3FT,43,430,4301,47,163,76,286,-.046703368,259.495,303.84717,.16433567,.56993008,293,500,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430127,CHEST OF DRAWERS,43,430,4301,31,160,82,273,-.074930601,250,270.5,.11355311,.58608061,189,509,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430132,MATTRESS- 3FT/90CM,43,430,4301,45,136,81,262,-.070198104,229.495,241.776,.17175573,.51908398,302,476,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430133,BOOKCASE/FREESTAND SHELV UNIT,43,430,4301,18,111,126,255,0,199,199,.070588239,.43529412,111,384,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430134,TABLE LAMP,43,430,4301,51,144,118,313,-.0079365633,21.99,24,.1629393,.4600639,290,418,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430136,PATIO TABLE & CHAIRS-SEASONAL,43,430,4301,21,72,65,158,-.11971831,75,86.25,.1329114,.4556962,229,411,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430137,LEATHER SETTEE,43,430,4301,16,103,45,164,-.077490792,1342,1399.39,.097560972,.62804878,152,523,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430138,HOME OFFICE DESK,43,430,4301,9,76,72,157,-.019607823,199,202.98,.057324842,.48407644,83,442,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430139,KITCH WALL UNIT WIDTH 800-1000,43,430,4301,14,80,45,139,-.038461518,110,118.17,.10071942,.57553959,159,504,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430140,SOFA BED,43,430,4301,13,103,74,190,-.036144301,574.5,605.9848,.068421051,.54210526,107,492,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430140,SOFA BED,43,430,4301,13,103,74,190,-.036144301,574.5,605.9848,.068421051,.54210526,107,492,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430141,DINING TABLE & 2-6 CHAIRS,43,430,4301,67,197,36,300,-.043062165,614.995,620.5,.22333333,.6566667,373,529,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430142,HIGH CHAIR,43,430,4301,51,77,44,172,0,49.990002,52.525597,.29651162,.44767442,483,402,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
+430143,"SETTEE,NON LEATHER - SEE HELP",43,430,4301,30,158,107,295,-.041227207,629,675.42303,.10169491,.53559321,165,488,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430211,DUVET-DOUBLE TOG 10-13.5,43,430,4302,34,160,145,339,-.029126175,18,19.051411,.10029498,.4719764,157,433,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
+430216,DUVET COVER,43,430,4302,73,142,148,363,0,15,16,.20110193,.39118457,340,330,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
+430224,FITTED BED SHEET,43,430,4302,31,138,195,364,0,8,8.2628002,.085164838,.37912089,134,315,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
+430227,LAMINATE FLOORING PER SQ M,43,430,4302,28,158,62,248,-.037536155,18.99,20.016499,.11290322,.63709676,185,525,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430228,BATH SHEET,43,430,4302,43,132,165,340,0,14.2,14.400001,.1264706,.3882353,217,327,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
+430229,FABRIC ROLLER BLIND 120-180CM,43,430,4302,25,22,119,166,0,14.99,14.99,.15060242,.13253012,262,45,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
+430233,CARPET TUFTED 100% MANMADE FIB,43,430,4302,23,180,33,236,-.079189651,19.99,21.059999,.097457625,.76271188,150,546,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430234,CARPET TUFTED MIN 80% WOOL FIB,43,430,4302,29,167,34,230,-.025341161,33.990002,35.268074,.12608695,.72608697,214,540,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430235,FLOOR RUG STATE SIZE & MATERIA,43,430,4302,50,117,181,348,0,49.990002,50,.14367816,.33620688,249,249,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430236,CURTAINS READY MADE SP'FY SIZE,43,430,4302,28,87,121,236,0,35,36.037346,.11864407,.36864406,198,300,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
+430304,ELECTRIC COOKER,43,430,4303,42,117,18,177,-.027237356,399.98999,419.22498,.23728813,.66101694,409,531,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430307,ELECTRIC KETTLE - 1.5-1.7L,43,430,4303,58,124,87,269,0,29.99,30,.21561338,.46096656,363,419,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
+430317,ELECTRIC IRON,43,430,4303,50,87,109,246,0,29.99,29.99,.20325203,.35365853,344,276,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
+430317,ELECTRIC IRON,43,430,4303,50,87,109,246,0,29.99,29.99,.20325203,.35365853,344,276,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
+430321,ELECTRIC RAZOR,43,430,4303,54,35,68,157,.00050048257,25,26.025,.34394905,.22292994,523,119,Other goods and services,"Furniture, household equipment and maintenance",Unisex,SD,Goods
+430323,PHONE NT MOBILE(SPEC DIG/ANAL),43,430,4303,21,75,112,208,0,28.970001,28.025999,.10096154,.36057693,160,287,Telphones and post,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430351,ELECTRIC HAIR STYLING APP,43,430,4303,20,95,115,230,0,20,20,.086956523,.41304347,135,356,Other goods and services,"Furniture, household equipment and maintenance",Unisex,SD,Goods
+430355,VACUUM CLEANER,43,430,4303,62,124,99,285,-.0059642335,142.37,114.24,.21754386,.43508771,366,383,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430356,DISH WASHER 12-15 PLACE SET,43,430,4303,29,124,98,251,-.038461462,329,329,.11553785,.49402392,191,456,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430359,ELECTRIC COOLING FAN -SEASONAL,43,430,4303,21,154,95,270,-.089253232,17.99,21.588001,.077777781,.57037038,123.5,502,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430361,WASHING MACH NO DRYER MAX 1800,43,430,4303,61,123,84,268,0,379,377.51331,.22761194,.45895523,385,416,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430362,FRIDGE/FREEZER SPEC CAPACITIES,43,430,4303,31,193,43,267,-.12203693,379,418.75732,.11610487,.72284645,192,539,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430363,ELECTRIC TOOTHBRUSH,43,430,4303,102,137,169,408,0,35,31.237499,.25,.33578432,427,247,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
+430407,"SMALL SAUCEPAN,MILK",43,430,4304,23,90,57,170,-.043062184,5.4899998,5.3631153,.13529412,.52941179,231,484,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
+430409,SCISSORS - HOUSEHOLD,43,430,4304,22,83,69,174,-.061032914,2,2.3321252,.12643678,.4770115,215.5,438,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
+430413,GAS FIRE,43,430,4304,11,38,20,69,-.024390185,589,598.97504,.1594203,.55072463,280,493,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430414,GAS COOKERS-SPECIFY MAKE & MOD,43,430,4304,33,97,20,150,-.036608879,369.495,390.24969,.22,.64666665,371,528,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430418,PLASTIC FOOD STORAGE CONTAINER,43,430,4304,17,115,74,206,-.11111111,3,3.4993,.08252427,.55825245,131,497,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
+430419,STAINLESS STEEL CUTLERY SET,43,430,4304,43,44,144,231,0,15,15,.18614718,.19047619,324,96,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
+430422,PLAIN GLASS TUMBLER,43,430,4304,21,81,105,207,0,1,1,.10144927,.39130434,162,331,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
+430423,FRYING PAN 24-30CM,43,430,4304,39,116,80,235,-.058380459,14.95,14.400001,.16595745,.49361703,295,454,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
+430424,"BAKEWARE, METAL, TRAY/ROASTING",43,430,4304,32,159,157,348,0,7.9899998,8,.091954023,.45689654,142,414,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
+430425,"DINNER PLATE, APPROX DIAMETER",43,430,4304,64,96,150,310,0,2.5,2.875,.20645161,.30967742,349,210,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
+430503,BALL POINT,43,430,4305,45,97,136,278,0,.40000001,.5,.16187051,.34892085,288,268,"Relaxing, culture and hobbies","Furniture, household equipment and maintenance",Unisex,ND,Goods
+430505,ALUMIN COOKING FOIL 290-300MM,43,430,4305,19,47,83,149,0,1.79,1.7237699,.12751678,.31543624,219,216,Household,"Furniture, household equipment and maintenance",Unisex,ND,Goods
+430507,WASHING UP LIQUID 380-900ML,43,430,4305,62,56,136,254,0,.80000001,.90455002,.24409449,.22047244,423,116,Household,"Furniture, household equipment and maintenance",Unisex,ND,Goods
+430509,HOUSEHOLD CLEANER CREAM/LIQUID,43,430,4305,45,50,145,240,0,1,1,.1875,.20833333,325,108,Household,"Furniture, household equipment and maintenance",Unisex,ND,Goods
+430518,REFUSE SACK FROM PACK OF 10-20,43,430,4305,16,37,94,147,0,2.2,2.25,.10884354,.25170067,179,142,Household,"Furniture, household equipment and maintenance",Unisex,ND,Goods
+430524,LIGHT BULB,43,430,4305,23,35,66,124,0,2.5,2.5,.18548387,.28225806,321,176,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+430525,CLEAR STICKY TAPE,43,430,4305,17,103,151,271,0,1.5,1.5132,.062730625,.38007382,95,318,"Relaxing, culture and hobbies","Furniture, household equipment and maintenance",Unisex,ND,Goods
+430525,CLEAR STICKY TAPE,43,430,4305,17,103,151,271,0,1.5,1.5132,.062730625,.38007382,95,318,"Relaxing, culture and hobbies","Furniture, household equipment and maintenance",Unisex,ND,Goods
+430526,GREETINGS CARD; STATE CODE,43,430,4305,78,119,141,338,0,2,2,.23076923,.35207102,388.5,274,"Relaxing, culture and hobbies","Furniture, household equipment and maintenance",Unisex,ND,Goods
+430527,A4 PRINTER PAPER (500 REAM),43,430,4305,3,51,133,187,0,5,5.5549998,.01604278,.27272728,20,165,"Relaxing, culture and hobbies","Furniture, household equipment and maintenance",Unisex,ND,Goods
+430529,BLEACH 750ML,43,430,4305,46,20,84,150,0,.98000002,.96040004,.30666667,.13333334,492,46.5,Household,"Furniture, household equipment and maintenance",Unisex,ND,Goods
+430530,BLACK INKJET CARTRIDGE,43,430,4305,43,105,119,267,0,18.99,18.99,.1610487,.39325842,284.5,333,"Relaxing, culture and hobbies","Furniture, household equipment and maintenance",Unisex,ND,Goods
+430531,FABRIC CONDITIONER 500ML-1.5LT,43,430,4305,40,46,64,150,0,2,2,.26666668,.30666667,449,206,Household,"Furniture, household equipment and maintenance",Unisex,ND,Goods
+430533,KITCHEN ROLL PK OF 2-4 SPECIFY,43,430,4305,31,56,63,150,0,1.79,1.8072001,.20666666,.37333333,350,311,Household,"Furniture, household equipment and maintenance",Unisex,ND,Goods
+430535,SHEET OF WRAPPING PAPER,43,430,4305,98,47,175,320,0,.58999997,.54575002,.30625001,.14687499,491,58,"Relaxing, culture and hobbies","Furniture, household equipment and maintenance",Unisex,ND,Goods
+430536,TOILET ROLLS,43,430,4305,54,46,63,163,0,1.9,1.9261001,.33128834,.28220859,517,175,Other goods and services,"Furniture, household equipment and maintenance",Unisex,SD,Goods
+430538,DISHWASHER TABLETS PACK 16-45,43,430,4305,107,32,101,240,0,5,4.0741949,.44583333,.13333334,562,46.5,Household,"Furniture, household equipment and maintenance",Unisex,ND,Goods
+430539,DRYCELL BATTERY 4 PACK EG AA,43,430,4305,124,5,129,258,.040582683,4,3.6125002,.48062015,.019379845,572,2,Household,"Furniture, household equipment and maintenance",Unisex,SD,Goods
+430540,WASHING LIQUID 800ML/1.5LTR,43,430,4305,30,113,103,246,0,4,4,.12195122,.4593496,206.5,417,Household,"Furniture, household equipment and maintenance",Unisex,ND,Goods
+430613,DOG FOOD-CAN-385-400GM,43,430,4306,23,83,147,253,0,.64999998,.66062003,.090909094,.32806325,140,236,"Relaxing, culture and hobbies",Recreation and culture,Unisex,ND,Goods
+430617,ANIMAL CAGE (E.G FOR GERBIL),43,430,4306,18,21,88,127,0,26.99,25,.14173229,.16535433,245,67,"Relaxing, culture and hobbies",Recreation and culture,Unisex,ND,Goods
+430621,ANNUAL BOOSTER INJECTION,43,430,4306,7,85,61,153,-.012833167,44.5,46.059601,.045751635,.55555558,64,496,"Relaxing, culture and hobbies",Recreation and culture,Unisex,ND,Goods
+430622,DOG KENNEL FEES DAILY CHARGE,43,430,4306,5,42,86,133,0,16,16.511999,.037593983,.31578946,47.5,217.5,"Relaxing, culture and hobbies",Recreation and culture,Unisex,ND,Goods
+430623,SMALL CAGED MAMMAL,43,430,4306,6,10,91,107,0,10,10,.056074765,.093457945,81,21,"Relaxing, culture and hobbies",Recreation and culture,Unisex,ND,Goods
+430624,CAT FOOD POUCH-IND-85G-100G,43,430,4306,25,63,67,155,0,.37,.37554002,.16129032,.40645161,286.5,344.5,"Relaxing, culture and hobbies",Recreation and culture,Unisex,ND,Goods
+430625,WILD BIRD SEED PACK 500G-2KG,43,430,4306,7,50,81,138,0,2.79,3.0250001,.050724637,.36231884,67,289,"Relaxing, culture and hobbies",Recreation and culture,Unisex,ND,Goods
+430626,"DOG TREATS,SPEC,TYPE 70-400G",43,430,4306,69,69,138,276,0,1.29,1.2119999,.25,.25,427,141,Household,Recreation and culture,Unisex,D,Goods
+440101,DOMESTIC CLEANER HOURLY RATE,44,440,4401,0,39,107,146,0,13.5,13.5,0,.26712328,5,160,Household,Recreation and culture,Unisex,S,Services
+440104,DRY CLEANING-MAN'S SUIT,44,440,4401,7,81,154,242,0,13.5,13.5,.02892562,.33471075,35,245,Clothes and shoes,Clothing and footwear,Men,S,Services
+440105,DRIVING LESSON 1 HOUR,44,440,4401,1,200,0,201,-.017681759,29,29.6175,.0049751243,.99502486,10.5,587,Cars and transport,Transport,Unisex,S,Services
+440113,WINDOW-CLEAN 3-BED SEMI,44,440,4401,9,32,133,174,0,15,15,.05172414,.18390805,72,90,Household,"Furniture, household equipment and maintenance",Unisex,S,Services
+440116,WASHING MACHINE REPAIR,44,440,4401,4,24,85,113,0,59,60,.03539823,.21238938,43,110,Household,"Furniture, household equipment and maintenance",Unisex,S,Services
+440118,PC REPAIR,44,440,4401,8,12,119,139,0,60,60,.057553958,.086330935,86,15,"Relaxing, culture and hobbies",Recreation and culture,Unisex,S,Services
+440120,CHILD MINDER - HOURLY RATE,44,440,4401,3,23,103,129,0,4.5,4.5,.023255814,.17829457,28,84,Other goods and services,"Furniture, household equipment and maintenance",Child,S,Services
+440123,HOME REMOVAL- 1 VAN,44,440,4401,7,27,73,107,0,480,480,.065420561,.25233644,98,143,Cars and transport,"Furniture, household equipment and maintenance",Unisex,S,Services
+440126,WEEKLY NANNY FEES,44,440,4401,2,7,30,39,0,530,550,.051282052,.17948718,70,86,Household,"Furniture, household equipment and maintenance",Unisex,S,Services
+440127,MONTHLY SELF STORAGE FEE,44,440,4401,18,55,40,113,0,96,101.738,.15929204,.48672566,279,445,Other goods and services,"Furniture, household equipment and maintenance",Unisex,S,Services
+440127,MONTHLY SELF STORAGE FEE,44,440,4401,18,55,40,113,0,96,101.738,.15929204,.48672566,279,445,Other goods and services,"Furniture, household equipment and maintenance",Unisex,S,Services
+440128,HOME CARE ASSISTANT HRLY RATE,44,440,4401,1,42,49,92,-.010390689,19,19.673801,.010869565,.45652175,16,412.5,Other goods and services,"Furniture, household equipment and maintenance",Elderly,S,Services
+440129,PLAYGROUP FEES - PER SESSION,44,440,4401,1,20,107,128,0,10.25,10.625,.0078125,.15625,13,62,Other goods and services,"Furniture, household equipment and maintenance",Child,S,Services
+440131,WATCH BATTERY REPLACEMENT,44,440,4401,1,184,16,201,-.055712923,9.9899998,10.57941,.0049751243,.91542286,10.5,565,Other goods and services,Miscellaneous goods and services,Unisex,D,Goods
+440132,MEN'S CLOTHING HIRE- SEE HELP,44,440,4401,1,64,4,69,-.019607775,75,81.389099,.014492754,.92753625,19,573,Clothes and shoes,Clothing and footwear,Men,S,Services
+440226,HOME-BUYERS SURVEY-RSDNTL PPTY,44,440,4402,13,44,52,109,0,570,586.81,.11926606,.40366971,200,342,Other goods and services,Miscellaneous goods and services,Unisex,S,Services
+440227,FUNERAL-CREMATION,44,440,4402,24,175,93,292,-.0069513335,2797,2835.05,.08219178,.59931505,129,514,Other goods and services,Miscellaneous goods and services,Unisex,S,Services
+440232,NURSERY FEES: CHILD 0-4,44,440,4402,3,67,82,152,0,43.5,43.934502,.019736841,.44078946,24,391,Other goods and services,"Furniture, household equipment and maintenance",Child,S,Services
+440233,NEWSPAPER AD NON TRADE 20 WORD,44,440,4402,11,26,81,118,0,20,20,.093220338,.22033899,144,115,Other goods and services,Miscellaneous goods and services,Unisex,S,Services
+440240,BASIC WILL FOR A SINGLE PERSON,44,440,4402,0,24,50,74,0,240,240.76801,0,.32432431,5,231,Other goods and services,Miscellaneous goods and services,Unisex,S,Services
+440249,HOUSE CONVEYANCING,44,440,4402,5,71,76,152,-.0069512972,882,942,.032894738,.46710527,41,427,Other goods and services,Miscellaneous goods and services,Unisex,S,Services
+440254,HOURLY RATE FOR SOLICITOR,44,440,4402,2,18,54,74,0,264,270,.027027028,.24324325,32,136,Other goods and services,Miscellaneous goods and services,Unisex,S,Services
+510101,MENS SUIT-READY MADE,51,510,5101,75,129,90,294,-.022482865,95,101.36501,.25510204,.43877551,435,390,Clothes and shoes,Clothing and footwear,Men,SD,Goods
+510104,MENS JACKET/COAT,51,510,5101,146,125,53,324,0,35.5,40.934883,.45061728,.38580248,563,324,Clothes and shoes,Clothing and footwear,Men,SD,Goods
+510106,MENS JEANS,51,510,5101,37,150,140,327,0,22.5,23.832449,.11314984,.45871559,186.5,415,Clothes and shoes,Clothing and footwear,Men,SD,Goods
+510108,MEN'S JUMPER-KNITTED,51,510,5101,115,120,81,316,0,18.744999,18.399857,.36392406,.37974682,538,317,Clothes and shoes,Clothing and footwear,Men,SD,Goods
+510109,MEN'S FORMAL SHIRT-LONG SLEEVE,51,510,5101,42,169,116,327,-.051233422,18,18,.12844037,.5168196,222.5,473,Clothes and shoes,Clothing and footwear,Men,SD,Goods
+510113,MENS CASUAL S/SLEEVE TOP,51,510,5101,67,131,129,327,0,15,16.886999,.20489296,.40061161,347,339,Clothes and shoes,Clothing and footwear,Men,SD,Goods
+510117,MEN'S FORMAL RDY-MADE TROUSERS,51,510,5101,62,150,113,325,0,22,23.441339,.19076923,.46153846,330,420,Clothes and shoes,Clothing and footwear,Men,SD,Goods
+510118,MEN'S CASUAL TROUSERS,51,510,5101,34,147,141,322,0,19.99,22,.10559006,.45652175,173,412.5,Clothes and shoes,Clothing and footwear,Men,SD,Goods
+510120,MEN'S JUMPER OR SWEATSHIRT,51,510,5101,77,161,88,326,-.0342719,19.5,22,.23619632,.49386504,405,455,Clothes and shoes,Clothing and footwear,Men,SD,Goods
+510122,MEN'S TRACKSUIT/JOGGIN BOTTOMS,51,510,5101,32,63,130,225,0,28,27,.14222223,.28,246,172.5,Clothes and shoes,Clothing and footwear,Men,SD,Goods
+510124,MENS SHORTS NOT SWIMWEAR,51,510,5101,93,163,62,318,-.066293217,16,20.8965,.29245284,.51257861,482,469,Clothes and shoes,Clothing and footwear,Men,SD,Goods
+510126,MENS BRANDED T-SHIRT,51,510,5101,33,46,72,151,0,15.99,18,.21854305,.30463576,369,202.5,Clothes and shoes,Clothing and footwear,Men,SD,Goods
+510127,MENS OFFICIAL FOOTBALL SHIRT,51,510,5101,21,75,17,113,-.19999999,64.989998,77.271996,.18584071,.66371679,322,532,Clothes and shoes,Clothing and footwear,Men,SD,Goods
+510128,MEN'S BRANDED SPORT SWEATSHIRT,51,510,5101,52,56,41,149,0,39.990002,36.028259,.3489933,.37583894,527.5,313,Clothes and shoes,Clothing and footwear,Men,SD,Goods
+510131,MENS CASUAL SHIRT,51,510,5101,76,129,122,327,0,17.99,19.525,.2324159,.39449543,395,335,Clothes and shoes,Clothing and footwear,Men,SD,Goods
+510132,MEN'S T-SHIRT SHORT SLEEVED,51,510,5101,56,114,153,323,0,6,6,.17337461,.35294119,307,275,Clothes and shoes,Clothing and footwear,Men,SD,Goods
+510206,WOMENS BLOUSE/SHIRT 1,51,510,5102,108,140,83,331,0,15,15.68,.32628399,.42296073,512,371,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510208,WOMEN'S FORMAL JACKET,51,510,5102,88,146,82,316,-.010880309,28,36.830002,.27848101,.46202531,461,421,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510212,WOMEN'S JUMPER,51,510,5102,136,92,104,332,0,14,13.363306,.40963855,.27710843,549,169,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510215,WOMENS BASIC PLAIN T-SHIRT,51,510,5102,94,65,168,327,0,5.9899998,5.9600496,.28746179,.19877675,471,103,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510219,WOMEN'S CASUAL OUTER JACKET,51,510,5102,90,144,96,330,0,29.99,34.83033,.27272728,.43636364,456,386,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510223,WOMEN'S LONG SLV TOP-NT BLOUSE,51,510,5102,98,133,98,329,0,13,15.68,.29787233,.40425533,485,343,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510233,WOMEN'S CARDIGAN,51,510,5102,105,155,73,333,0,15,17.5,.31531531,.46546546,502,424,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510235,WOMEN'S TROUSERS-CASUAL,51,510,5102,115,144,73,332,0,16,17.072001,.34638554,.43373495,525,380,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510236,WOMEN'S TROUSERS-FORMAL,51,510,5102,78,139,113,330,0,18,19.99,.23636363,.42121211,406,368,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510237,WOMEN'S SKIRT: CASUAL,51,510,5102,120,154,56,330,0,16,19.6,.36363637,.46666667,537,425.5,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510238,WOMEN'S SKIRT: WORK/FORMAL,51,510,5102,106,101,122,329,0,15,15.809999,.32218844,.30699089,505,207,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510244,WOMEN'S VEST/STRAPPY TOP,51,510,5102,85,142,101,328,0,5.9899998,5.5,.25914633,.43292683,440,378,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510245,WOMENS DRESS -CASUAL/FORMAL,51,510,5102,118,153,60,331,0,19.99,23.526001,.35649547,.46223566,530,422,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510246,WOMENS SHORT SLEEVE SPORTS TOP,51,510,5102,55,89,83,227,0,14.99,13.488,.24229075,.39207047,418,332,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510248,WOMEN'S JEANS- OWN BRAND,51,510,5102,50,106,149,305,0,17.99,19.265999,.16393442,.34754097,292,265,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510249,WOMEN'S JEANS- BRANDED,51,510,5102,29,31,40,100,0,79,79,.28999999,.31,476,211,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510254,WOMENS SPORTSWEAR SHORTS,51,510,5102,43,70,89,202,0,17.744999,17.611,.21287128,.34653464,358,262,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510255,WOMEN'S SWIMWEAR,51,510,5102,33,72,118,223,0,14,15.68,.14798206,.32286996,257,228,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510256,WOMEN'S SHOWERPROOF JACKET,51,510,5102,38,56,62,156,0,66,72.449463,.24358974,.35897437,421,285,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510256,WOMEN'S SHOWERPROOF JACKET,51,510,5102,38,56,62,156,0,66,72.449463,.24358974,.35897437,421,285,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510257,WOMENS BLOUSE / SHIRT 2,51,510,5102,78,138,115,331,0,16,17.99,.23564954,.41691843,402,362,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510258,WOMENS LEGGINGS FULL LENGTH,51,510,5102,67,91,163,321,0,8.9899998,9.5,.20872274,.28348911,353,178,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510259,WOMENS SHORT SLEEVE FORMAL TOP,51,510,5102,103,182,45,330,-.10714287,14,16.67,.31212121,.55151516,499,495,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510260,WOMENS EXERCISE LEGGINGS,51,510,5102,83,87,81,251,0,22.99,22.99,.3306773,.34661356,516,263,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510324,TROUSERS  FOR SCHOOL 5-13 YRS,51,510,5103,59,126,125,310,0,7.9899998,8.4108105,.19032258,.40645161,329,344.5,Clothes and shoes,Clothing and footwear,Child,SD,Goods
+510328,BOYS JEANS (5-13 YEARS),51,510,5103,62,102,129,293,0,10,10,.21160409,.34812286,357,266,Clothes and shoes,Clothing and footwear,Child,SD,Goods
+510330,BABY SLEEPSUIT LONG SLEEVE,51,510,5103,74,153,81,308,-.029126223,4.585,4.7599902,.24025974,.49675325,415,458,Clothes and shoes,Clothing and footwear,Child,SD,Goods
+510330,BABY SLEEPSUIT LONG SLEEVE,51,510,5103,74,153,81,308,-.029126223,4.585,4.7599902,.24025974,.49675325,415,458,Clothes and shoes,Clothing and footwear,Child,SD,Goods
+510336,GIRLS SKIRT FOR SCHOOL 5-13YRS,51,510,5103,91,101,127,319,0,6,6.0075002,.28526646,.31661442,468,219,Clothes and shoes,Clothing and footwear,Child,SD,Goods
+510340,GIRLS FASHION TOP 12-13 YEARS,51,510,5103,69,80,53,202,0,8,9,.34158415,.39603961,522,336,Clothes and shoes,Clothing and footwear,Child,SD,Goods
+510344,GIRLS TROUSERS NOT DENIM 5-13,51,510,5103,93,113,115,321,0,8,8,.28971961,.35202491,474,272,Clothes and shoes,Clothing and footwear,Child,SD,Goods
+510347,GIRLS JACKET (5-13 YEARS),51,510,5103,144,73,112,329,0,14.99,14,.43768996,.2218845,560,118,Clothes and shoes,Clothing and footwear,Child,SD,Goods
+510348,BOYS T-SHIRT 3-13 YEARS,51,510,5103,36,90,101,227,0,10.5,10.5,.1585903,.39647576,274,337,Clothes and shoes,Clothing and footwear,Child,SD,Goods
+510349,GIRLS LEGGINGS 5-13 YEARS,51,510,5103,78,150,106,334,0,4,3.7205,.23353294,.44910181,396,404,Clothes and shoes,Clothing and footwear,Child,SD,Goods
+510402,MEN'S PANTS/BOXER SHORTS,51,510,5104,54,145,126,325,0,4.3299999,4.4355597,.16615385,.44615385,296,399,Clothes and shoes,Clothing and footwear,Men,SD,Goods
+510405,WOMEN'S NIGHTDRESS/PYJAMAS,51,510,5104,98,120,107,325,0,12,10.950001,.30153847,.36923078,488,304,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510406,WOMEN'S PANTS,51,510,5104,58,91,160,309,0,3,3,.18770227,.29449838,326,189,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510407,"BRA, CUP SIZE A-D RANGE",51,510,5104,73,116,137,326,0,9,10,.22392638,.35582823,377,279,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510410,CHILDS PYJAMAS 18MTHS-13YEARS,51,510,5104,82,145,82,309,0,9.9899998,10,.26537216,.46925566,447,431,Clothes and shoes,Clothing and footwear,Child,SD,Goods
+510411,CHILDS PANTS 1PR 18MTHS-13YRS,51,510,5104,63,98,152,313,0,1.2,1.2,.20127796,.31309903,341,213,Clothes and shoes,Clothing and footwear,Child,SD,Goods
+510413,MENS SOCKS 1 PAIR,51,510,5104,37,133,157,327,0,2.4000001,2.4000001,.11314984,.40672782,186.5,348,Clothes and shoes,Clothing and footwear,Men,SD,Goods
+510415,WOMEN'S TIGHTS,51,510,5104,37,103,178,318,0,3,3.03,.1163522,.32389936,193,230,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510416,CHILDS SOCKS 1 PR UK 3-6.5,51,510,5104,48,140,132,320,0,.89999998,.90359998,.15000001,.4375,260.5,388,Clothes and shoes,Clothing and footwear,Child,SD,Goods
+510419,MEN'S TIE,51,510,5104,45,103,162,310,0,6,6.7669497,.14516129,.33225808,253,242,Clothes and shoes,Clothing and footwear,Men,SD,Goods
+510429,KNITTING WOOL-DOUBLE KNIT-100G,51,510,5104,26,61,43,130,-.0054697073,2,2.0050001,.2,.46923077,339,430,Clothes and shoes,Clothing and footwear,Unisex,SD,Goods
+510432,LADY'S SCARF,51,510,5104,90,87,140,317,0,8,6.4000001,.28391168,.27444795,465,166,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510432,LADY'S SCARF,51,510,5104,90,87,140,317,0,8,6.4000001,.28391168,.27444795,465,166,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510433,MENS BASE LAYER TOP LONG/SHORT,51,510,5104,44,47,60,151,0,21.99,20.405001,.29139072,.31125829,479,212,Clothes and shoes,Clothing and footwear,Men,SD,Goods
+510434,"HAT/CAP, ADULT",51,510,5104,92,83,149,324,0,7,7.4340153,.28395063,.25617284,466,149,Clothes and shoes,Clothing and footwear,Unisex,SD,Goods
+510501,MENS SHOE FORMAL STYLE,51,510,5105,29,199,100,328,-.059266217,35,49.966248,.088414632,.60670733,137,517,Clothes and shoes,Clothing and footwear,Men,SD,Goods
+510506,WOMEN'S SANDALS,51,510,5105,82,141,102,325,0,19.99,22.325001,.25230768,.43384615,429,381,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510507,BOY'S SHOES,51,510,5105,31,114,164,309,0,22,28,.10032362,.36893204,158,302,Clothes and shoes,Clothing and footwear,Child,SD,Goods
+510508,GIRL'S SHOES SCHOOL,51,510,5105,43,131,133,307,0,17.99,19.99,.14006515,.4267101,243,375,Clothes and shoes,Clothing and footwear,Child,SD,Goods
+510515,MEN'S SHOE CASUAL STYLE,51,510,5105,45,159,124,328,-.00099902379,42.495003,47.644501,.13719513,.48475611,237,443,Clothes and shoes,Clothing and footwear,Men,SD,Goods
+510516,MEN'S TRAINING SHOE-SPORTSWEAR,51,510,5105,25,63,63,151,0,54.990002,49,.16556291,.41721854,294,363,Clothes and shoes,Clothing and footwear,Men,SD,Goods
+510517,WOMEN'S TRAINING SHOES,51,510,5105,19,54,78,151,0,47.990002,50.400002,.12582782,.35761589,212,283,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510528,CHILD'S TRAINERS-SPORTS,51,510,5105,47,56,47,150,0,30,31.669399,.31333333,.37333333,501,311,Clothes and shoes,Clothing and footwear,Child,SD,Goods
+510529,WOMANS BOOTS,51,510,5105,67,116,100,283,0,26,28.61046,.23674911,.40989399,407,352,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510530,HEEL,51,510,5105,47,143,138,328,0,20,27.994999,.14329268,.43597561,248,385,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510533,WOMENS SHOE,51,510,5105,79,113,114,306,0,22.99,25,.25816995,.36928105,438,305,Clothes and shoes,Clothing and footwear,Women,SD,Goods
+510534,WALKING/HIKING BOOT,51,510,5105,30,63,64,157,0,114.99,106.68,.19108281,.40127388,331,340,Clothes and shoes,Clothing and footwear,Unisex,SD,Goods
+510535,CANVAS FASHION ADULT SHOE/TRAI,51,510,5105,35,118,134,287,0,12,12.5,.12195122,.41114983,206.5,354,Clothes and shoes,Clothing and footwear,Unisex,SD,Goods
+520103,LADY'S UMBRELLA -FOLDING,52,520,5201,76,21,103,200,0,7.9899998,6.75,.38,.105,543,28,Other goods and services,Miscellaneous goods and services,Women,SD,Goods
+520109,LADIES HAND/SHLDER BAG,52,520,5201,45,70,92,207,0,17,21.327999,.2173913,.33816424,365,253,Other goods and services,Miscellaneous goods and services,Women,SD,Goods
+520118,FLOWER VASE,52,520,5201,11,85,111,207,-.0029910661,6.9899998,7.26261,.053140096,.41062802,75,353,Household,Miscellaneous goods and services,Unisex,SD,Goods
+520123,EARRINGS- FASHION,52,520,5201,71,118,115,304,0,4.5,4.5,.23355263,.3881579,397,326,Other goods and services,Miscellaneous goods and services,Women,D,Goods
+520130,SOLID GOLD RING 9CT,52,520,5201,27,127,59,213,-.065822661,295,312.48001,.12676056,.59624416,218,513,Other goods and services,Miscellaneous goods and services,Women,D,Goods
+520131,GENT'S WATCH- ANALOGUE FACE,52,520,5201,76,102,89,267,0,179,159,.28464419,.38202247,467,321,Other goods and services,Miscellaneous goods and services,Men,D,Goods
+520132,WALL HANGING MIRROR UPTO 1.5M,52,520,5201,41,168,90,299,-.089253232,30,39.989998,.13712375,.5618729,236,498,Household,"Furniture, household equipment and maintenance",Unisex,D,Goods
+520134,LUGGAGE TROLLEY CASE - 60-70CM,52,520,5201,38,48,45,131,0,40,38.299999,.29007635,.36641222,477,296,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
+520135,DIAMOND SOLITAIRE RING,52,520,5201,27,98,116,241,0,1150,1199.99,.1120332,.40663901,183,347,Other goods and services,Miscellaneous goods and services,Women,D,Goods
+520136,PHOTO FRAME,52,520,5201,33,74,113,220,0,8.9899998,9.3787794,.15000001,.33636364,260.5,250,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
+520137,STERLING SILVER EARRINGS,52,520,5201,68,56,118,242,0,19.99,19.99,.28099173,.23140496,463,129,Other goods and services,Miscellaneous goods and services,Women,D,Goods
+520138,SPECTACLE FRAMES WITH LENSE,52,520,5201,13,15,118,146,0,82.474998,84.974998,.089041099,.10273973,138,27,Medical and health,Health,Unisex,ND,Goods
+520139,DAILY DISPOSABLE SOFT LENSES,52,520,5201,9,18,119,146,0,30,30,.061643835,.12328767,94,39,Medical and health,Health,Unisex,ND,Goods
+520140,NECKLACE FASHION APX 16/20 INS,52,520,5201,78,114,141,333,0,6.9899998,6.6150002,.23423423,.34234235,400,258,Other goods and services,Miscellaneous goods and services,Women,D,Goods
+520141,MOBILE PHONE ACCESSORY,52,520,5201,26,128,198,352,0,12,12,.073863633,.36363637,116,293,Telphones and post,Miscellaneous goods and services,Unisex,D,Goods
+520142,RE-USABLE BOTTLE/MUG ADULT,52,520,5201,19,125,146,290,0,5.9899998,6.25,.065517239,.43103448,100,376.5,Household,,,,
+520202,INDIGESTION TABLETS 16-24 PACK,52,520,5202,7,16,135,158,0,2.4000001,2.4288001,.044303797,.10126583,61,24.5,Medical and health,Health,Unisex,ND,Goods
+520206,TAMPONS-PACK OF 10-20,52,520,5202,50,16,185,251,0,2,1.914,.19920319,.063745022,338,6,Other goods and services,Miscellaneous goods and services,Women,SD,Goods
+520209,TOOTHPASTE (SPECIFY SIZE),52,520,5202,28,28,104,160,0,1.2,1.2,.175,.175,310,80,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
+520213,TISSUES-LARGE SIZE BOX,52,520,5202,49,20,89,158,0,1.5,1.24655,.31012657,.12658228,497,41,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
+520215,MOISTURISER FACIAL 50-150ML,52,520,5202,44,50,117,211,0,3.99,3.35498,.2085308,.23696682,352,133,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
+520216,DEODORANT/ANTI PERSPI 50-250ML,52,520,5202,36,47,85,168,0,1.87,1.95,.21428572,.27976191,361.5,171,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
+520219,"DISP NAPPIES, SPEC TYPE, 20-60",52,520,5202,36,43,159,238,0,5,5,.15126051,.18067227,265,88,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
+520222,MULTI-VITAMINS CAPSULES/TABLET,52,520,5202,22,43,75,140,0,4.5,4.5074997,.15714286,.30714285,271,208,Medical and health,Health,Unisex,ND,Goods
+520223,MASCARA,52,520,5202,47,39,121,207,0,8,8.4404993,.22705314,.1884058,384,93,Other goods and services,Miscellaneous goods and services,Women,SD,Goods
+520226,SHAMPOO-250-400ML,52,520,5202,46,28,95,169,0,2.5,2.27088,.27218935,.16568047,455,68,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
+520227,PAIN KILLER TABLETS-16-24 PACK,52,520,5202,19,31,109,159,0,1.7,1.75,.11949685,.19496855,202,100,Medical and health,Health,Unisex,ND,Goods
+520228,PLASTERS-20-40 PACK,52,520,5202,40,31,86,157,0,1.99,1.8,.25477707,.19745223,434,101,Medical and health,Health,Unisex,ND,Goods
+520230,CONDOMS PACK OF 3-14,52,520,5202,61,10,86,157,0,7,7,.38853502,.063694268,546,5,Medical and health,Miscellaneous goods and services,Men,ND,Goods
+520234,PERFUME/EUD DE TOILETTE,52,520,5202,27,71,101,199,0,25,23.072001,.1356784,.35678393,232,281,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
+520235,SUNSCREEN - SPEC SIZE/SPF,52,520,5202,47,16,98,161,0,6,5.9899998,.29192546,.099378884,480,23,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
+520236,WOMENS HAIR COLOURANT 60-140ML,52,520,5202,18,8,99,125,0,6,6.4899998,.14399999,.064000003,250,7,Other goods and services,Miscellaneous goods and services,Women,SD,Goods
+520237,HAIR GEL 150-200ML,52,520,5202,18,33,97,148,0,3,3,.12162162,.22297297,205,120,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
+520238,SHOWER GEL 150-250ML,52,520,5202,51,17,99,167,0,1,1,.30538923,.1017964,490,26,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
+520241,RAZOR CARTRIDGE BLADES,52,520,5202,25,70,55,150,-.009390926,9,9.4146996,.16666667,.46666667,297,425.5,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
+520242,COLD/FLU DRINK POWDER,52,520,5202,5,70,83,158,0,4,4.572,.03164557,.44303799,40,396,Medical and health,Health,Unisex,ND,Goods
+520243,LIQUID FOUNDATION 30-35ML,52,520,5202,24,58,119,201,0,9.9799995,9.9899998,.11940298,.2885572,201,183,Other goods and services,Miscellaneous goods and services,Women,SD,Goods
+520244,TOOTHBRUSH,52,520,5202,57,57,138,252,0,1.65,1.7209499,.22619048,.22619048,382,123,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
+520245,ANTIHISTAMINE ALLERGY TABLETS,52,520,5202,73,26,125,224,0,3.48,3,.32589287,.11607143,511,36,Medical and health,Health,Unisex,ND,Goods
+520246,LIP GLOSS,52,520,5202,75,48,126,249,0,6.9899998,6.98,.30120483,.19277108,487,98,Other goods and services,Miscellaneous goods and services,Women,SD,Goods
+520247,LIQUID SOAP 200-300ML,52,520,5202,25,45,169,239,0,1,1,.10460251,.18828452,170,92,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
+520248,CONDITIONER FOR HAIR,52,520,5202,29,62,167,258,0,2,2,.1124031,.24031007,184,134,Other goods and services,Miscellaneous goods and services,Unisex,SD,Goods
+520249,BABY WIPES 50-85,52,520,5202,40,146,66,252,-.0548204,.89999998,.99000001,.15873016,.57936507,276,506,Other goods and services,Miscellaneous goods and services,Baby,SD,Goods
+520250,NAIL VARNISH BOTTLE 6 - 14mls,52,520,5202,51,13,149,213,0,3.49,3.49,.23943663,.061032865,414,4,Other goods and services,Miscellaneous goods and services,Women,SD,Goods
+520251,COUGH LIQUID BOTTLE 150-200MLS,52,520,5202,14,115,124,253,0,4.75,5.4079499,.055335969,.45454547,80,410,Medical and health,Health,Unisex,ND,Goods
+520252,BODY M'RISING LOTION 200-400ML,52,520,5202,67,38,163,268,0,4,4,.25,.14179105,427,55,Medical and health,Miscellaneous goods and services,Unisex,ND,Goods
+520253,SELF TANNING PRODUCT,52,520,5202,68,97,179,344,0,7,7.0105,.19767442,.28197673,336,174,Medical and health,,,,
+520301,MAN'S HAIRCUT,52,520,5203,11,236,9,256,-.017681759,15,15.27,.04296875,.921875,59,569,Other goods and services,Miscellaneous goods and services,Men,S,Services
+520303,WOMEN'S HRDRESSING-CUT/BLOWDRY,52,520,5203,8,222,10,240,-.017681759,37,38.346451,.033333335,.92500001,42,571,Other goods and services,Miscellaneous goods and services,Women,S,Services
+520311,WOMENS HIGHLIGHTING,52,520,5203,9,219,11,239,-.017681759,71,73.32,.037656903,.916318,49,566,Other goods and services,Miscellaneous goods and services,Women,S,Services
+520313,NON-NHS MEDICINE-PHYSIOTHERAPY,52,520,5203,17,39,74,130,0,48,50,.13076924,.30000001,227,195,Medical and health,Health,Unisex,S,Services
+520324,RESIDENTIAL HOME,52,520,5203,10,71,64,145,-.02391202,795,825,.068965517,.48965517,108,449,Other goods and services,Miscellaneous goods and services,Unisex,S,Services
+520325,NURSING HOME,52,520,5203,4,59,67,130,0,950,972.63501,.030769231,.45384616,39,409,Medical and health,Miscellaneous goods and services,Unisex,S,Services
+520326,PRIVATE DENTAL EXAMINATION,52,520,5203,6,61,78,145,0,46,45.27,.04137931,.42068964,58,367,Medical and health,Health,Unisex,S,Services
+520331,BASIC MANICURE,52,520,5203,8,103,3,114,-.017681697,20,20.360001,.070175439,.90350878,110,561,Other goods and services,Miscellaneous goods and services,Women,S,Services
+520332,NON NHS CHIROPRACTOR,52,520,5203,4,44,90,138,0,55,56.264999,.028985508,.31884059,36,222,Medical and health,Health,Unisex,S,Services
+610204,"CAR TYRE, STATE SIZE",61,610,6102,37,116,48,201,-.029126186,70,74.303993,.1840796,.5771144,318,505,Cars and transport,Transport,Unisex,SD,Goods
+610221,WINDSCREEN WIPER BLADES,61,610,6102,6,54,89,149,0,8.4899998,9.64048,.040268455,.36241612,57,290,Cars and transport,Transport,Unisex,SD,Goods
+610227,"CAR MOT TEST FEE, VAT EXEMPT",61,610,6102,16,41,253,310,0,45,45,.051612902,.13225806,71,44,Cars and transport,Transport,Unisex,S,Services
+610231,CAR SERVICE- LOCAL GARAGE,61,610,6102,5,23,70,98,0,168,169.5,.05102041,.23469388,69,132,Cars and transport,Transport,Unisex,S,Services
+610232,CAR SERVICE- MAIN DEALER,61,610,6102,12,23,51,86,0,229,228.67999,.13953489,.26744187,241,161,Cars and transport,Transport,Unisex,S,Services
+610235,CAR REPAIRS MAIN DEALER,61,610,6102,7,13,67,87,0,118.8,119.6316,.080459774,.14942528,128,59,Cars and transport,Transport,Unisex,S,Services
+610236,CAR REPAIRS LOCAL GARAGE,61,610,6102,6,13,82,101,0,60,60,.059405942,.12871288,92,42,Cars and transport,Transport,Unisex,S,Services
+610237,CAR BULB 12 VOLT SPECIFY WATTS,61,610,6102,15,31,101,147,0,3.5,3.5,.10204082,.21088435,166.5,109,Cars and transport,Transport,Unisex,SD,Goods
+610238,CAR WASH HAND OR AUTOMATIC,61,610,6102,13,30,63,106,0,5,5,.12264151,.28301886,208,177,Cars and transport,Transport,Unisex,S,Services
+610239,EXHAUST FITTING FAST FIT CENT,61,610,6102,21,46,21,88,-.0024935126,342.625,343.47922,.23863636,.52272725,412,480,Cars and transport,Transport,Unisex,S,Services
+610241,WHEEL ALIGNMENT,61,610,6102,10,12,76,98,0,49.950001,50.169575,.10204082,.12244898,166.5,38,Cars and transport,Transport,Unisex,S,Services
+610303,OIL PER LITRE-MULTIGRADE,61,610,6103,34,41,48,123,0,10,10.8,.27642277,.33333334,460,243.5,Cars and transport,Transport,Unisex,ND,Goods
+620303,SELF-DRIVE VAN HIRE,62,620,6203,24,86,136,246,0,60,63,.097560972,.34959349,152,269,Cars and transport,Transport,Unisex,S,Services
+620304,PUSHCHAIR/STROLLER,62,620,6203,8,72,29,109,-.077490762,159.99001,170.11501,.073394492,.66055048,115,530,Other goods and services,Miscellaneous goods and services,Baby,SD,Goods
+620307,SELF-DRIVE CAR HIRE BASIC 24HR,62,620,6203,37,121,55,213,-.082146034,69.839996,77.902504,.17370892,.56807512,308,499,Cars and transport,Transport,Unisex,S,Services
+620308,MINICAB FARE FOR 2 MILES,62,620,6203,4,34,93,131,0,6,6.0500002,.030534351,.25954199,38,150,Cars and transport,Transport,Unisex,S,Services
+620315,CAR PARK CHARGES,62,620,6203,7,61,194,262,0,2.3,2.4012003,.026717557,.23282443,31,130,Cars and transport,Transport,Unisex,S,Services
+620317,CHILDS BICYCLE,62,620,6203,13,167,61,241,-.10554568,110,117.58823,.053941909,.69294608,76,535,Cars and transport,Transport,Child,D,Goods
+620318,ADULT BIKE,62,620,6203,14,161,67,242,-.1111111,274.98999,300.64941,.05785124,.66528928,87,533,Cars and transport,Transport,Unisex,D,Goods
+620319,CYCLE HELMET 12+ SPEC ROAD/MOU,62,620,6203,50,71,168,289,0,30,30,.17301038,.24567474,306,138,Cars and transport,Clothing and footwear,Unisex,SD,Goods
+630138,DIGITAL RADIO (DAB),63,630,6301,25,91,77,193,-.0069513191,89.989998,89.989998,.12953368,.4715026,225,432,"Relaxing, culture and hobbies",Recreation and culture,Unisex,D,Goods
+630156,HEADPHONES/EARPHO SPECIFY TYPE,63,630,6301,54,143,173,370,0,20,22.99,.14594595,.3864865,255,325,"Relaxing, culture and hobbies",Recreation and culture,Unisex,D,Goods
+630159,OR SMALLER,63,630,6301,41,178,78,297,-.041227184,199,203.179,.13804714,.59932661,240,515,"Relaxing, culture and hobbies",Recreation and culture,Unisex,D,Goods
+630160,OR LARGER,63,630,6301,42,200,45,287,-.10873438,449,530.67004,.14634146,.69686413,256,536,"Relaxing, culture and hobbies",Recreation and culture,Unisex,D,Goods
+630162,PORTABLE SPEAKER,63,630,6301,74,170,95,339,-.030067924,69.989998,80.011002,.21828909,.50147492,367,466,"Relaxing, culture and hobbies",Recreation and culture,Unisex,D,Goods
+630164,DVD/BLU RAY PLAYER,63,630,6301,137,59,77,273,.042752847,59,59,.50183153,.21611722,574,114,"Relaxing, culture and hobbies",,,,
+630165,PORTABLE DIGITAL MUSIC PLAYER,63,630,6301,48,36,63,147,0,199,199,.32653061,.24489796,513,137,"Relaxing, culture and hobbies",,,,
+630226,RECORDABLE CD PRICE PER CD,63,630,6302,12,106,108,226,-.033816382,.40000001,.40000001,.053097345,.46902654,74,429,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
+630228,PRE-RECORDED DVD (FILM),63,630,6302,13,16,13,42,0,10,10,.30952382,.38095239,495,319,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
+630229,PRE-RECORDED DVD (NON-FILM),63,630,6302,0,15,15,30,-.0049751434,5,5.0250001,0,.5,5,462.5,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
+630230,CD ALBUM (TOP 40),63,630,6302,2,27,8,37,-.2006395,10,12.51,.054054055,.72972971,77,542,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
+630231,CD ALBUM (NOT CHART),63,630,6302,10,13,12,35,0,5,5,.2857143,.37142858,469.5,308,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
+630233,BLU RAY DISC (FILM) FROM CHART,63,630,6302,10,17,14,41,0,15,15,.24390244,.41463414,422,358,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
+630309,BOXED BOARD GAME: NOT TRAVEL,63,630,6303,22,87,65,174,-.018645747,20,22.208889,.12643678,.5,215.5,462.5,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
+630312,CHILD'S PLASTIC DOLL,63,630,6303,62,46,92,200,0,10.4,9.9972,.31,.23,496,124,"Relaxing, culture and hobbies",Recreation and culture,Child,SD,Goods
+630313,MODEL RD VEHICLE EG HOT WHEELS,63,630,6303,68,30,96,194,0,1.85,1.85,.35051546,.15463917,529,60,"Relaxing, culture and hobbies",Recreation and culture,Child,SD,Goods
+630314,CONSTRUCTION TOY: SPEC KIT NO,63,630,6303,73,16,88,177,0,10,10,.41242939,.09039548,551,19,"Relaxing, culture and hobbies",Recreation and culture,Child,SD,Goods
+630317,"SLEEPING BAG, ADULT",63,630,6303,16,52,80,148,0,30,33.489502,.10810811,.35135135,178,271,Household,Recreation and culture,Unisex,SD,Goods
+630332,CHILD'S SOFT TOY/TEDDY BEAR,63,630,6303,52,49,101,202,0,8,8.1690006,.25742576,.24257426,437,135,"Relaxing, culture and hobbies",Recreation and culture,Child,SD,Goods
+630336,FOOTBALL,63,630,6303,11,74,58,143,-.00099903846,16,16.784,.07692308,.51748252,120,474,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
+630340,CARBON FIBRE FISHING ROD,63,630,6303,5,32,49,86,0,56.490002,57.490002,.058139537,.37209302,88,309,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
+630341,PRESCHOOL ACTIVITY TOY,63,630,6303,40,54,74,168,0,10.75,11.62125,.23809524,.32142857,411,226,"Relaxing, culture and hobbies",Recreation and culture,Child,SD,Goods
+630342,BEGINNER'S ACOUSTIC GUITAR,63,630,6303,19,23,43,85,0,99,99.197998,.22352941,.27058825,375,163.5,"Relaxing, culture and hobbies",Recreation and culture,Unisex,D,Goods
+630343,MEN'S FOOTBALL BOOTS,63,630,6303,21,43,53,117,0,60,69.019997,.17948718,.36752138,312,298,"Relaxing, culture and hobbies",Recreation and culture,Men,SD,Goods
+630345,GOLF BALLS PRICE PER BALL,63,630,6303,9,43,81,133,0,1,1,.067669176,.32330826,104,229,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
+630347,CHILD'S BABY DOLL,63,630,6303,38,66,70,174,0,15,14.942499,.21839081,.37931034,368,316,"Relaxing, culture and hobbies",Recreation and culture,Child,SD,Goods
+630357,SQUASH/TENNIS RACQUET,63,630,6303,9,44,82,135,0,21,22.070999,.06666667,.32592592,101,234,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
+630358,PORTABLE DIGITAL STORAGE DEVIC,63,630,6303,54,99,85,238,0,9.9949999,11.62473,.22689076,.41596639,383,359,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
+630359,DIGITAL DEVELOPMENT PER PRINT,63,630,6303,5,75,48,128,-.0079365345,.55000001,.55440003,.0390625,.5859375,54,508,"Relaxing, culture and hobbies",Recreation and culture,Unisex,S,Services
+630365,CRAFT KIT FOR CHILD 5 YRS+,63,630,6303,102,26,97,225,.0020040222,9.5299997,8.3216696,.45333335,.11555555,564,35,"Relaxing, culture and hobbies",Recreation and culture,Child,SD,Goods
+630368,ELECTRONIC EDUCATIONAL TOY,63,630,6303,20,107,78,205,-.0049751475,18,18,.097560972,.5219512,152,479,"Relaxing, culture and hobbies",Recreation and culture,Child,SD,Goods
+630369,CHARCOAL BBQ NOT DISPOSABLE,63,630,6303,14,73,119,206,-.11660775,0,0,.067961164,.35436893,105,277,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
+630373,JIGSAW MINIMUM 100 PIECES,63,630,6303,100,37,80,217,.055966202,10,9.9373493,.4608295,.17050691,567,76,"Relaxing, culture and hobbies",Recreation and culture,Unisex,ND,Goods
+630374,CHILDS SCOOTER AGE 5-12 YEARS,63,630,6303,60,62,96,218,0,35,30.017,.27522936,.28440368,459,180,"Relaxing, culture and hobbies",Recreation and culture,Child,D,Goods
+630376,CHILDS SIT & RIDE TOY U'ER 5'S,63,630,6303,92,46,76,214,.040582668,32.990002,30,.42990655,.21495327,557,112,"Relaxing, culture and hobbies",Recreation and culture,Child,SD,Goods
+630377,ACTION CAMERA,63,630,6303,74,24,37,135,.17508812,39.990002,39.990002,.54814816,.17777778,578,83,"Relaxing, culture and hobbies",Recreation and culture,Unisex,D,Goods
+630378,COMPUTER GAME 1,63,630,6303,20,4,5,29,.025640985,39,38.025002,.68965518,.13793103,586,53.5,"Relaxing, culture and hobbies",,,,
+630379,COMPUTER GAME 2,63,630,6303,16,10,3,29,.1207047,45,36.674999,.55172414,.34482759,579,261,"Relaxing, culture and hobbies",,,,
+630380,COMPUTER GAME 3,63,630,6303,16,5,7,28,.66389346,30,18,.5714286,.17857143,580,85,"Relaxing, culture and hobbies",,,,
+630381,HAND WEIGHTS FOR HOME EXERCISE,63,630,6303,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,"Relaxing, culture and hobbies",,,,
+630381,HAND WEIGHTS FOR HOME EXERCISE,63,630,6303,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,"Relaxing, culture and hobbies",,,,
+630381,HAND WEIGHTS FOR HOME EXERCISE,63,630,6303,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,"Relaxing, culture and hobbies",,,,
+630381,HAND WEIGHTS FOR HOME EXERCISE,63,630,6303,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,"Relaxing, culture and hobbies",,,,
+630381,HAND WEIGHTS FOR HOME EXERCISE,63,630,6303,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,"Relaxing, culture and hobbies",,,,
+630381,HAND WEIGHTS FOR HOME EXERCISE,63,630,6303,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,"Relaxing, culture and hobbies",,,,
+630381,HAND WEIGHTS FOR HOME EXERCISE,63,630,6303,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,"Relaxing, culture and hobbies",,,,
+630381,HAND WEIGHTS FOR HOME EXERCISE,63,630,6303,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,"Relaxing, culture and hobbies",,,,
+630381,HAND WEIGHTS FOR HOME EXERCISE,63,630,6303,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,"Relaxing, culture and hobbies",,,,
+630381,HAND WEIGHTS FOR HOME EXERCISE,63,630,6303,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,"Relaxing, culture and hobbies",,,,
+630381,HAND WEIGHTS FOR HOME EXERCISE,63,630,6303,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,"Relaxing, culture and hobbies",,,,
+630381,HAND WEIGHTS FOR HOME EXERCISE,63,630,6303,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,"Relaxing, culture and hobbies",,,,
+630381,HAND WEIGHTS FOR HOME EXERCISE,63,630,6303,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,"Relaxing, culture and hobbies",,,,
+630381,HAND WEIGHTS FOR HOME EXERCISE,63,630,6303,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,"Relaxing, culture and hobbies",,,,
+630381,HAND WEIGHTS FOR HOME EXERCISE,63,630,6303,56,83,57,196,0,15.995,15.08717,.2857143,.42346939,469.5,372,"Relaxing, culture and hobbies",,,,
+630422,BOOK-REFERENCE (EG ATLAS/DICT),63,630,6304,42,74,66,182,0,10,10.9789,.23076923,.40659341,388.5,346,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
+630425,BOOK-NON-FICTION-HARD-COVER,63,630,6304,42,143,15,200,-.18831165,14,16.87401,.20999999,.71499997,354,537,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
+630426,BOOK-NON-FICTION-PAPER-BACK,63,630,6304,42,111,38,191,-.089253239,8.9899998,9.4574804,.21989529,.58115184,370,507,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
+630434,BOOK ILLUSTRATED FOR UNDER 5,63,630,6304,19,83,86,188,0,5.9899998,6.1936598,.10106383,.44148937,161,393,"Relaxing, culture and hobbies",Recreation and culture,Child,SD,Goods
+630435,BOOK - FICTION - HARD COVER,63,630,6304,46,141,39,226,-.22299916,11,13.42,.20353982,.6238938,346,520,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
+630437,BOOK - TEENAGE FICTION,63,630,6304,23,100,63,186,-.062792905,7.9899998,7.9899998,.12365592,.53763443,209,490,"Relaxing, culture and hobbies",Recreation and culture,Child,SD,Goods
+630439,BOOK FICTION P/BACK TOP 10,63,630,6304,21,142,65,228,-.10152742,7.4899998,7.4899998,.092105262,.62280703,143,519,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
+630440,"CHILDS BOOK, FICTION 6-12YRS",63,630,6304,9,128,68,205,-.10873438,6.9899998,7.5142503,.043902438,.62439024,60,521,"Relaxing, culture and hobbies",Recreation and culture,Unisex,SD,Goods
+630505,GARDEN SPADE,63,630,6305,11,63,78,152,-.018645745,14.95,14.95,.072368421,.41447368,113,357,Household,Recreation and culture,Unisex,D,Goods
+630507,HOUSEPLANT,63,630,6305,105,45,45,195,.037344404,4,4.3739996,.53846157,.23076923,577,126.5,"Relaxing, culture and hobbies",Recreation and culture,Unisex,ND,Goods
+630510,POTTING COMPOST,63,630,6305,19,63,59,141,-.030067869,5.8000002,4.6031699,.13475177,.44680852,230,401,"Relaxing, culture and hobbies",Recreation and culture,Unisex,ND,Goods
+630518,CUT FLOWERS-CARNATIONS-STEM,63,630,6305,61,46,63,170,0,.40000001,.43210003,.35882354,.27058825,533,163.5,"Relaxing, culture and hobbies",Recreation and culture,Unisex,ND,Goods
+630519,POTTED SHRUB,63,630,6305,16,59,60,135,-.010880314,3,3.033,.11851852,.43703705,197,387,"Relaxing, culture and hobbies",Recreation and culture,Unisex,ND,Goods
+630520,"MOWER ELECTRIC, SPECIFY TYPE",63,630,6305,15,74,66,155,-.061032932,79.989998,80,.096774191,.47741935,149,439,Household,Recreation and culture,Unisex,D,Goods
+630525,PLANT FOOD 800ML-2LT/500G-1.5K,63,630,6305,38,41,74,153,0,4,4.2014699,.24836601,.26797387,425,162,"Relaxing, culture and hobbies",Recreation and culture,Unisex,ND,Goods
+630526,"SEEDS,PKT,SPEC VAR(SEASONAL)",63,630,6305,23,43,95,161,0,1.5,1.5239501,.14285715,.26708075,247,159,"Relaxing, culture and hobbies",Recreation and culture,Unisex,ND,Goods
+640212,THEATRE ADULT EVES-FRONT STLLS,64,640,6402,10,32,20,62,-.065420628,22.25,23.73225,.16129032,.51612902,286.5,472,"Relaxing, culture and hobbies",Recreation and culture,Unisex,S,Services
+640219,SWIMMING POOL ADM STND ADULT,64,640,6402,1,134,0,135,-.0059642564,4.9000001,4.9797001,.0074074073,.99259257,12,586,"Relaxing, culture and hobbies",Recreation and culture,Unisex,S,Services
+640222,EXERCISE CLASS UPTO 1HR,64,640,6402,3,123,2,128,-.031007681,6.6499996,7.0778995,.0234375,.9609375,29,583,"Relaxing, culture and hobbies",Recreation and culture,Unisex,S,Services
+640224,TEN-PIN BOWLING PER GAME,64,640,6402,12,108,0,120,-.027237343,7,7.1960001,.1,.89999998,156,560,"Relaxing, culture and hobbies",Recreation and culture,Unisex,S,Services
+640226,PRIVATE HEALTH CLUB ANNUAL FEE,64,640,6402,8,97,2,107,-.017681763,384,400.51199,.074766353,.90654206,118,564,"Relaxing, culture and hobbies",Recreation and culture,Unisex,S,Services
+640240,LIVERY CHARGES PER WEEK,64,640,6402,0,16,83,99,0,95,98.080002,0,.16161616,5,66,"Relaxing, culture and hobbies",Recreation and culture,Unisex,D,Goods
+640243,SOFT PLAY SESSION TIME PERIOD,64,640,6402,0,125,0,125,-.027237345,6,6.1680002,0,1,5,588,"Relaxing, culture and hobbies",Recreation and culture,Child,S,Services
+640406,HOTEL 1 NIGHT PRICE,64,640,6404,7,54,29,90,-.1749175,71.25,87.922127,.077777781,.60000002,123.5,516,Eating out and hotels,Restaurants and hotels,Unisex,S,Services
