@@ -1,0 +1,24 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "description": "A scatterplot showing body mass and flipper lengths of penguins.",
+  "data": {
+    "url": "https://raw.githubusercontent.com/RDeconomist/prices/master/bitter2020small.csv"
+  },
+  "mark": "point",
+  "height": 450,
+  "width": 800,
+  "encoding": {
+    "x": {
+      "field": "price",
+      "type": "quantitative",
+      "scale": {"zero": false}
+    },
+    "y": {
+      "field": "number",
+      "type": "quantitative",
+      "scale": {"zero": false}
+    },
+  
+    "color": {"field": "year", "type": "nominal", "scale": {"scheme": "viridis"}}
+  }
+}
