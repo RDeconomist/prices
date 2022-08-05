@@ -1,0 +1,45 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+   "title": {
+    "text": "UK prices: inflation drivers",
+    "subtitle": ["Price rises, top items, source: Davies (2022)", ""],
+    "subtitleFontStyle":"italic",
+    "subtitleFontSize":10,
+    "anchor": "start",
+    "color": "black"
+ },
+
+  "repeat": ["upSh12m", "upCh12m"],
+
+  "transform": [
+    {"filter":"datum.inflRank<31"},
+    {"filter":"datum.inflRank>0"},
+    {"filter":"datum.span>350"}
+  ],
+
+  "columns": 2,
+
+  "spec": {
+    "data": {"url": "https://raw.githubusercontent.com/RDeconomist/prices/master/db_priceChangeThisMonth.csv"},
+     
+     "mark":{
+        "type": "bar",
+        "color": "#2a06f7",
+        "barWidth":2,
+        "opacity":1},
+
+    "encoding": {
+      "x": {
+        "field": {"repeat": "repeat"},       
+        "type": "quantitative", 
+        "title": null},
+      
+      "y": {
+        "field": "desc_short", 
+        "type": "ordinal", 
+        "sort":[], 
+        "title": null},
+    }
+  }
+}

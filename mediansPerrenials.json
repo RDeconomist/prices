@@ -1,0 +1,66 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    
+    "width": 120, "height": 120,
+  
+    "title": {
+      "text": "The UK shopping basket, 1988-2022",
+      "subtitle":["Median prices, rebased so that 1988=1, items that have been present in the consumer basket since 1988.","Some high inflation tobacco items have been removed to make chart more readable.", ""],
+      "subtitleFontStyle":"italic",
+      "subtitleFontSize":10,
+      "anchor": "start",
+      "color": "black"
+    },
+    
+    "data": {"url": "https://raw.githubusercontent.com/RDeconomist/prices/master/db_percentilesPerennials.csv"},
+  
+    "transform": [
+      
+      {"filter":"datum.decile==10"},
+  
+      {"filter":"datum.desc_short!='Cigarettes'"},
+  
+      {"filter":"datum.desc_short!='Cigars'"}
+    ],
+  
+   
+    "mark": {
+      "type":"line",
+      "orient":"vertical",
+      "opacity": 1
+    },
+    
+    "encoding": {
+  
+      "facet":{
+        "field":"desc_short",
+        "columns": 4,
+        "title":null,
+        "align":"each",
+        "spacing": 5},
+    
+      "x": {
+        "field": "year",
+        "type": "temporal",
+        "title": null
+      },
+  
+      "y": {
+        "field": "medianRebase",
+        "type": "quantitative",
+        "title":null
+      },
+  
+      "color": {
+        "legend":null,
+        "field": "decile",
+        "scale": {"range": ["#000080"]}
+      },
+  
+      "order": {"field": "decile"}
+  
+    },
+  
+    "XYZresolve": {"scale": {"y": "independent"}}
+  }
+  
