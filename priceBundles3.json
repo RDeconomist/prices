@@ -39,7 +39,6 @@
         "type": "quantitative",
         "aggregate":"mean",
         "title":null,
-        "scale":{"domain":[0, 15]},
         "axis":{"grid": false}
       },
 
