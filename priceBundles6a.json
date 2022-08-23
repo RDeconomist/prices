@@ -2,7 +2,7 @@
 
   "title": {
   "text": "Price evolution, 1990-2022",
-  "subtitle": ["Prices collected for Driving Lessons, UK, Source: ONS",""],
+  "subtitle": ["Driving lessons (1h). Source: ONS",""],
   "subtitleFontStyle":"italic",
   "subtitleFontSize":10,
   "anchor": "start",

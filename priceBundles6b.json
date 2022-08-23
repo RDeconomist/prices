@@ -2,7 +2,7 @@
 
   "title": {
   "text": "Price evolution, 1990-2022",
-  "subtitle": ["Prices collected for Driving Lessons, UK, Source: ONS",""],
+  "subtitle": ["Prices collected for Garden Spades, UK, Source: ONS",""],
   "subtitleFontStyle":"italic",
   "subtitleFontSize":10,
   "anchor": "start",
@@ -17,7 +17,7 @@
   "height":300,
 
   "data": {
-      "url": "https://raw.githubusercontent.com/RDeconomist/prices/master/prices_440105.csv"},
+      "url": "https://raw.githubusercontent.com/RDeconomist/prices/master/prices_630505.csv"},
 
 
 
