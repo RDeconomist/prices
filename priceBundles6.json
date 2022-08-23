@@ -1,0 +1,63 @@
+{"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "title": {
+  "text": "Price distributions, 1990-2022",
+  "subtitle": ["Prices collected for Driving Lessons, UK, Source: ONS",""],
+  "subtitleFontStyle":"italic",
+  "subtitleFontSize":10,
+  "anchor": "start",
+  "color": "black"},
+
+  "config": {
+    "background":"#ffffff",
+    "view": {
+      "stroke": "transparent"}},
+
+  "width":30,
+  "height":300,
+
+  "data": {
+      "url": "https://raw.githubusercontent.com/RDeconomist/prices/master/prices_440105.csv"},
+
+
+
+  "mark":{
+      "type": "bar",    
+      "color":"#00BFFF",
+      "width": 5,
+      "strokeWidth":2,
+      "opacity":1},
+
+      "encoding": {
+        "y": {
+          "bin": {
+            "step": 1
+          },
+          "field": "price",
+          "title":null,
+          "type": "quantitative",
+          "axis":{
+              "grid": false},
+          "scale":{
+                "zero":true}          
+          },
+
+        "x": {
+          "aggregate":"count",
+          "title":null,
+          "axis":{"grid": false}   
+          },        
+
+        "facet":{
+          "field":"year",
+          "title":null,
+          "columns": 8},
+
+        "color":{
+          "field":"price",
+          "type": "quantitative",
+          "scale":{"scheme":"viridis"},
+          "legend":null}
+          
+      }
+}

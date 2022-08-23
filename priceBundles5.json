@@ -1,8 +1,8 @@
 {"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 
   "title": {
-  "text": "Consumer bundles, price, 1988-2022",
-  "subtitle": "Price of consumer items, by decile, 1988-2022",
+  "text": "Distrubution of prices, 1990-2022",
+  "subtitle": "Distribution of prices, 1990-2020",
   "subtitleFontStyle":"italic",
   "subtitleFontSize":10,
   "anchor": "start",
@@ -21,22 +21,36 @@
 
 
   "transform": [
+    
     {"window": [{"op": "rank", "as": "id"}], "groupby": ["price", "year"]},
-    {"calculate": "2*datum.id", "as": "val"}
+    
+    {"calculate": "2*datum.id", "as": "val"},
+
+    {"xxfilter":"datum.year<2021"}
+
     ],
 
   "mark": {
-  	"type": "circle",
+  	"type": "point",
     "size":5,
-  	"opacity": 1
+  	"opacity": 1,
+    "strokeWidth":1
   },
   "encoding": {
-    "y": {"field": "price", "type": "quantitative", "sort":"ascending"},
+    "y": {
+        "field": "price", 
+        "type": "quantitative", 
+        "sort":"ascending"},
     
-    "x": {"field": "val", "type": "ordinal", "axis": null, "sort": "ascending"},
+    "x": {
+        "field": "val", 
+        "type": "ordinal", 
+        "axis": null, 
+        "sort": "ascending"},
     
     "facet": {
       "field":"year",
+      "title":null,
       "columns": 8}
   }
 }
