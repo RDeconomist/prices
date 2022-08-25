@@ -1,0 +1,57 @@
+{"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "title": {
+  "text": "Consumer bundles, price, 1988-2022",
+  "subtitle": "Price of consumer items, by decile",
+  "subtitleFontStyle":"italic",
+  "subtitleFontSize":10,
+  "anchor": "start",
+  "color": "black"},
+
+  "config": {
+    "background":"#ffffff",
+    "view": {
+      "stroke": "transparent"}},
+
+  "width":300,
+  "height":300,
+
+  "data": {
+      "url": "https://raw.githubusercontent.com/RDeconomist/prices/master/db_CPIbyPercetileAnnual.csv"},
+
+  
+  "mark":{
+      "type": "line",    
+      "color":"#00BFFF",
+      "width": 20,
+      "strokeWidth":2,
+      "opacity":1},
+
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "temporal",
+          "title":null,
+          "axis":{"grid": false}          
+          },
+
+        "y": {
+          "field": "pWs",                
+          "type": "quantitative",
+          "title":null,
+          "scale":{"domain":[0, 100]},
+          "axis":{"grid": false}
+        },
+
+         "color": {
+          "field": "percentile",                
+          "type": "ordinal",
+          "title":null,
+          "legend":{
+            "orient": "top-left",
+            "columns":3}
+        }
+      }
+}
+    
+    
