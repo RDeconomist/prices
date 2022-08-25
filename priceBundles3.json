@@ -35,7 +35,7 @@
         },
 
       "y": {
-        "field": "infl",             
+        "field": "inflW",             
         "type": "quantitative",
         "aggregate":"mean",
         "title":null,
