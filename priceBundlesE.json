@@ -39,7 +39,9 @@
         "type": "quantitative",
         "aggregate":"mean",
         "title":null,
-        "axis":{"grid": false}
+        "axis":
+        {"grid": false,
+        "format":"%"}
       },
 
       "facet": {
