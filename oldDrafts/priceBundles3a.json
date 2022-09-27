@@ -17,29 +17,28 @@
   "height":300,
 
   "data": {
-      "url": "https://raw.githubusercontent.com/RDeconomist/prices/master/db_CPIbyPercetile.csv"},
+      "url": "https://raw.githubusercontent.com/RDeconomist/prices/master/db_CPIbyThreeGroups.csv"},
 
   "mark":{
       "type": "bar",    
       "color":"#00BFFF",
-      "width": 20,
+      "width": 60,
       "strokeWidth":2,
       "opacity":1},
 
     "encoding": {
       "x": {
-        "field": "percentile",
-        "type": "quantitative",
+        "field": "group",
+        "type": "ordinal",
         "title":null,
         "axis":{"grid": false}          
         },
 
       "y": {
-        "field": "infl",             
+        "field": "inflW",             
         "type": "quantitative",
         "aggregate":"mean",
         "title":null,
-        "scale":{"domain":[0, 15]},
         "axis":{"grid": false}
       },
 

@@ -2,7 +2,7 @@
 
   "title": {
   "text": "Consumer bundles, price, 1988-2022",
-  "subtitle": "Price of consumer items, by decile, 1988-2022",
+  "subtitle": "Price of consumer items, by decile",
   "subtitleFontStyle":"italic",
   "subtitleFontSize":10,
   "anchor": "start",
@@ -36,10 +36,10 @@
           },
 
         "y": {
-          "field": "p",                
+          "field": "pWs",                
           "type": "quantitative",
           "title":null,
-          "scale":{"domain":[0, 120]},
+          "scale":{"domain":[0, 100]},
           "axis":{"grid": false}
         },
 
@@ -48,8 +48,8 @@
           "type": "ordinal",
           "title":null,
           "legend":{
-            "orient": "bottom-right",
-            "columns":2}
+            "orient": "top-left",
+            "columns":3}
         }
       }
 }

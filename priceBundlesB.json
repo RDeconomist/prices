@@ -1,0 +1,50 @@
+{"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "title": {
+  "text": "The spread of prices - garden spades - 2022",
+  "subtitle": ["ONS price quotes: price and frequency", ""],
+  "subtitleFontStyle":"italic",
+  "subtitleFontSize":10,
+  "anchor": "start",
+  "color": "black"},
+
+  "config": {
+    "background":"#ffffff",
+    "view": {
+      "stroke": "transparent"}},
+
+  "width":400,
+  "height":250,
+
+  "data": {
+      "url": "https://raw.githubusercontent.com/RDeconomist/prices/master/prices_630505.csv"},
+
+
+  "transform": [
+    {"window": [{"op": "rank", "as": "id"}], "groupby": ["price", "year"]},
+    {"filter":"datum.year==2022"}
+    ],
+
+  "mark": {
+  	"type": "circle",
+    "size":5,
+  	"opacity": 1,
+    "strokeWidth":1
+  },
+  "encoding": {
+    "x": {
+        "field": "price",
+        "title":null, 
+        "type": "quantitative",
+        "axis":{
+              "grid": false,
+              "labels":true}, 
+        "sort":"ascending",
+        "scale":{"zero":false}},
+    
+    "y": {
+        "field": "id", 
+        "type": "ordinal", 
+        "axis": null, 
+        "sort": "descending"}}
+}
